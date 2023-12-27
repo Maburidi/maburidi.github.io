@@ -41,8 +41,8 @@ lng_pair: id_links
 ###########################################################
 page_data:
   main:
-    header: "Links"
-    info: "Awards, Fellowships and Funding"
+    header: "Funding"
+    info: ""
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
