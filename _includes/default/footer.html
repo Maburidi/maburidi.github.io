@@ -56,9 +56,9 @@
               {{ img_template | replace: '$lic_type', 'cc' }}
               {%- if site.data.conf.main.creative_commons.add_all_icons -%}
                 {{ img_list }}
-              {%- endif -%}
+              {%- endif -%}--> 
               <p>{{ site.data.lang[lng].creative_commons.some_rights_reserved }}</p>
-            </a> -->
+            </a> 
           {%- endif -%}
         </div>
       {% endif -%}
