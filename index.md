@@ -45,9 +45,9 @@ img: ":home-heading.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
+<h3>Hello! </h3>	
 
 
-sscc 
-Hello there
+
 
 
