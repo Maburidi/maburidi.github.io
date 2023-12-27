@@ -16,7 +16,7 @@ img: ":sitlpos/1.png"
 #comments_disable: true
 
 # publish date
-date: 2023-22-12 10:04:30 +0900
+date: 2023-12-23 10:04:30 +0900
 
 # seo
 # if not specified, date will be used.
