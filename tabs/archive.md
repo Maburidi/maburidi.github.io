@@ -1,5 +1,5 @@
 ---
-layout: archives2
+layout: archives
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_archives
 

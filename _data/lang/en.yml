@@ -141,13 +141,13 @@ home:
 
 # for archives layout
 archives:
-  title: Archive
+  title: News Archive
   button_name: Archive
   page_header: Archive
 
 # for about layout
 about:
-  title: About
+  title: Contact
   button_name: About
   email_title: email
 
@@ -166,8 +166,8 @@ projects:
   read_less_text: Read less
 
 # for privacy-policy layout
-privacy-policy:
-  title: &privacy_policy_title Privacy policy
+#privacy-policy:
+ # title: &privacy_policy_title Privacy policy
 
 # constants to be replaced for
 constants:
