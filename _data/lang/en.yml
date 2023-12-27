@@ -141,14 +141,14 @@ home:
 
 # for archives layout
 archives:
-  title: News Archive
-  button_name: Archive
+  title: Archive
+  button_name: News Archive
   page_header: Archive
 
 # for about layout
 about:
   title: Contact
-  button_name: About
+  button_name: Contact
   email_title: email
 
 # for links layout
@@ -160,8 +160,8 @@ links:
 
 # for projects layout
 projects:
-  title: Research projects
-  button_name: Projects
+  title: projects
+  button_name: Research projects
   read_more_text: Read more
   read_less_text: Read less
 

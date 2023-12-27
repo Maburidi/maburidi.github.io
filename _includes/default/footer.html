@@ -40,6 +40,33 @@
 {%- endif -%}
 
 
+
+<div class="footer-wrapper">
+  <div class="footer-container">
+    <footer translate="no">
+      {% if site.data.conf.main.main_footer -%}
+        <div class="footer-text {{ footer_class }}">
+          <p>{{ copyright_text_out }} </p>
+          {%- if site.data.conf.main.creative_commons.enable -%}
+            {%- assign license_url = site.data.conf.main.creative_commons.license_url
+              | replace: site.data.conf.main.creative_commons.license_replace, license_type
+              | replace: site.data.conf.main.creative_commons.lang_replace, lng
+            -%}
+            <a href="{{ license_url }}" target="_blank" rel="noopener noreferrer" {{ tooltip_creative_commons }}>
+              {{ img_template | replace: '$lic_type', 'cc' }}
+              {%- if site.data.conf.main.creative_commons.add_all_icons -%}
+                {{ img_list }}
+              {%- endif -%}
+              <p>{{ site.data.lang[lng].creative_commons.some_rights_reserved }}</p>
+            </a>
+          {%- endif -%}
+        </div>
+      {% endif -%}
+      <!-- <p class="footer-powered"><span>Pwrd by </span><a href="https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme" target="_blank" rel="noopener noreferrer">Mr. Green</a></p> -->
+    </footer>
+  </div>
+</div>
+
 <!-- 
 <div class="footer-wrapper">
   <div class="footer-container">
