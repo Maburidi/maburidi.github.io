@@ -17,11 +17,11 @@ home:
   # you can also use $site_brand, $site_greetings, $site_welcome in line1 and line2 for replacing texts.
   top_header_line1: "$site_welcome"
   # if commented, top header will be a single line
-  top_header_line2: "$site_To_My_Webpage"
+  top_header_line2: "To My Webpage"
 
 # about page sub title
 about:
-  sub_title: "$site_sample"
+  sub_title: "Knowledge Seeker"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
