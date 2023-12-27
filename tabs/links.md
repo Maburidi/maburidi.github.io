@@ -31,7 +31,7 @@ lng_pair: id_links
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-published: false
+#published: false
 
 
 # you can always move this content to _data/content/ folder
@@ -42,27 +42,19 @@ published: false
 page_data:
   main:
     header: "Links"
-    info: "Your Links page description."
+    info: "Awards, Fellowships and Funding"
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "JekyII / Liquid"
+    - title: "Awards"
       type: id_jekyiiliquid
       color: "gray"
-    - title: "Web Design"
+    - title: "Fellwoships"
       type: id_webdesign
       color: "#F4A273"
-    - title: "Programming"
-      type: id_programming
-      color: "#62b462"
 
   list:
     -
-    # programming
-    - type: id_programming
-      title: "Stack OverFlow"
-      url: "https://stackoverflow.com/"
-      info: "Stack Overflow is a question and answer website for professional and enthusiastic programmers."
 
     # jekyiiliquid
     - type: id_jekyiiliquid
