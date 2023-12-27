@@ -47,15 +47,13 @@ img: ":home-heading.jpg"
 
 
 <h3> Ph.D. Candidate </h3>	
- Department of Applied Mathematics <br>
- 5200 NORTH LAKE ROAD; MERCED, CA 95343<br>
 
 
 
 <h3>Hello! </h3>	
 
-<p> Greetings! I'm Mohammed, a Ph.D. candidate at the University of California Merced (UCM), USA. I am working with Prof. Roummel Marcia on graph/geometric machine learning and optimization. More specifically, I am utilizing Optimal Transport theory to metric learning and crafting Graph Neural Network (GNNs)-based solvers for combinatorial optimization problems. <br>
-<p>I finished a master's in Applied Mathematics from UCM. I also hold another master's degree in Scientific Computing from An-Najah National University, and a bachelor's in Physics. My interdisciplinary journey unfolds at the intersection of science and innovation. My research focuses on unraveling the intricacies of proteins, drugs, and small molecules, aiming not only to expand knowledge but also to revolutionize practical applications.<br>
+<p> Greetings! I'm Mohammed, a Ph.D. candidate at the University of California Merced (UCM), USA. My primary research interests are in graph/geometric machine learning and optimization. More specifically, I am utilizing Optimal Transport theory to metric learning and crafting Graph Neural Network (GNNs)-based solvers for combinatorial optimization problems. <br>
+<p>I finished a master's in Applied Mathematics from UCM. I also hold another master's degree in Scientific Computing from An-Najah National University, and a bachelor's in Physics. My interdisciplinary journey unfolds at the intersection of science and innovation. I apply my methods on unraveling the intricacies of proteins, drugs, and small molecules, aiming not only to expand knowledge but also to revolutionize practical applications.<br>
 
 
 
