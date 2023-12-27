@@ -51,11 +51,11 @@ img: ":home-heading.jpg"
 
 
 
-<h3>Hello! </h3>	
+<h3>Hello! </h3> 
 
-<p> Greetings! I'm Mohammed, a Ph.D. candidate at the University of California Merced (UCM), USA. My primary research interests are in graph/geometric machine learning and optimization. More specifically, I am utilizing Optimal Transport theory to metric learning and crafting Graph Neural Network (GNNs)-based solvers for combinatorial optimization problems. <br>
-<p>I finished a master's in Applied Mathematics from UCM. I also hold another master's degree in Scientific Computing from An-Najah National University, and a bachelor's in Physics. My interdisciplinary journey unfolds at the intersection of science and innovation. I apply my methods on unraveling the intricacies of proteins, drugs, and small molecules, aiming not only to expand knowledge but also to revolutionize practical applications.<br>
+<p> Greetings! I'm Mohammed, a Ph.D. candidate at the University of California Merced (UCM), USA. My primary research interests lie in graph/geometric machine learning and optimization. Specifically, I employ Optimal Transport theory for metric learning and craft Graph Neural Network (GNNs)-based solvers for combinatorial optimization problems. <br>     
 
+<p> I completed my master's degree in Applied Mathematics at UCM. Additionally, I hold another master's degree in Scientific Computing from An-Najah National University, along with a bachelor's degree in Physics. My interdisciplinary journey unfolds at the intersection of science and innovation. I apply my methods to unravel the intricacies of proteins, drugs, and small molecules, with the dual goal of expanding knowledge and revolutionizing practical applications. <br>      
 
 
 
