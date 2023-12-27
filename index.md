@@ -47,7 +47,7 @@ img: ":home-heading.jpg"
 
 <h3>Hello! </h3>	
 
-<p> Hello body! I am Mohammed, a knowlede seeker and learner, all of the time. I started cultivating academic degrees in 2012, at that time, I obtained my Blachler's degree in Physics. Then I realzed that physics has no place in third world places. Therefore, I switched to computer science, and I obtained my first masters degree in  computing in 2016. But again, a masters degree is useless without a Ph.D. degree. Therefore, I decided to get obtain a Ph.D., but I have no money, therefore. <br>
+<p> I am Mohammed, a knowlede seeker and learner, all of the time. I started cultivating academic degrees in 2012, at that time, I obtained my Blachler's degree in Physics. Then I realzed that physics has no place in third world places. Therefore, I switched to computer science, and I obtained my first masters degree in  computing in 2016. But again, a masters degree is useless without a Ph.D. degree. Therefore, I decided to get obtain a Ph.D., but I have no money, therefore. <br>
 
 
 
