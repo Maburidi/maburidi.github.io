@@ -6,7 +6,7 @@ page_data:
   main:
     header: "Research Projects"
     info: ".
-    text_color: "black"
+    text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
     back_color: "lightblue"
