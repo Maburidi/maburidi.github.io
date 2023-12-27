@@ -45,6 +45,14 @@ img: ":home-heading.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
+
+<h1> Mohammed Aburidi </h1>	
+<h2> Ph.D. Candidate </h2>	
+<p> DEPARTMENT OF APPLIED MATHEMATICS <br>
+<p> 5200 NORTH LAKE ROAD; MERCED, CA 95343<br>
+
+
+
 <h3>Hello! </h3>	
 
 <p> Greetings! I am Mohammed, a passionate and perpetual seeker of knowledge, navigating the intricate realms of academia as a Ph.D. candidate at the prestigious University of California Merced (UCM) in sunny California, USA. <br>
