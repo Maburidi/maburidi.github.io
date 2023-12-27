@@ -165,11 +165,6 @@ projects:
   read_more_text: Read more
   read_less_text: Read less
   
-group:
-  title: group
-  button_name: Reseach Group
-  read_more_text: Read more
-  read_less_text: Read less
 
 
 # for privacy-policy layout
