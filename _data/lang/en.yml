@@ -160,7 +160,7 @@ links:
 
 # for projects layout
 projects:
-  title: Projects
+  title: Research projects
   button_name: Projects
   read_more_text: Read more
   read_less_text: Read less
@@ -171,7 +171,7 @@ projects:
 
 # constants to be replaced for
 constants:
-  greetings: Hello! 
+  greetings: 
   welcome: Welcome
 
 # for contact form
