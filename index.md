@@ -46,8 +46,8 @@ img: ":home-heading.jpg"
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 
-<h1> Mohammed J. Aburidi </h1>	
-<h3> Ph.D. Candidate </h3>	
+<h1 style="text-align: center;"> Mohammed J. Aburidi </h1>	
+<h3 style="text-align: center;"> Ph.D. Candidate </h3>	
 
 
 <p> Greetings! I'm Mohammed, a Ph.D. candidate at the University of California Merced (UCM), USA. My primary research interests lie in graph/geometric machine learning and optimization. Specifically, I employ Optimal Transport theory for metric learning and craft Graph Neural Network (GNNs)-based solvers for combinatorial optimization problems. <br>     
