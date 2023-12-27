@@ -37,7 +37,10 @@ img: ":home-heading.jpg"
 #published: false
 ---
 
-{%- comment -%} Hello There {%- endcomment -%}
+{%- comment -%} #Hello There {%- endcomment -%}
+
+#sscc
+
 
 {%- include util/auto-content-generator.liquid -%}
 {{ website_info_text_first }}
