@@ -46,6 +46,7 @@ img: ":home-heading.jpg"
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 
+<h1> Mohammed J. Aburidi </h1>	
 <h3> Ph.D. Candidate </h3>	
 
 
