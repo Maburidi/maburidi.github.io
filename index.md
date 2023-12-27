@@ -53,9 +53,9 @@ img: ":home-heading.jpg"
 
 <p> At the heart of my academic pursuits lies the development of cutting-edge solutions to combinatorial optimization problems. I spearhead this mission through the ingenious application of Graph Neural Networks (GNNs)-based solvers, pioneering transformative approaches to problem-solving that transcend conventional boundaries. <br>
 
-<p> Under the esteemed guidance of Professor Roummel Marcia, I passionately immerse myself in unraveling the mysteries of proteins, drugs, and small molecules. My work not only adds to the tapestry of scientific knowledge but also holds the promise of practical applications with far-reaching implications. <br>
+<p> At UCM, I worked with Professor Roummel Marcia, I passionately immerse myself in unraveling the mysteries of proteins, drugs, and small molecules. My work not only adds to the tapestry of scientific knowledge but also holds the promise of practical applications with far-reaching implications. <br>
 
-<p> My academic journey began with a master's degree in Applied Mathematics from the University of California Merced, setting the stage for a trajectory defined by excellence. Prior to this, I earned a second master's degree in Scientific Computing from An-Najah National University in the historic city of Nablus, Palestine. My academic foundation was laid with a bachelor's degree in Physics, providing me with a holistic understanding that forms the bedrock of my interdisciplinary approach. <br>
+<p> I completed a master's degree in Applied Mathematics from the University of California Merced, setting the stage for a trajectory defined by excellence. Prior to this, I earned a first master's degree in Scientific Computing from An-Najah National University in the historic city of Nablus, Palestine. My academic foundation was laid with a bachelor's degree in Physics, providing me with a holistic understanding that forms the bedrock of my interdisciplinary approach. <br>
 
 <p> As I traverse the intricate landscapes of academia, my insatiable curiosity continues to drive me forward. I am not merely a scholar; I am a torchbearer of innovation, seeking not only to understand the complexities of our world but to redefine them through transformative research. <br>
 
