@@ -33,7 +33,7 @@ not_found:
 no_translation_tooltip: No Translation
 
 navigation:
-  contact_header: Contact
+  contact_header: Links
 
 color_scheme_switch_tooltip: Color scheme
 
@@ -48,7 +48,7 @@ copyright:
   additional_text: " All rights reserved."
 
 creative_commons:
-  some_rights_reserved: Some rights reserved.
+  some_rights_reserved: All rights reserved.
   # check _data/owner/[language].yml for license type.
   by: Except where otherwise noted, content on this web site is licensed under a Creative Commons Attribution 4.0 International License.
   by-nd: Except where otherwise noted, content on this web site is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.
