@@ -52,7 +52,7 @@ page_data:
     # quote
     - type: id_quote
       project_name: "Example Project"
-      project_excerpt: "William Shakespeare"
+      project_excerpt: "Mohammed Aburidi"
       #img: ":project1_thumb.jpg"
       #img_title: "img title3"
       date: "2021-05-27"
