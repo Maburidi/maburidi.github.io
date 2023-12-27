@@ -12,13 +12,13 @@ page_data:
     back_color: "lightblue"
 
   category:
-    - title: "Example"
+    - title: "Current"
       type: id_example
       color: "gray"
-    - title: "Picture"
+    - title: "Accomplished"
       type: id_picture
       color: "#62b462"
-    - title: "Quote"
+    - title: "Internship"
       type: id_quote
       color: "#2FD0ED"
 
