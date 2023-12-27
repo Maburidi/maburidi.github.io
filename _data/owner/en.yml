@@ -5,7 +5,7 @@
 brand: "Mohammed Aburidi"
 
 # text below the brand name
-brand_sub_text: "Knowledge Seeker"
+brand_sub_text: "Ph.D. Candidate"
 
 # used for seo meta post author (if it's not defined in post)
 name: "Mohammed Aburidi"
@@ -19,7 +19,7 @@ home:
 
 # about page sub title
 about:
-  sub_title: "Knowledge Seeker"
+  sub_title: "Ph.D. Candidate"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
