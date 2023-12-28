@@ -44,13 +44,13 @@ page_data:
 
   category:
     - title: "Current"
-      type: id_example
+      type: id_current
       color: "gray"
     - title: "Accomplished"
-      type: id_picture
+      type: id_accomplished
       color: "#62b462"
     - title: "Internship"
-      type: id_quote
+      type: id_internship
       color: "#2FD0ED"
 
   list:
@@ -81,7 +81,7 @@ page_data:
     #    ![Image](:project2_thumb.jpg)
 
     # quote
-    - type: id_quote
+    - type: id_internship
       project_name: "Combinatorial Optimization with Graph Neural Networks (GNNs)"
       project_excerpt: "Mohammed Aburidi"
       img: ":p1.jpg"
