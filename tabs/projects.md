@@ -135,6 +135,14 @@ page_data:
       post: |
         L.
 
+    - type: id_accomplished
+      project_name: "Genetic Variant Detection Over Generations: Sparsity-Constrained Optimization Using Block-Coordinate Descent"   
+      project_excerpt: "Mohammed Aburidi and Roummel Marcia"                      
+      img: ":p7.jpg"
+      #img_title: "img title3"
+      date: "2022-09-10"
+      post: |
+        L.
 
 
 
