@@ -81,9 +81,9 @@ page_data:
     #    ![Image](:project2_thumb.jpg)
 
     # quote
-    - type: id_internship
+    - type: id_current
       project_name: "Combinatorial Optimization with Graph Neural Networks (GNNs)"
-      project_excerpt: "Mohammed Aburidi"
+      project_excerpt: "Mohammed Aburidi and Roummel Marcia"
       img: ":p1.jpg"
       #img_title: "img title3"
       date: "2023-10-27"
@@ -92,6 +92,16 @@ page_data:
         Admit impediments. Love is not love
         Which alters when it alteration finds,
         Or bends with the remover to remove.
+        
+    - type: id_current
+      project_name: "Wasserstein distance-Based GNN for Drug-Drug Interaction Prediction"  
+      project_excerpt: "Mohammed Aburidi and Roummel Marcia"                      
+      img: ":p2.jpg"
+      #img_title: "img title3"
+      date: "2023-09-20"
+      post: |
+        Let me not to the marriage of.
+
 
 
 
