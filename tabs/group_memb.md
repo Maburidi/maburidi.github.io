@@ -40,7 +40,7 @@ lng_pair: id_group
 
 
 <div style="float: right; margin-left: 20px;">
-  <img src=":about.jpg" alt="Your Image Description" width="200"/>
+  <img src="assets/img/about/about.jpg" alt="Your Image Description" width="200"/>
 </div>
 
 # Your Information
