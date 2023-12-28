@@ -43,12 +43,13 @@ lng_pair: id_group
 
 
 <div style="overflow: hidden; margin-bottom: 20px;">
-  <div style="float: left; margin-right: 20px; width: 50%;">
+  <div style="float: left; margin-right: 20px; width: 40%;">
     <!-- Your text goes here -->
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolo
+     <h3>Mohammed Aburidi</h3>
+    
 
   </div>
-  <div style="float: left; width: 50%;">
+  <div style="float: left; width: 40%;">
     <!-- Your image goes here -->
      <img src="../assets/img/about/PhotoM.jpg" alt="Your Image Description" style="max-width: 30%; height: 40;"/>
 
