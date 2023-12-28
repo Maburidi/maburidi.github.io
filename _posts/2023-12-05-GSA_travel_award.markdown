@@ -7,9 +7,9 @@ title: "Thrilled to announce that I've been awarded the Fall 2023 GSA Travel Awa
 # if not specified, .name will be used from _data/owner/[language].yml
 author: Mohammed Aburidi
 # multiple category is not supported
-category: Projects
+category: Awards
 # multiple tag entries are possible
-tags: [ROS, python]
+#tags: [ROS, python]
 # thumbnail image for post
 img: ":p1.jpg"
 # disable comments on this page
