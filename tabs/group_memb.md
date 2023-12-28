@@ -46,7 +46,7 @@ lng_pair: id_group
 <div style="overflow: hidden; margin-bottom: 20px; white-space: pre-line;">
   <div style="float: left; margin-right: 20px; width: 70%;">
     <!-- Your text goes here -->
-     <h6>Mohammed Aburidi</h6> <br>
+     <h6>Mohammed Aburidi</h6>
      Applied Mathematics Ph.D. Candidate at UCM <br> 
      <strong>Research interests:</strong> 
     <ul>
@@ -55,7 +55,7 @@ lng_pair: id_group
       <li>Combinatorial optimization</li>
     </ul>
   </div>
-  <div style="float: left; width: 25%;">
+  <div style="float: left; width: 20%;">
     <!-- Your image goes here -->
      <img src="../assets/img/about/PhotoM.jpg" alt="Your Image Description" style="max-width: 80%; height: 100;"/>
 
