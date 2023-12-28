@@ -36,4 +36,17 @@ lng_pair: id_group
 #published: false
 ---
 
-+ CLOT: Contrastive Learning-Driven and Optimal 
++ Team Lead 
+
+
+<div style="float: right; margin-left: 20px;">
+  <img src=":about.jpg" alt="Your Image Description" width="200"/>
+</div>
+
+# Your Information
+
+This is where you can write your information. It will appear to the left of the image due to the `float: right;` style applied to the image container.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...
+
+
