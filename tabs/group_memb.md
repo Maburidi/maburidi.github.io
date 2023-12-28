@@ -37,7 +37,7 @@ lng_pair: id_group
 ---
 
 # Research Lead 
-<div style="border-top: 3px solid #000;"></div>
+<div style="border-top: 2px solid white;"></div>
 
 
 <div style="height: 40px;"></div>
@@ -55,7 +55,7 @@ lng_pair: id_group
       <li>Combinatorial optimization</li>
     </ul>
   </div>
-  <div style="float: left; width: 30%;">
+  <div style="float: left; width: 20%;">
     <!-- Your image goes here -->
      <img src="../assets/img/about/PhotoM.jpg" alt="Your Image Description" style="max-width: 80%; height: 100;"/>
 
@@ -68,4 +68,4 @@ lng_pair: id_group
 <div style="height: 20px;"></div>
 
 
-<div style="border-top: 3px solid #000;"></div>
+<div style="border-top: 2px solid white;"></div>
