@@ -64,5 +64,5 @@ page_data:
 
     # Fellowships                       
     - type: id_webdesign     
-      info: " more."
+      info: "CLOT: Contrastive Learning-Driven and Optimal Transport-Based Training for Simultaneous Clustering [Google](https://www.google.com)."
 ---
