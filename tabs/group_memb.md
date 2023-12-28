@@ -37,17 +37,18 @@ lng_pair: id_group
 ---
 
 # Research Lead 
-<div style="border-top: 2px solid white;"></div>
+<div style="border-top: 2px solid gray;"></div>
 
 
 <div style="height: 40px;"></div>
 
 
 <div style="overflow: hidden; margin-bottom: 20px; white-space: pre-line;">
-  <div style="float: left; margin-right: 20px; width: 80%;">
+  <div style="float: left; margin-right: 20px; width: 75%;">
     <!-- Your text goes here -->
      <h6>Mohammed Aburidi</h6>
      Applied Mathematics Ph.D. Candidate at UCM <br> 
+     <div style="height: 5px;"></div>
      <strong>Research interests:</strong> 
     <ul>
       <li>Geometric machine and deep learning </li>
@@ -68,4 +69,4 @@ lng_pair: id_group
 <div style="height: 20px;"></div>
 
 
-<div style="border-top: 2px solid white;"></div>
+<div style="border-top: 2px solid gray;"></div>
