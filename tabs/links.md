@@ -52,7 +52,7 @@ page_data:
     - title: "Fellowships"
       type: id_fellowships
       color: "#F4A273"
-      - title: "Assistantship"
+    - title: "Assistantship"
       type: id_assistantship
       color: "red"
 
@@ -101,7 +101,6 @@ page_data:
       title: "SFB 874 Fellowship"
       url: "https://www.sfb874.ruhr-uni-bochum.de/en/frontpage/"
       info: "October 2017: International Student Fellowship - SFB 874, Ruhr University Bochum, October 2016, NRW, Germnay"  
-
 
     - type: id_assistantship
       title: "CAMS Assistantship"
