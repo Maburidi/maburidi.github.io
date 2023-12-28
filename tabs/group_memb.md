@@ -45,11 +45,25 @@ lng_pair: id_group
 
 <div style="float: right; margin-left: 30px;">
   <img src="../assets/img/about/PhotoM.jpg" alt="Your Image Description" width="250"/>
+  <img src="path/to/image1.jpg" alt="Image 1" style="width: 200px; height: 150px;" />
+
 </div>
 
-#### Mohammed J. Aburidi
+###### Mohammed J. Aburidi
 **Rsearch Interest** 
 
+
+<div style="overflow: hidden; margin-bottom: 20px;">
+  <div style="float: left; margin-right: 20px; width: 50%;">
+    <!-- Your text goes here -->
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  </div>
+  <div style="float: left; width: 50%;">
+    <!-- Your image goes here -->
+     <img src="../assets/img/about/PhotoM.jpg" alt="Your Image Description" style="max-width: 100%; height: auto;"/>
+
+  </div>
+</div>
 
 
 <div style="height: 20px;"></div>
