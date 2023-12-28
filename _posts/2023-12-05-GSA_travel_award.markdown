@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_mcs
-title: "Introduction to GNN"
+title: "Thrilled to announce that I've been awarded the Fall 2023 GSA Travel Award Fellowship"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
