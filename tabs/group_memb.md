@@ -48,7 +48,7 @@ lng_pair: id_group
     <!-- Your text goes here -->
      <h6>Mohammed Aburidi</h6>
      Applied Mathematics Ph.D. Candidate at UCM <br> 
-     <div style="height: 5px;"></div>
+     <div style="height: 10px;"></div>
      <strong>Research interests:</strong> 
     <ul>
       <li>Geometric machine and deep learning </li>
@@ -58,7 +58,7 @@ lng_pair: id_group
   </div>
   <div style="float: left; width: 20%;">
     <!-- Your image goes here -->
-     <img src="../assets/img/about/PhotoM.jpg" alt="Your Image Description" style="max-width: 80%; height: 100;"/>
+     <img src="../assets/img/about/PhotoM.jpg" alt="Your Image Description" style="max-width: 100%; height: 120%;"/>
 
   </div>
     <div style="clear: both;"></div>        
