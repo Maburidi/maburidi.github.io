@@ -194,7 +194,7 @@ side_and_top_nav_buttons:
     icon: "fa fa-archive"
   - projects:
     icon: "fa fa-cog" 
-  - group:
+  - group_memb:
     icon: "fa fa-users"
   - links:
     icon: "fa fa-money"
