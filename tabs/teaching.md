@@ -57,14 +57,14 @@ page_data:
     -
 
     # Awards
-    - type: id_jekyiiliquid
-      title: "Jekyll"
-      #url: "https://jekyllrb.com/"
+    - type: id_jekyiiliquid            
+      title: "Jekyll"                    
+      url: "https://jekyllrb.com/"      
       info: "Transform your plain text into static websites and blogs."
 
-    # Fellowships
-    - type: id_webdesign
-      #title: "W3Schools"
-      url: " "
+    # Fellowships                       
+    - type: id_webdesign     
+      title: "W3Schools"    
+      url: "https://jekyllrb.com"
       info: " more."
 ---
