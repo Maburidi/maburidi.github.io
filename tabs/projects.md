@@ -36,21 +36,21 @@ image_lazy_loader_on: true
 page_data:
   main:
     header: "Projects"
-    info: "Your Project page description."
+    info: " "
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
-    img: ":research_projects.jpg"
+    img: ":rp.jpg"
     back_color: "lightblue"
 
   category:
     - title: "Current"
-      type: id_example
+      type: id_Current
       color: "gray"
     - title: "Accomplished"
-      type: id_picture
+      type: id_Accomplished
       color: "#62b462"
     - title: "Internship"
-      type: id_quote
+      type: id_Internship
       color: "#2FD0ED"
 
   list:
@@ -81,12 +81,12 @@ page_data:
     #    ![Image](:project2_thumb.jpg)
 
     # quote
-    - type: id_quote
-      project_name: "Example Project"
+    - type: id_Current
+      project_name: "Combinatorial Optimization with Graph Neural Networks (GNNs)"
       project_excerpt: "Mohammed Aburidi"
-      #img: ":project1_thumb.jpg"
+      img: ":p1.jpg"
       #img_title: "img title3"
-      date: "2023-05-27"
+      date: "2023-10-20"
       post: |
         Let me not to the marriage of true minds
         Admit impediments. Love is not love
