@@ -47,24 +47,38 @@ page_data:
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
     - title: "Awards"
-      type: id_jekyiiliquid
+      type: id_awards
       color: "gray"
     - title: "Fellowships"
-      type: id_webdesign
+      type: id_fellowships
       color: "#F4A273"
 
   list:
     -
 
     # Awards
-    - type: id_jekyiiliquid
-      title: "Jekyll"
-      url: "https://jekyllrb.com/"
-      info: "Transform your plain text into static websites and blogs."
+    - type: id_fellowships
+      title: "LLNL DSC Fellowship"
+      url: "https://data-science.llnl.gov/dsc"
+      info: "Lawrence Livermore National Laboratory Data Science Challenge Grad Fellowship, Summer-2023"
 
     # Fellowships
-    - type: id_webdesign
-      title: "W3Schools"
-      url: " "
-      info: " more."
+    - type: id_awards
+      title: "UCM GSA Travel Award"
+      url: "https://gsa.ucmerced.edu/funding/travel-awards"
+      info: "Fall 2023 Graduate Student Association (GSA) Travel Award Fellowship, University of California, Merced (UCM)"
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+

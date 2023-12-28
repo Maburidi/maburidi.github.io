@@ -55,7 +55,7 @@ lng_pair: id_group
       <li>Optimization methods applied to small molecules</li>
       <li>Combinatorial optimization</li>
     </ul>
-    <div style="height: 10px;"></div>
+    <div style="height: 6px;"></div>
     <strong>Email: maburidi@ucmerced.edu</strong> 
 
   </div>
