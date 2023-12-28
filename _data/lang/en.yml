@@ -161,6 +161,14 @@ links:
   link_text: Web site
   info_text: Info
 
+# for links layout
+teaching:
+  title: Teaching
+  button_name: Teaching
+  link_text: Web site
+  info_text: Info
+
+
 # for projects layout
 projects:
   title: projects
