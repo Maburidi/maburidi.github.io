@@ -58,11 +58,11 @@ page_data:
 
     # Awards
     - type: id_jekyiiliquid            
-      title: "Jekyll"                    
+      info: "Transform your plain text into static websites and blogs."
+    - type: id_jekyiiliquid            
       info: "Transform your plain text into static websites and blogs."
 
     # Fellowships                       
     - type: id_webdesign     
-      title: "W3Schools"    
       info: " more."
 ---
