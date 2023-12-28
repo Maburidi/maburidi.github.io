@@ -34,16 +34,17 @@ layout: default
               &nbsp;{{ site.data.lang[lng].about.email_title }}
             </a>
           </p>
-        {% endif -%} -->
+        {% endif -%} 
         {%- if site.data.conf.others.about.show_contacts and site.data.owner[lng].contacts.size > 0 %}
           {% include default/nav/contact-links.html -%}
-        {% endif -%}
+        {% endif -%}-->
       </div>
     </div>
   </div>
   <div class="row about-divider">
     <hr>
   </div>
+  <!--
   <div class="row">
     <div class="col-md-12">
       <div class="about-msg markdown-style">
@@ -53,5 +54,5 @@ layout: default
         {% endif -%}
       </div>
     </div>
-  </div> 
+  </div>   --> 
 </div>
