@@ -36,7 +36,7 @@ image_lazy_loader_on: true
 page_data:
   main:
     header: "Research Projects"
-    info: " "
+    info: "knowledge does not come, but you have to go to it"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":rp.jpg"
@@ -108,6 +108,15 @@ page_data:
       img: ":p3.jpg"
       #img_title: "img title3"
       date: "2023-12-15"
+      post: |
+        Let me not to the marriage of.
+        
+    - type: id_accomplished
+      project_name: "Optimal Transport-Based Network Alignment: Graph Classification of Small Molecule Structure-Activity Relationships in Biology"   
+      project_excerpt: "Mohammed Aburidi and Roummel Marcia"                      
+      img: ":p4.jpg"
+      #img_title: "img title3"
+      date: "2023-08-15"
       post: |
         Let me not to the marriage of.
 
