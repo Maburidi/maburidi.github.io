@@ -63,6 +63,7 @@ page_data:
       info: "Transform your plain text into static websites and blogs."
 
     # Fellowships                       
-    - type: id_webdesign     
+    - type: id_webdesign
+      title: "[Clustering [Code](https://www.google.com) [PDF](https://www.google.com) Clustering [Bib](https://www.google.com) ]"      
       info: "CLOT: Contrastive Learning-Driven and Optimal Transport-Based Training for Simultaneous Clustering [Google](https://www.google.com)."
 ---
