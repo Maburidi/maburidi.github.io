@@ -143,10 +143,18 @@ page_data:
       date: "2022-09-10"
       post: |
         L.
-
     - type: id_accomplished
       project_name: "Rubost Detrended Fluctuation Analysis (DFA) and its application to envelopes of human alpha rhythms"   
       project_excerpt: "Mohammed Aburidi, Guido Nolte, Andreas K. Engel"                      
+      img: ":p8.jpg"
+      #img_title: "img title3"
+      date: "2018-08-10" 
+      post: |
+        L.
+        
+    - type: id_internship 
+      project_name: "Parallelized Ray-Based Framework Adaptive ReaL Time Analysis of Big Fusion Data"   
+      project_excerpt: "Mohammed Aburidi, Laurie Stephey, Ralph Kube, Michael Churchill, Jong Choi"                      
       img: ":p8.jpg"
       #img_title: "img title3"
       date: "2018-08-10" 
