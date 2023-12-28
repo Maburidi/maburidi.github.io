@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_mcs
-title: "Excited to share that my paper "Enhancing Drug Safety and Efficacy" has been accepted for presentation at the IEEE AIMHC 2024 conference in Los Angeles"
+title: "A paper is accepted for presentation at the IEEE AIMHC 2024"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -11,7 +11,7 @@ category: Projects
 # multiple tag entries are possible
 tags: [ROS, python]
 # thumbnail image for post
-img: ":p1.jpg"
+img: ":p2.jpg"
 # disable comments on this page
 #comments_disable: true
 
@@ -38,7 +38,7 @@ date: 2023-12-05 10:04:30 +0900
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
-Excited to share that my paper "Enhancing Drug Safety and Efficacy: Wasserstein Distance-Based Graph Kernel for Drug Property" has been accepted for presentation at the IEEE AIMHC 2024 conference in Los Angeles [See here](https://maburidi.github.io/tabs/links.html) for more details! 
+Excited to share that my paper "Enhancing Drug Safety and Efficacy: Wasserstein Distance-Based Graph Kernel for Drug Property" has been accepted for presentation at the  [IEEE AIMHC 2024](https://www.aimhc.org/) conference in Los Angeles! 
 
 
 
