@@ -47,11 +47,11 @@ page_data:
     #- title: "Current"
     #  type: id_example
     #  color: "gray"
-    - title: "Accomplished"
-      type: id_picture
+    - title: "Graduate"
+      type: id_graduate
       color: "#62b462"
-    - title: "Internship"
-      type: id_quote
+    - title: "Undergraduate"
+      type: id_undergraduate
       color: "#2FD0ED"
 
   list:
@@ -82,16 +82,14 @@ page_data:
     #    ![Image](:project2_thumb.jpg)
 
     # quote
-    - type: id_quote
-      project_name: "Example Project"
-      project_excerpt: "Mohammed Aburidi"
-      #img: ":project1_thumb.jpg"
+    - type: id_graduate
+      project_name: "Mohammed Aburidi"
+      project_excerpt: "Ph.D. Candidate"
+      img: ":project1_thumb.jpg"
       #img_title: "img title3"
-      date: "2023-05-27"
+      #date: "2023-05-27"
       post: |
-        Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
+        Last year Ph.D. candidate at the University of California Merced (UCM), CA, USA. Reseach interests: 
+        Graph/geometric machine and deep learning, combinatorial optimization, optimization methods for small molecules. 
 
 --- 
