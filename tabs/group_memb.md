@@ -36,17 +36,24 @@ lng_pair: id_group
 #published: false
 ---
 
-# Team Lead 
+# Research Lead 
 
 <div style="height: 20px;"></div>
+<div style="height: 20px;"></div>
 
-<div style="float: right; margin-right: 30px;">
-  <img src="../assets/img/about/about.jpg" alt="Your Image Description" width="300"/>
+
+
+<div style="float: right; margin-left: 30px;">
+  <img src="../assets/img/about/PhotoM.jpg" alt="Your Image Description" width="250"/>
 </div>
 
 #### Mohammed J. Aburidi
-*Rsearch Interest* 
+**Rsearch Interest** 
 
 
 
+<div style="height: 20px;"></div>
+<div style="height: 20px;"></div>
 
+
+# Graduate students  
