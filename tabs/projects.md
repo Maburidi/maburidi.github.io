@@ -35,13 +35,8 @@ image_lazy_loader_on: true
 
 page_data:
   main:
-<<<<<<< HEAD
-    header: "Projects"
-    info: " "
-=======
     header: "Research Projects"
     info: "Knowledge does not come, but you have to go to it"
->>>>>>> 0567b9b1db78f76f708e94362143e93c70766d2f
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":rp.jpg"
@@ -49,15 +44,6 @@ page_data:
 
   category:
     - title: "Current"
-<<<<<<< HEAD
-      type: id_Current
-      color: "gray"
-    - title: "Accomplished"
-      type: id_Accomplished
-      color: "#62b462"
-    - title: "Internship"
-      type: id_Internship
-=======
       type: id_current
       color: "gray"
     - title: "Accomplished"
@@ -65,7 +51,6 @@ page_data:
       color: "#62b462"
     - title: "Internship"
       type: id_internship
->>>>>>> 0567b9b1db78f76f708e94362143e93c70766d2f
       color: "#2FD0ED"
 
   list:
@@ -96,21 +81,13 @@ page_data:
     #    ![Image](:project2_thumb.jpg)
 
     # quote
-<<<<<<< HEAD
-    - type: id_Current
-      project_name: "Combinatorial Optimization with Graph Neural Networks (GNNs)"
-      project_excerpt: "Mohammed Aburidi"
-      img: ":p1.jpg"
-      #img_title: "img title3"
-      date: "2023-10-20"
-=======
+
     - type: id_current
       project_name: "Combinatorial Optimization with Graph Neural Networks (GNNs)"
       project_excerpt: "Mohammed Aburidi and Roummel Marcia"
       img: ":p1.jpg"
       #img_title: "img title3"
       date: "2023-10-27"
->>>>>>> 0567b9b1db78f76f708e94362143e93c70766d2f
       post: |
         l.
         
