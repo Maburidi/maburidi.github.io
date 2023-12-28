@@ -88,10 +88,7 @@ page_data:
       #img_title: "img title3"
       date: "2023-10-27"
       post: |
-        Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
+        l.
         
     - type: id_current
       project_name: "Wasserstein distance-Based GNN for Drug-Drug Interaction Prediction"  
@@ -100,7 +97,7 @@ page_data:
       #img_title: "img title3"
       date: "2023-09-20"
       post: |
-        Let me not to the marriage of.
+        l.
 
     - type: id_current
       project_name: "Drug-Drug Interaction Prediction via Matrix Factorization"   
@@ -109,7 +106,7 @@ page_data:
       #img_title: "img title3"
       date: "2023-12-15"
       post: |
-        Let me not to the marriage of.
+        L.
         
     - type: id_accomplished
       project_name: "Optimal Transport-Based Network Alignment: Graph Classification of Small Molecule Structure-Activity Relationships in Biology"   
@@ -118,7 +115,7 @@ page_data:
       #img_title: "img title3"
       date: "2023-08-15"
       post: |
-        Let me not to the marriage of.
+        L.
 
     - type: id_accomplished
       project_name: "Optimal Transport and Contrastive-Based Clustering for Annotation-Free Tissue Analysis in Histopathology Images"   
@@ -127,8 +124,16 @@ page_data:
       #img_title: "img title3"
       date: "2023-06-10"
       post: |
-        Let me not to the marriage of.
+        L.
 
+    - type: id_accomplished
+      project_name: "CLOT: Contrastive Learning-Driven and Optimal Transport-Based Training for Simultaneous Clustering"   
+      project_excerpt: "Mohammed Aburidi and Roummel Marcia"                      
+      img: ":p6.jpg"
+      #img_title: "img title3"
+      date: "2023-03-20"
+      post: |
+        L.
 
 
 
