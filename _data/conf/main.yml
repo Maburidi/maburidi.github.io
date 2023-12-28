@@ -200,6 +200,8 @@ side_and_top_nav_buttons:
     icon: "fa fa-link"
   - teaching:
     icon: "fa fa-link"
+  - public:
+    icon: "fa fa-link"
   - about:
     icon: "fa fa-user-o"
 
