@@ -36,7 +36,4 @@ lng_pair: id_group
 #published: false
 ---
 
-
-
-
 + CLOT: Contrastive Learning-Driven and Optimal 
