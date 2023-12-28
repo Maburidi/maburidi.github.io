@@ -43,21 +43,24 @@ lng_pair: id_group
 
 
 <div style="overflow: hidden; margin-bottom: 20px; white-space: pre-line;">
-  <div style="float: left; margin-right: 20px; width: 50%;">
+  <div style="float: left; margin-right: 20px; width: 45%;">
     <!-- Your text goes here -->
      <h6>Mohammed Aburidi</h6>
      <strong>Research interests:</strong> 
-    * Geometric machine and deep learning 
-    * Optimization
-    * Combinatorial optimization 
+    <ul>
+      <li>Geometric machine and deep learning </li>
+      <li>Optimization</li>
+      <li>Combinatorial optimization</li>
+    </ul>
+
 
   </div>
-  <div style="float: left; width: 50%;">
+  <div style="float: left; width: 45%;">
     <!-- Your image goes here -->
      <img src="../assets/img/about/PhotoM.jpg" alt="Your Image Description" style="max-width: 50%; height: 70;"/>
 
   </div>
-    <div style="clear: both;"></div>
+    <div style="clear: both;"></div>        
 </div>
 
 
