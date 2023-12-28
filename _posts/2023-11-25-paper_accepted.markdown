@@ -16,7 +16,7 @@ img: ":p2.jpg"
 #comments_disable: true
 
 # publish date
-date: 2023-12-05 10:04:30 +0900
+date: 2023-11-25 10:04:30 +0900
 
 # seo
 # if not specified, date will be used.
