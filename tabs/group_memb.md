@@ -37,7 +37,7 @@ lng_pair: id_group
 ---
 
 # Research Lead 
---- 
+<div style="border-top: 3px solid #000;"></div>
 
 
 <div style="height: 40px;"></div>
@@ -68,5 +68,4 @@ lng_pair: id_group
 <div style="height: 20px;"></div>
 
 
-# Graduate students  
---- 
+<div style="border-top: 3px solid #000;"></div>
