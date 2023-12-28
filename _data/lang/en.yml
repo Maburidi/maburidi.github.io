@@ -165,7 +165,7 @@ links:
 teaching:
   title: Teaching
   button_name: Teaching
-  link_text: Web site
+  #link_text: Web site
   info_text: Info
 
 
