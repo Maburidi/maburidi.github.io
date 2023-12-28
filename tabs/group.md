@@ -1,8 +1,10 @@
 ---
-layout: group
+layout: grouo
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_group
 
+# image for page specific usage
+#img: ":about.jpg"
 # publish date (used for seo)
 # if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
@@ -22,74 +24,19 @@ lng_pair: id_group
 # optional
 # please use the "image_viewer_on" below to enable image viewer for individual pages or posts (_posts/ or [language]/_posts folders).
 # image viewer can be enabled or disabled for all posts using the "image_viewer_posts: true" setting in _data/conf/main.yml.
-image_viewer_on: true
+#image_viewer_on: true
 # please use the "image_lazy_loader_on" below to enable image lazy loader for individual pages or posts (_posts/ or [language]/_posts folders).
 # image lazy loader can be enabled or disabled for all posts using the "image_lazy_loader_posts: true" setting in _data/conf/main.yml.
-image_lazy_loader_on: true
+#image_lazy_loader_on: true
 # exclude from on site search
 #on_site_search_exclude: true
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
 #published: false
+---
 
 
-page_data:
-  main:
-    header: "Group Members"
-    info: " "
-    text_color: "white"
-    # if you don't want to use background image, comment it. back_color will be activated.
-    img: ":projects-heading.jpg"
-    back_color: "lightblue"
-
-  category:
-    #- title: "Current"
-    #  type: id_example
-    #  color: "gray"
-    - title: "Graduate"
-      type: id_graduate
-      color: "#62b462"
-    - title: "Undergraduate"
-      type: id_undergraduate
-      color: "#2FD0ED"
-
-  list:
-    ## example
-    #- type: id_example
-    #  project_name: "Example Project"
-    #  project_excerpt: "Examples"
-    #  img: ":project1_thumb.jpg"
-    #  img_title: "img title1"
-    #  date: "2021-03-13"
-    #  post: |
-    #    # Examples
-
-    #    Helo there! 
 
 
-    ## picture
-    #- type: id_picture
-    #  project_name: "Example Project"
-    #  project_excerpt: "Picture"
-    #  img: ":project2_thumb.jpg"
-    #  img_title: "img title2"
-    #  date: "2021-04-23"
-    #  post: |
-    #    # Title
-    #    This is project content.
-    #
-    #    ![Image](:project2_thumb.jpg)
-
-    # quote
-    - type: id_graduate
-      project_name: "Mohammed Aburidi"
-      project_excerpt: "Ph.D. Candidate"
-      img: ":project1_thumb.jpg"
-      #img_title: "img title3"
-      #date: "2023-05-27"
-      post: |
-        Last year Ph.D. candidate at the University of California Merced (UCM), CA, USA. Reseach interests: 
-        Graph/geometric machine and deep learning, combinatorial optimization, optimization methods for small molecules. 
-
---- 
++ CLOT: Contrastive Learning-Driven and Optimal 
