@@ -38,15 +38,15 @@ lng_pair: id_group
 
 # Team Lead 
 
+<div style="height: 20px;"></div>
 
-<div style="float: right; margin-left: 20px;">
-  <img src="../assets/img/about/about.jpg" alt="Your Image Description" width="200"/>
+<div style="float: right; margin-right: 30px;">
+  <img src="../assets/img/about/about.jpg" alt="Your Image Description" width="300"/>
 </div>
 
-#### Your Information
+#### Mohammed J. Aburidi
+*Rsearch Interest* 
 
-This is where you can write your information. It will appear to the left of the image due to the `float: right;` style applied to the image container.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...
 
 
