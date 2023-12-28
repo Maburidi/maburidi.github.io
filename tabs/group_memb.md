@@ -37,21 +37,24 @@ lng_pair: id_group
 ---
 
 # Research Lead 
+****************
 
 <div style="height: 60px;"></div>
 
 
-
-<div style="overflow: hidden; margin-bottom: 20px;">
-  <div style="float: left; margin-right: 20px; width: 40%;">
+<div style="overflow: hidden; margin-bottom: 20px; white-space: pre-line;">
+  <div style="float: left; margin-right: 20px; width: 50%;">
     <!-- Your text goes here -->
      <h6>Mohammed Aburidi</h6>
-    
-    
+     <strong>Research interests:</strong> 
+    * Geometric machine and deep learning 
+    * Optimization
+    * Combinatorial optimization 
+
   </div>
-  <div style="float: left; width: 40%;">
+  <div style="float: left; width: 50%;">
     <!-- Your image goes here -->
-     <img src="../assets/img/about/PhotoM.jpg" alt="Your Image Description" style="max-width: 30%; height: 40;"/>
+     <img src="../assets/img/about/PhotoM.jpg" alt="Your Image Description" style="max-width: 50%; height: 70;"/>
 
   </div>
     <div style="clear: both;"></div>
@@ -63,3 +66,4 @@ lng_pair: id_group
 
 
 # Graduate students  
+****************
