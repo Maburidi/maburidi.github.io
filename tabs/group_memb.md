@@ -38,19 +38,11 @@ lng_pair: id_group
 
 # Research Lead 
 
+<div style="height: 60px;"></div>
 <div style="height: 20px;"></div>
-<div style="height: 20px;"></div>
 
 
 
-<div style="float: right; margin-left: 30px;">
-  <img src="../assets/img/about/PhotoM.jpg" alt="Your Image Description" width="250"/>
-  <img src="path/to/image1.jpg" alt="Image 1" style="width: 200px; height: 150px;" />
-
-</div>
-
-###### Mohammed J. Aburidi
-**Rsearch Interest** 
 
 
 <div style="overflow: hidden; margin-bottom: 20px;">
