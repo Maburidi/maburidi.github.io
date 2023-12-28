@@ -35,8 +35,13 @@ image_lazy_loader_on: true
 
 page_data:
   main:
+<<<<<<< HEAD
     header: "Projects"
     info: " "
+=======
+    header: "Research Projects"
+    info: "Knowledge does not come, but you have to go to it"
+>>>>>>> 0567b9b1db78f76f708e94362143e93c70766d2f
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":rp.jpg"
@@ -44,6 +49,7 @@ page_data:
 
   category:
     - title: "Current"
+<<<<<<< HEAD
       type: id_Current
       color: "gray"
     - title: "Accomplished"
@@ -51,6 +57,15 @@ page_data:
       color: "#62b462"
     - title: "Internship"
       type: id_Internship
+=======
+      type: id_current
+      color: "gray"
+    - title: "Accomplished"
+      type: id_accomplished
+      color: "#62b462"
+    - title: "Internship"
+      type: id_internship
+>>>>>>> 0567b9b1db78f76f708e94362143e93c70766d2f
       color: "#2FD0ED"
 
   list:
@@ -81,18 +96,105 @@ page_data:
     #    ![Image](:project2_thumb.jpg)
 
     # quote
+<<<<<<< HEAD
     - type: id_Current
       project_name: "Combinatorial Optimization with Graph Neural Networks (GNNs)"
       project_excerpt: "Mohammed Aburidi"
       img: ":p1.jpg"
       #img_title: "img title3"
       date: "2023-10-20"
+=======
+    - type: id_current
+      project_name: "Combinatorial Optimization with Graph Neural Networks (GNNs)"
+      project_excerpt: "Mohammed Aburidi and Roummel Marcia"
+      img: ":p1.jpg"
+      #img_title: "img title3"
+      date: "2023-10-27"
+>>>>>>> 0567b9b1db78f76f708e94362143e93c70766d2f
       post: |
-        Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
+        l.
+        
+    - type: id_current
+      project_name: "Wasserstein distance-Based GNN for Drug-Drug Interaction Prediction"  
+      project_excerpt: "Mohammed Aburidi and Roummel Marcia"                      
+      img: ":p2.jpg"
+      #img_title: "img title3"
+      date: "2023-09-20"
+      post: |
+        l.
 
+    - type: id_current
+      project_name: "Drug-Drug Interaction Prediction via Matrix Factorization"   
+      project_excerpt: "Mohammed Aburidi and Roummel Marcia"                      
+      img: ":p3.jpg"
+      #img_title: "img title3"
+      date: "2023-12-15"
+      post: |
+        L.
+        
+    - type: id_accomplished
+      project_name: "Optimal Transport-Based Network Alignment: Graph Classification of Small Molecule Structure-Activity Relationships in Biology"   
+      project_excerpt: "Mohammed Aburidi and Roummel Marcia"                      
+      img: ":p4.jpg"
+      #img_title: "img title3"
+      date: "2023-08-15"
+      post: |
+        L.
+
+    - type: id_accomplished
+      project_name: "Optimal Transport and Contrastive-Based Clustering for Annotation-Free Tissue Analysis in Histopathology Images"   
+      project_excerpt: "Mohammed Aburidi and Roummel Marcia"                      
+      img: ":p5.jpg"
+      #img_title: "img title3"
+      date: "2023-06-10"
+      post: |
+        L.
+
+    - type: id_accomplished
+      project_name: "CLOT: Contrastive Learning-Driven and Optimal Transport-Based Training for Simultaneous Clustering"   
+      project_excerpt: "Mohammed Aburidi and Roummel Marcia"                      
+      img: ":p6.jpg"
+      #img_title: "img title3"
+      date: "2023-03-20"
+      post: |
+        L.
+
+    - type: id_accomplished
+      project_name: "Genetic Variant Detection Over Generations: Sparsity-Constrained Optimization Using Block-Coordinate Descent"   
+      project_excerpt: "Mohammed Aburidi and Roummel Marcia"                      
+      img: ":p7.jpg"
+      #img_title: "img title3"
+      date: "2022-09-10"
+      post: |
+        L.
+
+        
+    - type: id_accomplished
+      project_name: "Rubost Detrended Fluctuation Analysis (DFA) and its application to envelopes of human alpha rhythms"   
+      project_excerpt: "Mohammed Aburidi, Guido Nolte, Andreas K. Engel"                      
+      img: ":p8.jpg"
+      #img_title: "img title3"
+      date: "2018-08-10" 
+      post: |
+        L.
+
+    - type: id_internship
+      project_name: "Reconstruction of the Spatio-temporal Activation Map of the Human Heart Voltage Evolution"   
+      project_excerpt: "Mohammed Aburidi, Hannah Love, Charles Rivera, Richard Tobing"                      
+      img: ":p10.jpg"
+      #img_title: "img title3"
+      date: "2023-07-10" 
+      post: |
+        L.
+
+    - type: id_internship 
+      project_name: "Parallelized Ray-Based Framework Adaptive ReaL Time Analysis of Big Fusion Data"   
+      project_excerpt: "Mohammed Aburidi, Laurie Stephey, Ralph Kube, Michael Churchill, Jong Choi"                      
+      img: ":p9.jpg"
+      #img_title: "img title3"
+      date: "2022-08-10" 
+      post: |
+        L.
 
 
 
