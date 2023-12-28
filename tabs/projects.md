@@ -39,7 +39,7 @@ page_data:
     info: "Your Project page description."
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
-    img: ":research_projects.jpg"
+    img: ":rp.jpg"
     back_color: "lightblue"
 
   category:
