@@ -55,10 +55,13 @@ lng_pair: id_group
       <li>Optimization methods applied to small molecules</li>
       <li>Combinatorial optimization</li>
     </ul>
+    <div style="height: 10px;"></div>
+    <strong>Email: maburidi@ucmerced.edu</strong> 
+
   </div>
   <div style="float: left; width: 20%;">
     <!-- Your image goes here -->
-     <img src="../assets/img/about/PhotoM.jpg" alt="Your Image Description" style="max-width: 100%; height: 120%;"/>
+     <img src="../assets/img/about/PhotoM.jpg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
 
   </div>
     <div style="clear: both;"></div>        
@@ -69,4 +72,3 @@ lng_pair: id_group
 <div style="height: 20px;"></div>
 
 
-<div style="border-top: 2px solid gray;"></div>
