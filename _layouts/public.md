@@ -9,12 +9,13 @@ layout: default
 {%- include multi_lng/get-lng-by-url.liquid -%}
 {%- assign lng = get_lng -%}
 <div class="multipurpose-container about-container">
+  <!-- 
   <div class="row about-main">
     <div class="col-md-3 about-img">
       <img src="{{ page.img }}" alt="">
     </div>
-    <div class="col-md-9 about-header">
-      <h1 translate="no">{{ site.data.owner[lng].brand }}</h1>
+    <div class="col-md-9 about-header"> 
+      <h1 translate="no">{{ site.data.owner[lng].brand }}</h1> 
       <div class="meta-container">
         {%- assign about_title = site.data.owner[lng].about.sub_title | replace: site.data.conf.main.sample_replace, site.data.lang[lng].constants.sample -%}
         {%- if site.data.owner[lng].about.sub_title %}
@@ -52,5 +53,5 @@ layout: default
         {% endif -%}
       </div>
     </div>
-  </div>
+  </div> -->
 </div>
