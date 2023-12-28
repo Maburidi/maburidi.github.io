@@ -23,7 +23,7 @@ layout: default
             {%- if site.data.conf.others.about.sub_title_icon %}<i class="{{ 'fa-fw ' }}{{ site.data.conf.others.about.sub_title_icon }}" aria-hidden="true"></i>{% endif -%}
             &nbsp;{{ about_title }}
           </p> 
-        {% endif -%}-->  
+        {% endif -%}
         {%- assign tmp_obj =  site.data.owner[lng].contacts | where_exp: "item", "item.email != nil" | first -%}
         {%- assign email = tmp_obj['email'] -%}
         {%- if site.data.conf.others.about.show_email and email %}
@@ -34,7 +34,7 @@ layout: default
               &nbsp;{{ site.data.lang[lng].about.email_title }}
             </a>
           </p>
-        {% endif -%}
+        {% endif -%} -->
         {%- if site.data.conf.others.about.show_contacts and site.data.owner[lng].contacts.size > 0 %}
           {% include default/nav/contact-links.html -%}
         {% endif -%}
