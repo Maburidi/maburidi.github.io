@@ -4,54 +4,53 @@
 # Licensed under MIT
 
 layout: default
-# Links page
+# About page
 ---
 {%- include multi_lng/get-lng-by-url.liquid -%}
 {%- assign lng = get_lng -%}
-
-{%- assign links_data = page.page_data | default: site.data.content.links[lng].page_data -%}
-
-<div class="multipurpose-container links-heading-container">
-  <h1>{{ links_data.main.header | default: "Links" }}</h1>
-  <p>{{ links_data.main.info | default: "No data, check page_data in [language]/tabs/links.md front matter or _data/content/links/[language].yml" }}</p>
-  <div class="multipurpose-button-wrapper">
-    {%- for category in links_data.category %}
-      <a href="#{{ category.type }}" role="button" class="multipurpose-button link-buttons" style="background-color:{{ category.color }};">{{ category.title }}</a>
-    {% endfor -%}
+<div class="multipurpose-container about-container">
+  <div class="row about-main">
+    <div class="col-md-3 about-img">
+      <img src="{{ page.img }}" alt="">
+    </div>
+    <div class="col-md-9 about-header">
+      <h1 translate="no">{{ site.data.owner[lng].brand }}</h1>
+      <div class="meta-container">
+        {%- assign about_title = site.data.owner[lng].about.sub_title | replace: site.data.conf.main.sample_replace, site.data.lang[lng].constants.sample -%}
+        {%- if site.data.owner[lng].about.sub_title %}
+          <p class="sub-title">
+            {%- if site.data.conf.others.about.sub_title_icon %}<i class="{{ 'fa-fw ' }}{{ site.data.conf.others.about.sub_title_icon }}" aria-hidden="true"></i>{% endif -%}
+            &nbsp;{{ about_title }}
+          </p>
+        {% endif -%}
+        {%- assign tmp_obj =  site.data.owner[lng].contacts | where_exp: "item", "item.email != nil" | first -%}
+        {%- assign email = tmp_obj['email'] -%}
+        {%- if site.data.conf.others.about.show_email and email %}
+          {%- assign _email = email | split: '@' %}
+          <p class="email">
+            <a href="javascript:void(0);" onclick="setAddress('{{ _email[0] }}', '{{ _email[1] }}');">
+              {%- if site.data.conf.others.about.email_icon %}<i class="{{ 'fa-fw ' }}{{ site.data.conf.others.about.email_icon }}"></i>{% endif -%}
+              &nbsp;{{ site.data.lang[lng].about.email_title }}
+            </a>
+          </p>
+        {% endif -%}
+        {%- if site.data.conf.others.about.show_contacts and site.data.owner[lng].contacts.size > 0 %}
+          {% include default/nav/contact-links.html -%}
+        {% endif -%}
+      </div>
+    </div>
+  </div>
+  <div class="row about-divider">
+    <hr>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <div class="about-msg markdown-style">
+        {{ content }}
+        {%- if site.data.conf.main.contact_form.enable and site.data.conf.others.about.show_contact_form_button %}
+          <a href="javascript:void(0);" class="btn-base " onclick="ContactForm.show();" role="button">{{ site.data.lang[lng].contact_form.button_name }}</a>
+        {% endif -%}
+      </div>
+    </div>
   </div>
 </div>
-
-{%- if site.data.conf.others.links.use_rows_as_link -%}{%- assign hover_class = "table-hover" -%}{%- endif -%}
-{%- for category in links_data.category %}
-<div class="multipurpose-container link-container" id="{{ category.type }}" style="border-left-color:{{ category.color }};">
-  <h2>{{ category.title }}</h2>
-  <table class="table {{ hover_class }}">
-    <thead>
-      <tr>
-        <th>{{ site.data.lang[lng].links.info_text }}</th> 
-        <th>{{ site.data.lang[lng].links.info_text }}</th>
-      </tr>
-    </thead>
-    <tbody>
-      {%- for list in links_data.list %}
-        {%- if list.type != category.type %}{% continue %}{% endif -%}
-        {%- if site.data.conf.others.links.use_rows_as_link -%}
-          {%- capture link_onclick -%} onclick="openURL('{{ list.url }}');" style="cursor: pointer;" {%- endcapture -%}
-          {%- capture link_url -%} <b>{{ list.title }}</b> {%- endcapture -%}
-        {% else %}
-          {%- assign link_onclick = nil -%}
-          {%- capture link_url -%} <a href="{{ list.url }}" target="_blank" rel="noopener noreferrer"><b>{{ list.title }}</b></a> {%- endcapture -%}
-        {%- endif %}
-        <tr class="link-item" {{ link_onclick }}>
-          <td>
-            <p>{{ link_url }}</p>
-          </td>
-          <td>
-            <p>{{ list.info }}</p>
-          </td>
-        </tr>
-      {%- endfor %}
-    </tbody>
-  </table>
-</div>
-{% endfor %}

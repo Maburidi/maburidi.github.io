@@ -3,6 +3,8 @@ layout: public
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_public
 
+# image for page specific usage
+img: ":about.jpg"
 # publish date (used for seo)
 # if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
@@ -37,7 +39,6 @@ lng_pair: id_public
 
 
 
-
-
 + CLOT: Contrastive Learning-Driven and Optimal Transport-Based Training for Simultaneous Clustering [PDF](https://ieeexplore.ieee.org/abstract/document/10222290?casa_token=Met0VaGfoIYAAAAA:xY82a-jPcBxDLrcTTiYTRoJVmPxIUa39m5RsHsmbK0feudojmEhhik5mx2Re1bwoo4QFIvvxhA) [Bib](https://scholar.googleusercontent.com/scholar.bib?q=info:vk0iOPp4CrwJ:scholar.google.com/&output=citation&scisdr=ClHSueucEOmluhznBgU:AFWwaeYAAAAAZYzhHgUAGM6wuLqYt9zhQLIvyG0&scisig=AFWwaeYAAAAAZYzhHuWdZynoxbM02p5AUJ-VfdA&scisf=4&ct=citation&cd=-1&hl=en)." 
+
 

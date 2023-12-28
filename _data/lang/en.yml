@@ -168,11 +168,11 @@ teaching:
   link_text: Web site
   info_text: Info
 
+# for about layout
 public:
   title: Publications
   button_name: Publications
-  link_text: Links
-  info_text: Info 
+  email_title: email
 
 # for projects layout
 projects:
