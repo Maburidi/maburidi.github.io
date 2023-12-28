@@ -32,38 +32,12 @@ lng_pair: id_public
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
 #published: false
-
-
-# you can always move this content to _data/content/ folder
-# just create new file at _data/content/links/[language].yml and move content below.
-###########################################################
-#                Links Page Data
-###########################################################
-page_data:
-  main:
-    header: "Teaching"
-    info: "  "
-
-  # To change order of the Categories, simply change order. (you don't need to change list order.)
-  category:
-    - title: "Awards"
-      type: id_jekyiiliquid
-      color: "gray"
-    - title: "Fellowships"
-      type: id_webdesign
-      color: "#F4A273"
-
-  list:
-    -
-
-    # Awards
-    - type: id_jekyiiliquid            
-      info: "Transform your plain text into static websites and blogs."
-    - type: id_jekyiiliquid            
-      info: "Transform your plain text into static websites and blogs."
-
-    # Fellowships                       
-    - type: id_webdesign
-      title: "[Clustering [Code](https://www.google.com) [PDF](https://www.google.com) Clustering [Bib](https://www.google.com) ]"      
-      info: "CLOT: Contrastive Learning-Driven and Optimal Transport-Based Training for Simultaneous Clustering [Google](https://www.google.com)."
 ---
+
+
+
+
+
+
++ CLOT: Contrastive Learning-Driven and Optimal Transport-Based Training for Simultaneous Clustering [PDF](https://ieeexplore.ieee.org/abstract/document/10222290?casa_token=Met0VaGfoIYAAAAA:xY82a-jPcBxDLrcTTiYTRoJVmPxIUa39m5RsHsmbK0feudojmEhhik5mx2Re1bwoo4QFIvvxhA) [Bib](https://scholar.googleusercontent.com/scholar.bib?q=info:vk0iOPp4CrwJ:scholar.google.com/&output=citation&scisdr=ClHSueucEOmluhznBgU:AFWwaeYAAAAAZYzhHgUAGM6wuLqYt9zhQLIvyG0&scisig=AFWwaeYAAAAAZYzhHuWdZynoxbM02p5AUJ-VfdA&scisf=4&ct=citation&cd=-1&hl=en)." 
+
