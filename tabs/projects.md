@@ -82,11 +82,11 @@ page_data:
 
     # quote
     - type: id_quote
-      project_name: "Example Project"
+      project_name: "Combinatorial Optimization with Graph Neural Networks (GNNs)"
       project_excerpt: "Mohammed Aburidi"
-      #img: ":project1_thumb.jpg"
+      img: ":p1.jpg"
       #img_title: "img title3"
-      date: "2023-05-27"
+      date: "2023-10-27"
       post: |
         Let me not to the marriage of true minds
         Admit impediments. Love is not love
