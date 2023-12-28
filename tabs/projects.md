@@ -35,8 +35,8 @@ image_lazy_loader_on: true
 
 page_data:
   main:
-    header: "Projects"
-    info: "Your Project page description."
+    header: "Research Projects"
+    info: " "
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":rp.jpg"
@@ -101,6 +101,16 @@ page_data:
       date: "2023-09-20"
       post: |
         Let me not to the marriage of.
+
+    - type: id_current
+      project_name: "Drug-Drug Interaction Prediction via Matrix Factorization"   
+      project_excerpt: "Mohammed Aburidi and Roummel Marcia"                      
+      img: ":p3.jpg"
+      #img_title: "img title3"
+      date: "2023-12-15"
+      post: |
+        Let me not to the marriage of.
+
 
 
 
