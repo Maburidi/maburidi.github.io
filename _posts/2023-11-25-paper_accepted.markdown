@@ -7,9 +7,9 @@ title: "A paper is accepted for presentation at the IEEE AIMHC 2024"
 # if not specified, .name will be used from _data/owner/[language].yml
 author: Mohammed Aburidi
 # multiple category is not supported
-category: Projects
+category: Awards
 # multiple tag entries are possible
-tags: [ROS, python]
+#tags: [python]
 # thumbnail image for post
 img: ":p2.jpg"
 # disable comments on this page
