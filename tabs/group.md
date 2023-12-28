@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: group
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_group
 
@@ -44,9 +44,9 @@ page_data:
     back_color: "lightblue"
 
   category:
-    - title: "Current"
-      type: id_example
-      color: "gray"
+    #- title: "Current"
+    #  type: id_example
+    #  color: "gray"
     - title: "Accomplished"
       type: id_picture
       color: "#62b462"
