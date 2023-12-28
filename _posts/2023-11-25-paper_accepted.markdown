@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_mcs
-title: "Thrilled to announce that I've been awarded the Fall 2023 GSA Travel Award Fellowship"
+title: "Excited to share that my paper "Enhancing Drug Safety and Efficacy" has been accepted for presentation at the IEEE AIMHC 2024 conference in Los Angeles"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -38,7 +38,7 @@ date: 2023-12-05 10:04:30 +0900
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
-Thrilled to announce that I've been awarded the Fall 2023 GSA Travel Award Fellowship [See here](https://maburidi.github.io/tabs/links.html) for more details! 
+Excited to share that my paper "Enhancing Drug Safety and Efficacy: Wasserstein Distance-Based Graph Kernel for Drug Property" has been accepted for presentation at the IEEE AIMHC 2024 conference in Los Angeles [See here](https://maburidi.github.io/tabs/links.html) for more details! 
 
 
 
