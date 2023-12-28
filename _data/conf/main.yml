@@ -194,6 +194,8 @@ side_and_top_nav_buttons:
     icon: "fa fa-archive"
   - projects:
     icon: "fa fa-cog"
+  - group:
+    icon: "fa fa-cog"
   - links:
     icon: "fa fa-link"
   - about:
