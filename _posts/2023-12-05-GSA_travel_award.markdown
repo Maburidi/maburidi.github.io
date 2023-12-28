@@ -11,7 +11,7 @@ category: Projects
 # multiple tag entries are possible
 tags: [ROS, python]
 # thumbnail image for post
-img: ":sitlpos/1.png"
+img: ":p1.jpg"
 # disable comments on this page
 #comments_disable: true
 
