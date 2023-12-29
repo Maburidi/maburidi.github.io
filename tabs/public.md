@@ -82,5 +82,23 @@ for Annotation-Free Tissue Analysis in Histopathology Images. <span style="color
 
 
 
-+ 
+<h3>2018 </h3>
+<div style="border-top: 0.5px solid gray;"></div>
+
++ <p>  Nolte G <span style="color: #E6E6FA;"> Aburidi M </span>. Stationary Detrended Fluctuation Analysis in the Fourier domain. <span style="color: #ADD8E6;"> International Journal of Psychophysiology, </span> 131:S17-S18 DOI: 10.1016/j.ijpsycho.2018.07.055. 
+
+
+
++ <p>  <span style="color: #E6E6FA;"> Aburidi, M. J. </span> and Salman, A. Normalized Cumulative Periodogram Method For Tuning A Regularization parameter of The EEG Inverse Problem. <span style="color: #ADD8E6;"> The Journal of Middle East and North Africa Sciences, </span> 4(02), 23-32. <a href="https://oaji.net/pdf.html?n=2017/2705-1517390964.pdf"> Online </a> 
+
+
+<h3>2016 </h3>
+<div style="border-top: 0.5px solid gray;"></div>
+
+
++ <p>  <span style="color: #E6E6FA;"> Aburidi, M. J. </span>. A Comparative Study of the Regularization Parameter Estimation Methods for the EEG Inverse Problem. <span style="color: #ADD8E6;"> Masters Thesis, </span>  <a href="https://scholar.najah.edu/sites/default/files/Mohammed%20Jamil%20Aburidi.pdf"> Online </a> 
+
+
+
+
 
