@@ -108,8 +108,8 @@ img: ":home-heading.jpg"
     }
 
     img {
-      max-width: 40%;
-      height: auto;
+      max-width:20%;
+      height:20%; /* Set the desired height */
       border-radius: 0px; /* Optional: Add rounded corners */
     }
   </style>
