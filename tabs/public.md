@@ -44,7 +44,7 @@ lng_pair: id_public
 
 
 
-<h1>2023</h1>
+<h3>2023</h3>
 <div style="border-top: 0.5px solid gray;"></div>
 
 + <p>  <span style="color: #008080;"> (Submitted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Optimal Transport-Based Graph Kernels for Drug Property Prediction. <span style="color: #ADD8E6;"> Scientific Reports</span>. </p>
@@ -60,8 +60,24 @@ Based Graph Kernel for Drug Property Prediction. <span style="color: #ADD8E6;"> 
 for Annotation-Free Tissue Analysis in Histopathology Images. <span style="color: #ADD8E6;"> International Conference on Machine Learning and Applications, IEEE ICMLA 2023. </span>. </p>
 
 
-+ <p>  <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. CLOT: Contrastive Learning-Driven and Optimal Transport-Based Training for Simultaneous Clustering. <span style="color: #ADD8E6;"> CLOT: Contrastive Learning-Driven and Optimal Transport-Based Training for Simultaneous Clustering. </span> Kuala Lumpur, Malaysia, 2023, pp. 1515-1519, doi: 10.1109/ICIP49359.2023.10222290.  <a href="https://ieeexplore.ieee.org/abstract/document/10222290?casa_token=Met0VaGfoIYAAAAA:xY82a-jPcBxDLrcTTiYTRoJVmPxIUa39m5RsHsmbK0feudojmEhhik5mx2Re1bwoo4QFIvvxhA"> Online </a> 
++ <p>  <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. CLOT: Contrastive Learning-Driven and Optimal Transport-Based Training for Simultaneous Clustering. <span style="color: #ADD8E6;"> Clustering," 2023 IEEE International Conference on Image Processing (ICIP), </span> Kuala Lumpur, Malaysia, 2023, pp. 1515-1519, doi: 10.1109/ICIP49359.2023.10222290.  <a href="https://ieeexplore.ieee.org/abstract/document/10222290?casa_token=Met0VaGfoIYAAAAA:xY82a-jPcBxDLrcTTiYTRoJVmPxIUa39m5RsHsmbK0feudojmEhhik5mx2Re1bwoo4QFIvvxhA"> Online </a> 
 
++ <p>  <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Mario Banuelos, Suzanne Sindi, Roummel Marcia. Genetic Variant Detection Over Generations: Sparsity-Constrained Optimization Using Block-Coordinate Descent. <span style="color: #ADD8E6;"> IEEE International Symposium on Medical Measurements and Applications (MeMeA), </span>  <a href="https://ieeexplore.ieee.org/abstract/document/10171853"> Online </a> 
+
+
+
+<h3>2020</h3>
+<div style="border-top: 0.5px solid gray;"></div>
+
+
++ <p>  Hang Y <span style="color: #E6E6FA;"> Aburidi M </span> and Husain B, Hickman AR, Poehlman WL, Feltus FA. . Exploration into biomarker potential of region-specific brain gene co-expression networks. <span style="color: #ADD8E6;"> Scientific Reports, </span> 2020 Oct 13;10(1):17089. <a href="https://www.nature.com/articles/s41598-020-73611-1"> Online </a> 
+
+
+
+<h3>2019</h3>
+<div style="border-top: 0.5px solid gray;"></div>
+
++ <p>  Nolte G <span style="color: #E6E6FA;"> Aburidi M </span> and Engel AK. Robust calculation of slopes in detrended fluctuation analysis and its application to envelopes of human alpha rhythms. <span style="color: #ADD8E6;"> Scientific Reports, </span> 9:6339. https://doi.org/10.1038/ s41598-019-42732-7. <a href="https://www.nature.com/articles/s41598-019-42732-7"> Online </a> 
 
 
 
