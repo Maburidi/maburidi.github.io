@@ -92,6 +92,9 @@ img: ":home-heading.jpg"
   <style>
     body {
       text-align: center;
+      flex-direction: column;
+      align-items: center;
+
     }
 
     h2 {
@@ -122,10 +125,9 @@ img: ":home-heading.jpg"
 </head>
 <body>
 
-  <h2>Prior Affiliations</h2>
+  <h2 style="text-align: center; color: #FFD700; font-weight: bold;">Prior Affiliations</h2>
 
   <div class="image-container">
-    <div class="title">Prior Affiliations</div>
     <img src="../assets/img/home/img1.jpg" alt="Image 1">
     <img src="../assets/img/home/img1.jpg" alt="Image 2">
     <img src="../assets/img/home/img1.jpg" alt="Image 3">
