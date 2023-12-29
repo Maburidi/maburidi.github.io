@@ -116,8 +116,8 @@ img: ":home-heading.jpg"
     }
 
     img {
-      width: 100%;
-      height: 100%;
+      width: 50%;
+      height: 40%;
       object-fit: cover;
       border-radius: 8px; /* Optional: Add rounded corners */
     }
@@ -129,11 +129,11 @@ img: ":home-heading.jpg"
 
   <div class="image-container">
     <img src="../assets/img/home/img1.jpg" alt="Image 1">
-    <img src="../assets/img/home/img1.jpg" alt="Image 2">
-    <img src="../assets/img/home/img1.jpg" alt="Image 3">
-    <img src="../assets/img/home/img1.jpg" alt="Image 4">
-    <img src="../assets/img/home/img1.jpg" alt="Image 5">
-    <img src="../assets/img/home/img1.jpg" alt="Image 6">
+    <img src="../assets/img/home/img2.jpg" alt="Image 2">
+    <img src="../assets/img/home/img3.jpg" alt="Image 3">
+    <img src="../assets/img/home/img4.jpg" alt="Image 4">
+    <img src="../assets/img/home/img5.jpg" alt="Image 5">
+    <img src="../assets/img/home/img6.jpg" alt="Image 6">
   </div>
 
 </body>
