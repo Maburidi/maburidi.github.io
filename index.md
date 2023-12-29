@@ -57,6 +57,9 @@ img: ":home-heading.jpg"
 <p> I completed my master's degree in Applied Mathematics at UCM. Additionally, I hold another master's degree in Scientific Computing from An-Najah National University, along with a bachelor's degree in Physics. My interdisciplinary journey unfolds at the intersection of science and innovation. I apply my methods to unravel the intricacies of proteins, drugs, and small molecules, with the dual goal of expanding knowledge and revolutionizing practical applications. <br>      
 
 
+<div style="height: 30px;"></div>
+
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -65,7 +68,7 @@ img: ":home-heading.jpg"
 </head>
 <body>
 
-  <h2 style="text-align: center; color: #3366cc; font-weight: bold;">Education & Academic Affiliations</h2>
+  <h2 style="text-align: center; color: #FFD700; font-weight: bold;">Education & Academic Affiliations</h2>
 
   <div style="text-align: center;">
     <img src="../assets/img/home/ucm.png" alt="Your Image" style="max-width: 50%; height: auto;"/>
@@ -74,5 +77,7 @@ img: ":home-heading.jpg"
 </body>
 </html>
 
+
+<div style="height: 30px;"></div>
 
 
