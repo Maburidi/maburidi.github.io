@@ -71,7 +71,7 @@ img: ":home-heading.jpg"
   <h2 style="text-align: center; color: #FFD700; font-weight: bold;">Education & Academic Affiliations</h2>
 
   <div style="text-align: center;">
-    <img src="../assets/img/home/ucm.png" alt="Your Image" style="max-width: 50%; height: auto;"/>
+    <img src="../assets/img/home/ucm.png" alt="Your Image" style="max-width: 30%; height: auto;"/>
   </div>
 
 </body>
@@ -79,5 +79,67 @@ img: ":home-heading.jpg"
 
 
 <div style="height: 30px;"></div>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prior Affiliations</title>
+  <style>
+    body {
+      text-align: center;
+    }
+
+    h2 {
+      color: #3366cc;
+      font-weight: bold;
+    }
+
+    .image-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 20px;
+    }
+
+    .column {
+      flex: 1;
+      padding: 10px;
+    }
+
+    img {
+      width: 40%;
+      max-width: 50px; /* Adjust the maximum width of the images */
+      height: auto;
+      display: block;
+      margin: 0 auto;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Prior Affiliations</h2>
+
+  <div class="image-container">
+    <div class="column">
+      <img src="../assets/img/home/img1.jpg" alt="Image 1">
+      <img src="../assets/img/home/img2.jpg" alt="Image 2">
+    </div>
+    <div class="column">
+      <img src="../assets/img/home/img3.jpg" alt="Image 3">
+      <img src="../assets/img/home/img4.jpg" alt="Image 4">
+    </div>
+    <div class="column">
+      <img src="../assets/img/home/img5.jpg" alt="Image 5">
+      <img src="../assets/img/home/img6.jpg" alt="Image 6">
+    </div>
+  </div>
+
+</body>
+</html>
+
+
 
 
