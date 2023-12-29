@@ -36,9 +36,22 @@ lng_pair: id_public
 #published: false
 ---
 
+# Research Lead - [Google Scholar](https://scholar.google.com/citations?user=lGKFtoIAAAAJ&hl=en) 
+<div style="border-top: 2px solid gray;"></div>
+
+
+<div style="height: 40px;"></div>
+
+
+
+<h1>2023</h1>
+<div style="border-top: 1px solid gray;"></div>
+
++ <p style="color: #008080;"> (Submitted) </p> Optimal Transport-Based Graph Kernels for Drug Property Prediction. Scientific Reports. <p style="color: #E6E6FA;"> Scientific Reports.  </p>
 
 
 
 + CLOT: Contrastive Learning-Driven and Optimal Transport-Based Training for Simultaneous Clustering [PDF](https://ieeexplore.ieee.org/abstract/document/10222290?casa_token=Met0VaGfoIYAAAAA:xY82a-jPcBxDLrcTTiYTRoJVmPxIUa39m5RsHsmbK0feudojmEhhik5mx2Re1bwoo4QFIvvxhA) [Bib](https://scholar.googleusercontent.com/scholar.bib?q=info:vk0iOPp4CrwJ:scholar.google.com/&output=citation&scisdr=ClHSueucEOmluhznBgU:AFWwaeYAAAAAZYzhHgUAGM6wuLqYt9zhQLIvyG0&scisig=AFWwaeYAAAAAZYzhHuWdZynoxbM02p5AUJ-VfdA&scisf=4&ct=citation&cd=-1&hl=en)." 
 
++ 
 
