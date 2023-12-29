@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_mcs
-title: "A paper is accepted for presentation at the IEEE ICIP 2023"
+title: "A paper is accepted for presentation at the IEEE MeMeA 2023"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -16,7 +16,7 @@ img: ":p2.jpg"
 #comments_disable: true
 
 # publish date
-date: 2023-06-10 10:04:30 +0900
+date: 2023-03-10 10:04:30 +0900 
 
 # seo
 # if not specified, date will be used.
@@ -38,8 +38,7 @@ date: 2023-06-10 10:04:30 +0900
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
-Excited to share that my paper "CLOT: Contrastive Learning-Driven and Optimal Transport-Based
-Training for Simultaneous Clustering", to the 2023 IEEE International Conference on Image Processing, [IEEE ICIP 2023](https://2023.ieeeicip.org/) conference in Kuala Lumpur!   
+Excited to share that my paper "Genetic Variant Detection Over Generations: Sparsity-Constrained Optimization Using Block-Coordinate Descent" to the IEEE International Symposium on Medical Measurements and Applications [IEEE MeMeA 2023](https://memea2023.ieee-ims.org/) in Korea!  
 
 
 
