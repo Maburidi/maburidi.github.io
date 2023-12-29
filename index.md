@@ -68,7 +68,7 @@ img: ":home-heading.jpg"
 </head>
 <body>
 
-  <h2 style="text-align: center; color: #FFD700; font-weight: bold;">Education & Academic Affiliations</h2>
+  <h5 style="text-align: center; color: #FFD700; font-weight: bold;">Education & Academic Affiliations</h5>
 
   <div style="text-align: center;">
     <img src="../assets/img/home/ucm.png" alt="Your Image" style="max-width: 30%; height: auto;"/>
@@ -78,10 +78,12 @@ img: ":home-heading.jpg"
 </html>
 
 
-<div style="height: 40px;"></div>
 
 
 
+
+
+  <h5 style="text-align: center; color: #FFD700; font-weight: bold;">Prior Affiliations</h5>
 
 
 
@@ -91,7 +93,7 @@ img: ":home-heading.jpg"
     <img src="../assets/img/home/img3.jpg" alt="Image 3" style="width: 80px; height: 50px; object-fit: cover; border-radius: 8px;">
     <img src="../assets/img/home/img4.jpg" alt="Image 4" style="width: 80px; height: 50px; object-fit: cover; border-radius: 8px;">
     <img src="../assets/img/home/img5.jpg" alt="Image 5" style="width: 80px; height: 50px; object-fit: cover; border-radius: 8px;">
-    <img src="../assets/img/home/img6.jpg" alt="Image 6" style="width: 80px; height: 50px; object-fit: cover; border-radius: 8px;">
+    <img src="../assets/img/home/img6.png" alt="Image 6" style="width: 80px; height: 50px; object-fit: cover; border-radius: 8px;">
 </div>
 
 
