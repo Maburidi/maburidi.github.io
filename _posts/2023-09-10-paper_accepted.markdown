@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_mcs
-title: "A paper is accepted for presentation at the IEEE AIMHC 2024"
+title: "A paper is accepted for presentation at the IEEE ICMLA 2023"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -16,7 +16,7 @@ img: ":p2.jpg"
 #comments_disable: true
 
 # publish date
-date: 2023-11-25 10:04:30 +0900
+date: 2023-09-10 10:04:30 +0900
 
 # seo
 # if not specified, date will be used.
@@ -38,7 +38,7 @@ date: 2023-11-25 10:04:30 +0900
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
-Excited to share that my paper "Enhancing Drug Safety and Efficacy: Wasserstein Distance-Based Graph Kernel for Drug Property" has been accepted for presentation at the  [IEEE AIMHC 2024](https://www.aimhc.org/) conference in Los Angeles! 
+Excited to share that my paper "E(2023) Optimal Transport and Contrastive-Based Clustering for Annotation-Free Tissue Analysis in Histopathology Images. International Conference on Machine Learning and Applications [IEEE ICMLA 2023](https://www.icmla-conference.org/icmla23/) conference in Florida!  
 
 
 

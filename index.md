@@ -93,7 +93,7 @@ img: ":home-heading.jpg"
     <img src="../assets/img/home/img2.jpg" alt="Image 2" style="width: 120px; height: 80px; object-fit: cover; border-radius: 8px;">
     <img src="../assets/img/home/img3.jpg" alt="Image 3" style="width: 80px; height: 80px; object-fit: cover; border-radius: 8px;">
     <img src="../assets/img/home/img4.jpg" alt="Image 4" style="width: 80px; height: 80px; object-fit: cover; border-radius: 8px;">
-    <img src="../assets/img/home/img5.png" alt="Image 5" style="width: 120px; height: 80px; object-fit: cover; border-radius: 8px;">
+    <img src="../assets/img/home/img5.png" alt="Image 5" style="width: 140px; height: 80px; object-fit: cover; border-radius: 8px;">
     <img src="../assets/img/home/img6.png" alt="Image 6" style="width: 80px; height: 80px; object-fit: cover; border-radius: 8px;">
 </div>
 
