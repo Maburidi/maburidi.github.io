@@ -47,8 +47,7 @@ lng_pair: id_public
 <h1>2023</h1>
 <div style="border-top: 0.5px solid gray;"></div>
 
-+ <p>  <span style="color: #008080;"> (Submitted)</span>   Optimal Transport-Based Graph Kernels for Drug Property Prediction. Scientific Reports. <span style="color: #A52A2A;"> Scientific Reports</span>. </p>
-
++ <p>  <span style="color: #008080;"> (Submitted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi and Roummel Marcia </span> Optimal Transport-Based Graph Kernels for Drug Property Prediction. Scientific Reports. <span style="color: #FA8072;"> Scientific Reports</span>. </p>
 
 
 
