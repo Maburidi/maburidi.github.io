@@ -4,7 +4,7 @@ layout: about
 lng_pair: id_about
 
 # image for page specific usage
-img: ":about.jpg"
+img: ":PhotoM.jpg"
 # publish date (used for seo)
 # if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
@@ -36,5 +36,23 @@ img: ":about.jpg"
 #published: false
 ---
 
-Hello there! 
+Interested in my research, teaching, or service?  Please feel free to reach out to me to learn more.
 
+<div style="height: 20px;"></div>
+
+<p><strong style="color: green;">Mailing address:</strong> <br>
+School of Natural Sciences<br>
+University of California, Merced<br>
+5200 North Lake Road<br>
+Merced, CA 95343</p>
+
+<div style="height: 20px;"></div>
+
+<div>
+  <p><strong style="color: green;">Office:</strong> 363 ACS Bldg</p>
+  <p><strong style="color: green;">Email-1:</strong> <a href="mailto:maburidi@ucmerced.edu">maburidi@ucmerced.edu</a></p>
+  <p><strong style="color: green;">Email-2:</strong> <a href="mailto:maburidi@gmail.com">maburidi@gmail.com</a></p>  
+  <p><strong style="color: green;">Phone:</strong> +1 (380) 900-1161</p> 
+  <p><strong style="color: green;">WhatsApp:</strong> 0013809001161</p> 
+
+</div>

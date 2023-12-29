@@ -96,7 +96,7 @@ for Annotation-Free Tissue Analysis in Histopathology Images. <span style="color
 <div style="border-top: 0.5px solid gray;"></div>
 
 
-+ <p>  <span style="color: #E6E6FA;"> Aburidi, M. J. </span>. A Comparative Study of the Regularization Parameter Estimation Methods for the EEG Inverse Problem. <span style="color: #ADD8E6;"> Masters Thesis, </span>  <a href="https://scholar.najah.edu/sites/default/files/Mohammed%20Jamil%20Aburidi.pdf"> Online </a> 
++ <p>  <span style="color: #E6E6FA;"> Aburidi, M. J. </span>. A Comparative Study of the Regularization Parameter Estimation Methods for the EEG Inverse Problem. <span style="color: #ADD8E6;"> Masters Thesis, </span>  <a href="https://scholar.najah.edu/sites/default/files/Mohammed%20Jamil%20Aburidi.pdfiop"> Online </a> 
 
 
 
