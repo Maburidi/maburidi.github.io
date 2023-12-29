@@ -56,9 +56,16 @@ lng_pair: id_public
 Based Graph Kernel for Drug Property Prediction. <span style="color: #FA8072;"> First IEEE International Conference on ARTIFICIAL INTELLIGENCE for MEDICINE, HEALTH, and CARE. </span>. </p>
 
 
++ <p>  <span style="color: #008080;"> (Accepted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Transport and Contrastive-Based Clustering
+for Annotation-Free Tissue Analysis in Histopathology Images. <span style="color: #FA8072;"> International Conference on Machine Learning and Applications, IEEE ICMLA 2023. </span>. </p>
 
 
-+ CLOT: Contrastive Learning-Driven and Optimal Transport-Based Training for Simultaneous Clustering [PDF](https://ieeexplore.ieee.org/abstract/document/10222290?casa_token=Met0VaGfoIYAAAAA:xY82a-jPcBxDLrcTTiYTRoJVmPxIUa39m5RsHsmbK0feudojmEhhik5mx2Re1bwoo4QFIvvxhA) [Bib](https://scholar.googleusercontent.com/scholar.bib?q=info:vk0iOPp4CrwJ:scholar.google.com/&output=citation&scisdr=ClHSueucEOmluhznBgU:AFWwaeYAAAAAZYzhHgUAGM6wuLqYt9zhQLIvyG0&scisig=AFWwaeYAAAAAZYzhHuWdZynoxbM02p5AUJ-VfdA&scisf=4&ct=citation&cd=-1&hl=en)." 
++ <p>  <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. CLOT: Contrastive Learning-Driven and Optimal Transport-Based Training for Simultaneous Clustering. <span style="color: #FA8072;"> CLOT: Contrastive Learning-Driven and Optimal Transport-Based Training for Simultaneous Clustering. </span> Kuala Lumpur, Malaysia, 2023, pp. 1515-1519, doi: 10.1109/ICIP49359.2023.10222290. [PDF](https://ieeexplore.ieee.org/abstract/document/10222290?casa_token=Met0VaGfoIYAAAAA:xY82a-jPcBxDLrcTTiYTRoJVmPxIUa39m5RsHsmbK0feudojmEhhik5mx2Re1bwoo4QFIvvxhA)  </p> 
+
+
+
+
+
 
 + 
 
