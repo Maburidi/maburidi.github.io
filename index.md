@@ -103,14 +103,14 @@ img: ":home-heading.jpg"
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
-      gap: 20px;
-      margin-top: 20px;
+      gap: 10px;
+      margin-top: 10px;
     }
 
     img {
-      max-width: 100%;
+      max-width: 40%;
       height: auto;
-      border-radius: 8px; /* Optional: Add rounded corners */
+      border-radius: 0px; /* Optional: Add rounded corners */
     }
   </style>
 </head>
@@ -124,7 +124,7 @@ img: ":home-heading.jpg"
     <img src="../assets/img/home/img3.jpg" alt="Image 3">
     <img src="../assets/img/home/img4.jpg" alt="Image 4">
     <img src="../assets/img/home/img5.jpg" alt="Image 5">
-    <img src="../assets/img/home/img6.jpg" alt="Image 6">
+    <img src="../assets/img/home/img6.png" alt="Image 6">
   </div>
 
 </body>
