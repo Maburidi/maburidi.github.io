@@ -83,8 +83,7 @@ img: ":home-heading.jpg"
 
 
 
-<!DOCTYPE html>
-<html lang="en">
+<html lang="en">  
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -108,8 +107,8 @@ img: ":home-heading.jpg"
     }
 
     img {
-      max-width:20%;
-      height:30px; /* Set the desired height */
+      max-width:30%;
+      height:40px; /* Set the desired height */
       border-radius: 0px; /* Optional: Add rounded corners */
     }
   </style>
