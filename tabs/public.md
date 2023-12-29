@@ -36,7 +36,7 @@ lng_pair: id_public
 #published: false
 ---
 
-# Publications - [<i class="fa-brands fa-google-scholar"></i>](https://scholar.google.com/citations?user=lGKFtoIAAAAJ&hl=en) 
+# PEER-REVIEWED PUBLICATIONS - [Google Scholar](https://scholar.google.com/citations?user=lGKFtoIAAAAJ&hl=en) 
 <div style="border-top: 2px solid gray;"></div>
 
 
@@ -47,7 +47,8 @@ lng_pair: id_public
 <h1>2023</h1>
 <div style="border-top: 0.5px solid gray;"></div>
 
-+ <p>  <span style="color: #008080;"> (Submitted)</span>   Optimal Transport-Based Graph Kernels for Drug Property Prediction. Scientific Reports. </span> style="color: #E6E6FA;"> Scientific Reports</span>. </p>
++ <p>  <span style="color: #008080;"> (Submitted)</span>   Optimal Transport-Based Graph Kernels for Drug Property Prediction. Scientific Reports. </span style="color: #A52A2A;"> Scientific Reports</span>. </p>
+
 
 
 
