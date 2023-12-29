@@ -52,7 +52,7 @@ page_data:
     - title: "Fellowships"
       type: id_fellowships
       color: "#F4A273"
-    - title: "Assistantship"
+    - title: "Assistantships"
       type: id_assistantship
       color: "red"
 

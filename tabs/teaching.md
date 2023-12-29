@@ -46,25 +46,51 @@ page_data:
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "Awards"
-      type: id_jekyiiliquid
+    - title: "2023" 
+      type: id_2023
+      color: "#FFD700"
+    - title: "2022"
+      type: id_2022 
       color: "gray"
-    - title: "Fellowships"
-      type: id_webdesign
-      color: "#F4A273"
+    - title: "2021" 
+      type: id_2021
+      color: "#FA8072"
+    - title: "2020" 
+      type: id_2020
+      color: "#E6E6FA"
+
 
   list:
     -
 
     # Awards
-    - type: id_jekyiiliquid            
-      title: "Jekyll"                    
-      url: "https://jekyllrb.com/"      
-      info: "Transform your plain text into static websites and blogs."
 
-    # Fellowships                       
-    - type: id_webdesign     
-      title: "W3Schools"    
-      url: "https://jekyllrb.com"
-      info: " more."
+    - type: id_2023            
+      title: "Spring: MATH-131"                   
+      url: "https://catalog.ucmerced.edu/preview_course_nopop.php?catoid=20&coid=48564"      
+      info: "Numerical Methods for Scientists and Engineers, Applied Math Department, University of California, Merced"
+    - type: id_2022            
+      title: "Fall: MATH-131"                   
+      url: "https://catalog.ucmerced.edu/preview_course_nopop.php?catoid=20&coid=48564"      
+      info: "Numerical Methods for Scientists and Engineers, Applied Math Department, University of California, Merced"
+    - type: id_2022            
+      title: "Spring: MATH-131"                   
+      url: "https://catalog.ucmerced.edu/preview_course_nopop.php?catoid=20&coid=48564"      
+      info: "Numerical Methods for Scientists and Engineers, Applied Math Department, University of California, Merced"
+    - type: id_2021            
+      title: "Fall: MATH-022"                   
+      url: "https://catalog.ucmerced.edu/preview_course_nopop.php?catoid=16&coid=39688"       
+      info: "Calculus II for Scientists and Engineers, Applied Math Department, University of California, Merced"
+
+    - type: id_2021            
+      title: "Spring: CS-10671101"                    
+      url: "https://catalog.ucmerced.edu/preview_course_nopop.php?catoid=16&coid=39688"       
+      info: "Principles of Programming I, Computer Science Department An-Najah National University"
+    - type: id_2020           
+      title: "Fall: CS-11000127"                    
+      url: "https://catalog.ucmerced.edu/preview_course_nopop.php?catoid=16&coid=39688"       
+      info: "Introduction to Computer Science, Computer Science Department An-Najah National University"
+
+
+
 ---
