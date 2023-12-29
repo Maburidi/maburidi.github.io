@@ -68,13 +68,11 @@ img: ":home-heading.jpg"
   <h2 style="text-align: center; color: #3366cc; font-weight: bold;">Education & Academic Affiliations</h2>
 
   <div style="text-align: center;">
-    <img src="../assets/img/home/ucm.png" alt="Your Image" style="max-width: 100%; height: auto;"/>
+    <img src="../assets/img/home/ucm.png" alt="Your Image" style="max-width: 50%; height: auto;"/>
   </div>
 
 </body>
 </html>
-
-
 
 
 
