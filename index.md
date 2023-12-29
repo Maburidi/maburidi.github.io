@@ -81,6 +81,9 @@ img: ":home-heading.jpg"
 <div style="height: 40px;"></div>
 
 
+
+
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -92,30 +95,28 @@ img: ":home-heading.jpg"
     }
 
     h2 {
-      style="text-align: center; 
       color: #FFD700;
       font-weight: bold;
     }
 
     .image-container {
-      display: flex;
-      justify-content: center;
-      align-items: center;
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
       margin-top: 20px;
     }
 
-    .column {
-      flex: 1;
-      padding: 10px;
+    .title {
+      grid-column: span 2; /* Span across both columns */
+      text-align: center;
+      margin-bottom: 20px; /* Adjust margin as needed */
     }
 
     img {
       width: 100%;
-      max-width: 200px; /* Adjust the maximum width of the images */
-      height: auto;
-      display: block;
-      margin: 0 auto;
-      margin-bottom: 10px;
+      height: 100%;
+      object-fit: cover;
+      border-radius: 8px; /* Optional: Add rounded corners */
     }
   </style>
 </head>
@@ -124,22 +125,24 @@ img: ":home-heading.jpg"
   <h2>Prior Affiliations</h2>
 
   <div class="image-container">
-    <div class="column">
-      <img src="../assets/img/home/img1.jpg" alt="Image 1">
-      <img src="../assets/img/home/img2.jpg" alt="Image 2">
-    </div>
-    <div class="column">
-      <img src="../assets/img/home/img3.jpg" alt="Image 3">
-      <img src="../assets/img/home/img4.jpg" alt="Image 4">
-    </div>
-    <div class="column">
-      <img src="../assets/img/home/img5.jpg" alt="Image 5">
-      <img src="../assets/img/home/img6.jpg" alt="Image 6">
-    </div>
+    <div class="title">Prior Affiliations</div>
+    <img src="../assets/img/home/img1.jpg" alt="Image 1">
+    <img src="../assets/img/home/img1.jpg" alt="Image 2">
+    <img src="../assets/img/home/img1.jpg" alt="Image 3">
+    <img src="../assets/img/home/img1.jpg" alt="Image 4">
+    <img src="../assets/img/home/img1.jpg" alt="Image 5">
+    <img src="../assets/img/home/img1.jpg" alt="Image 6">
   </div>
 
 </body>
 </html>
+
+
+
+
+
+
+
 
 
 
