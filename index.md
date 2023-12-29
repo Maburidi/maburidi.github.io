@@ -84,10 +84,8 @@ img: ":home-heading.jpg"
 
 
 <html lang="en">  
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Home</title>
   <style>
     body {
       text-align: center;
@@ -113,6 +111,8 @@ img: ":home-heading.jpg"
     }
   </style>
 </head>
+
+
 <body>
 
   <h2 style="text-align: center; color: #FFD700; font-weight: bold;">Prior Affiliations</h2>
