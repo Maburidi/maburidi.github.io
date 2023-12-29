@@ -90,10 +90,10 @@ img: ":home-heading.jpg"
 
 <div style="text-align: center; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
     <img src="../assets/img/home/img1.jpg" alt="Image 1" style="width: 80px; height: 80px; object-fit: cover; border-radius: 8px;">
-    <img src="../assets/img/home/img2.jpg" alt="Image 2" style="width: 100%; height: 80px; object-fit: cover; border-radius: 8px;">
+    <img src="../assets/img/home/img2.jpg" alt="Image 2" style="width: 120px; height: 80px; object-fit: cover; border-radius: 8px;">
     <img src="../assets/img/home/img3.jpg" alt="Image 3" style="width: 80px; height: 80px; object-fit: cover; border-radius: 8px;">
     <img src="../assets/img/home/img4.jpg" alt="Image 4" style="width: 80px; height: 80px; object-fit: cover; border-radius: 8px;">
-    <img src="../assets/img/home/img5.png" alt="Image 5" style="width: 80px; height: 80px; object-fit: cover; border-radius: 8px;">
+    <img src="../assets/img/home/img5.png" alt="Image 5" style="width: 120px; height: 80px; object-fit: cover; border-radius: 8px;">
     <img src="../assets/img/home/img6.png" alt="Image 6" style="width: 80px; height: 80px; object-fit: cover; border-radius: 8px;">
 </div>
 
