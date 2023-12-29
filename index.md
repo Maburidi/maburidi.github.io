@@ -78,7 +78,7 @@ img: ":home-heading.jpg"
 </html>
 
 
-<div style="height: 30px;"></div>
+<div style="height: 40px;"></div>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -109,8 +109,8 @@ img: ":home-heading.jpg"
     }
 
     img {
-      width: 40%;
-      max-width: 50px; /* Adjust the maximum width of the images */
+      width: 100%;
+      max-width: 200px; /* Adjust the maximum width of the images */
       height: auto;
       display: block;
       margin: 0 auto;
