@@ -83,52 +83,16 @@ img: ":home-heading.jpg"
 
 
 
-<html lang="en">  
-
-<head>
-  <style>
-    body {
-      text-align: center;
-    }
-
-    h2 {
-      color: #3366cc;
-      font-weight: bold;
-    }
-
-    .image-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 10px;
-      margin-top: 10px;
-    }
-
-    img {
-      max-width:30%;
-      height:40px; /* Set the desired height */
-      border-radius: 0px; /* Optional: Add rounded corners */
-    }
-  </style>
-</head>
 
 
-<body>
-
-  <h2 style="text-align: center; color: #FFD700; font-weight: bold;">Prior Affiliations</h2>
-
-  <div class="image-container">
-    <img src="../assets/img/home/img1.jpg" alt="Image 1">
-    <img src="../assets/img/home/img2.jpg" alt="Image 2">
-    <img src="../assets/img/home/img3.jpg" alt="Image 3">
-    <img src="../assets/img/home/img4.jpg" alt="Image 4">
-    <img src="../assets/img/home/img5.jpg" alt="Image 5">
-    <img src="../assets/img/home/img6.png" alt="Image 6">
-  </div>
-
-</body>
-</html>
-
+<div style="text-align: center; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+    <img src="../assets/img/home/img1.jpg" alt="Image 1" style="width: 80px; height: 50px; object-fit: cover; border-radius: 8px;">
+    <img src="../assets/img/home/img2.jpg" alt="Image 2" style="width: 80px; height: 50px; object-fit: cover; border-radius: 8px;">
+    <img src="../assets/img/home/img3.jpg" alt="Image 3" style="width: 80px; height: 50px; object-fit: cover; border-radius: 8px;">
+    <img src="../assets/img/home/img4.jpg" alt="Image 4" style="width: 80px; height: 50px; object-fit: cover; border-radius: 8px;">
+    <img src="../assets/img/home/img5.jpg" alt="Image 5" style="width: 80px; height: 50px; object-fit: cover; border-radius: 8px;">
+    <img src="../assets/img/home/img6.jpg" alt="Image 6" style="width: 80px; height: 50px; object-fit: cover; border-radius: 8px;">
+</div>
 
 
 
