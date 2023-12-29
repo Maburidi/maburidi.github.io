@@ -50,11 +50,30 @@ img: ":home-heading.jpg"
 <h3 style="text-align: center;"> Ph.D. Candidate </h3>	--> 
 
 
-<h5> Greetings! Welcome to my personal website. </h5>     
+<h5> Welcome to my personal website! </h5>     
 
 <p> I'm Mohammed, a Ph.D. candidate at the University of California Merced (UCM), USA. My primary research interests lie in graph/geometric machine learning and optimization. Specifically, I employ Optimal Transport theory for metric learning and craft Graph Neural Network (GNNs)-based solvers for combinatorial optimization problems. <br>     
 
 <p> I completed my master's degree in Applied Mathematics at UCM. Additionally, I hold another master's degree in Scientific Computing from An-Najah National University, along with a bachelor's degree in Physics. My interdisciplinary journey unfolds at the intersection of science and innovation. I apply my methods to unravel the intricacies of proteins, drugs, and small molecules, with the dual goal of expanding knowledge and revolutionizing practical applications. <br>      
+
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Education & Academic Affiliations</title>
+</head>
+<body>
+
+  <h2 style="text-align: center; color: #3366cc; font-weight: bold;">Education & Academic Affiliations</h2>
+
+  <div style="text-align: center;">
+    <img src="../assets/img/home/ucm.png" alt="Your Image" style="max-width: 100%; height: auto;"/>
+  </div>
+
+</body>
+</html>
+
 
 
 
