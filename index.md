@@ -83,42 +83,33 @@ img: ":home-heading.jpg"
 
 
 
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Prior Affiliations</title>
+  <title>Home</title>
   <style>
     body {
       text-align: center;
-      flex-direction: column;
-      align-items: center;
-
     }
 
     h2 {
-      color: #FFD700;
+      color: #3366cc;
       font-weight: bold;
     }
 
     .image-container {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
       gap: 20px;
       margin-top: 20px;
     }
 
-    .title {
-      grid-column: span 2; /* Span across both columns */
-      text-align: center;
-      margin-bottom: 20px; /* Adjust margin as needed */
-    }
-
     img {
-      width: 50%;
-      height: 40%;
-      object-fit: cover;
+      max-width: 100%;
+      height: auto;
       border-radius: 8px; /* Optional: Add rounded corners */
     }
   </style>
@@ -138,6 +129,8 @@ img: ":home-heading.jpg"
 
 </body>
 </html>
+
+
 
 
 
