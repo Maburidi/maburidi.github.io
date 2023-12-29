@@ -80,7 +80,7 @@ img: ":home-heading.jpg"
 
 <div style="height: 40px;"></div>
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -92,7 +92,8 @@ img: ":home-heading.jpg"
     }
 
     h2 {
-      color: #3366cc;
+      style="text-align: center; 
+      color: #FFD700;
       font-weight: bold;
     }
 
