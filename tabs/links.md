@@ -58,7 +58,11 @@ page_data:
 
 
   list:
-    -
+    - type: id_awards
+      title: "AMAT Travel Award"
+      url: " "
+      info: "January 2024: AMAT Travel Award Fellowship, University of California, Merced (UCM)"
+
 
     # Awards
     - type: id_fellowships
