@@ -81,9 +81,6 @@ img: ":home-heading.jpg"
 </html>
 
 
-
-
-
 <div style="height: 20px;"></div>
 
 
@@ -99,6 +96,11 @@ img: ":home-heading.jpg"
     <img src="../assets/img/home/img5.png" alt="Image 5" style="width: 140px; height: 80px; object-fit: cover; border-radius: 8px;">
     <img src="../assets/img/home/img6.png" alt="Image 6" style="width: 80px; height: 80px; object-fit: cover; border-radius: 8px;">
 </div>
+
+
+
+<h5> News </h5>     
+
 
 
 
