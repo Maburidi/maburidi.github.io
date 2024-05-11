@@ -99,8 +99,10 @@ img: ":home-heading.jpg"
 
 
 
-<h5> News </h5>  
-Thrilled to announce that I've been awarded the AMAT Travel Award Fellowship.             January 14, 2024 <br> 
+<h5> News: </h5>  
+
+ - <h3> News </h3>  
+   * Thrilled to announce that I've been awarded the AMAT Travel Award Fellowship &nbsp;&nbsp;&nbsp;    January 14, 2024 <br> 
 
 
 
