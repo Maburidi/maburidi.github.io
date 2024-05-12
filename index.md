@@ -107,8 +107,9 @@ img: ":home-heading.jpg"
 <h5> 2024 </h5>  
    -  January 14, 2024: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thrilled to announce that I've been awarded the AMAT Travel Award Fellowship  <br> 
 <h5> 2024 </h5>  
-   -  December 05, 2023: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thrilled to announce that I've been awarded the Fall 2023 GSA Travel Award Fellowship [See here](https://maburidi.github.io/tabs/links.html) for more details! <br>
+   -  December 05, 2023: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thrilled to announce that I've been awarded the Fall 2023 GSA Travel Award Fellowship <a href="[URL](https://maburidi.github.io/tabs/links.html)"> [See here] </a> for more details! <br>
    
+
 
 
 
