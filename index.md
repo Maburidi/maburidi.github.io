@@ -112,8 +112,8 @@ img: ":home-heading.jpg"
 
 <h5> 2023 </h5> 
 <ul>
-   <li>  December 05, 2023: &nbsp;&nbsp; Thrilled to announce that I've been awarded the Fall 2023 GSA Travel Award Fellowship <a href="[URL](https://maburidi.github.io/tabs/links.html)"> [See here] </a> for more details! </li>
-  <li> November 25, 2023: &nbsp;&nbsp; A paper is accepted for presentation at the <a href="[URL](https://www.aimhc.org/ )"> [IEEE AIMHC 2024] </a> </li> 
+   <li>  December 05, 2023: &nbsp;&nbsp; Thrilled to announce that I've been awarded the Fall 2023 GSA Travel Award Fellowship <a href="https://gsa.ucmerced.edu/funding/travel-awards"> [See here] </a> for more details! </li>
+  <li> November 25, 2023: &nbsp;&nbsp; A paper is accepted for presentation at the <a href="https://www.aimhc.org/"> [IEEE AIMHC 2024] </a> </li> 
 
   
 </ul>
