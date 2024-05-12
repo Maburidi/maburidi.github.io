@@ -44,20 +44,28 @@ lng_pair: id_public
 
 
 
+
+<h3>2024</h3>
+<div style="border-top: 0.5px solid gray;"></div>
+
++ <p>  <span style="color: #008080;"> (Accepted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Optimal Transport-Based Network Alignment: Graph Classification of Small Molecule Structure-Activity Relationships in Biology. <span style="color: #ADD8E6;"> the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. </span>. </p>
+
++ <p>  <span style="color: #008080;"> (Accepted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Contrastive pre-training and multiple instance learning for predicting tumor microsatellite instability. <span style="color: #ADD8E6;"> the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. </span>. </p>
+
++ <p>  <span style="color: #008080;"> (Accepted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Topological adversarial attacks on graph neural networks via projected meta learning. <span style="color: #ADD8E6;"> The 2024 IEEE Conference on Evolving and Adaptive Intelligent Systems (IEEE EAIS 2024). </span>. </p>
+
++ <p>  <span style="color: #008080;"> (Accepted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Adversarial attack and training for graph convolutional networks using focal loss-projected momentum. <span style="color: #ADD8E6;"> The 3rd International Conference on Computing and Machine Intelligence (ICMI). </span>. </p>
+
+
 <h3>2023</h3>
 <div style="border-top: 0.5px solid gray;"></div>
 
 + <p>  <span style="color: #008080;"> (Submitted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Optimal Transport-Based Graph Kernels for Drug Property Prediction. <span style="color: #ADD8E6;"> Scientific Reports</span>. </p>
 
-+ <p>  <span style="color: #008080;"> (Submitted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Optimal Transport-Based Network Alignment: Graph Classification of Small Molecule Structure-Activity Relationships in Biology. <span style="color: #ADD8E6;"> 2024 IEEE International Conference on Acoustics, Speech and Signal Processing. </span>. </p>
 
++ <p> </span> <span style="color: #E6E6FA;"> M. Aburidi </span> and R. Marcia, "Wasserstein Distance-Based Graph Kernel for Enhancing Drug Safety and Efficacy Prediction," <span style="color: #ADD8E6;"> 2024 IEEE First International Conference on Artificial Intelligence for Medicine, Health and Care (AIMHC) </span>, Laguna Hills, CA, USA, 2024, pp. 113-119, doi: 10.1109/AIMHC59811.2024.00029  <a href="https://ieeexplore.ieee.org/abstract/document/10504311"> Online </a> 
 
-+ <p>  <span style="color: #008080;"> (Accepted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Enhancing Drug Safety and Efficacy: Wasserstein Distance-
-Based Graph Kernel for Drug Property Prediction. <span style="color: #ADD8E6;"> First IEEE International Conference on ARTIFICIAL INTELLIGENCE for MEDICINE, HEALTH, and CARE. </span>. </p>
-
-
-+ <p>  <span style="color: #008080;"> (Accepted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Transport and Contrastive-Based Clustering
-for Annotation-Free Tissue Analysis in Histopathology Images. <span style="color: #ADD8E6;"> International Conference on Machine Learning and Applications, IEEE ICMLA 2023. </span>. </p>
++ <p> <span style="color: #E6E6FA;"> M. Aburidi </span> and R. Marcia, "Optimal Transport and Contrastive-Based Clustering for Annotation-Free Tissue Analysis in Histopathology Images," <span style="color: #ADD8E6;"> 2023 International Conference on Machine Learning and Applications (ICMLA)  </span>, Jacksonville, FL, USA, 2023, pp. 301-307, doi: 10.1109/ICMLA58977.2023.00049.  <a href="https://ieeexplore.ieee.org/abstract/document/10459798"> Online </a> 
 
 
 + <p>  <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. CLOT: Contrastive Learning-Driven and Optimal Transport-Based Training for Simultaneous Clustering. <span style="color: #ADD8E6;"> Clustering," 2023 IEEE International Conference on Image Processing (ICIP), </span> Kuala Lumpur, Malaysia, 2023, pp. 1515-1519, doi: 10.1109/ICIP49359.2023.10222290.  <a href="https://ieeexplore.ieee.org/abstract/document/10222290?casa_token=Met0VaGfoIYAAAAA:xY82a-jPcBxDLrcTTiYTRoJVmPxIUa39m5RsHsmbK0feudojmEhhik5mx2Re1bwoo4QFIvvxhA"> Online </a> 
