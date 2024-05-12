@@ -48,9 +48,18 @@ lng_pair: id_public
 <h3>2024</h3>
 <div style="border-top: 0.5px solid gray;"></div>
 
++ <p>  <span style="color: #008080;"> (Submitted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Defending Graph Neural Networks Against Adversarial attacks via Matrix Factorization. <span style="color: #ADD8E6;"> The 11th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024). </span>. </p>
+
+
++ <p>  <span style="color: #008080;"> (Submitted)</span> Sarah Malone, <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Triple Matrix Factorization for Drug-Drug Interaction Prediction Using Fused Gromov-Wasserstein Distances. <span style="color: #ADD8E6;"> The 32th European Signal Processing Conference (EUSIPCO). </span>. </p>
+
++ <p>  <span style="color: #008080;"> (Submitted)</span> Sarah Malone, <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Wasserstein-Based Similarity Constrained Matrix Factorization for Drug-Drug Interaction Prediction. <span style="color: #ADD8E6;"> IEEE Workshop on Signal Processing Systems </span>. </p>
+
+
+
 + <p>  <span style="color: #008080;"> (Accepted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Optimal Transport-Based Network Alignment: Graph Classification of Small Molecule Structure-Activity Relationships in Biology. <span style="color: #ADD8E6;"> the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. </span>. </p>
 
-+ <p>  <span style="color: #008080;"> (Accepted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Contrastive pre-training and multiple instance learning for predicting tumor microsatellite instability. <span style="color: #ADD8E6;"> the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. </span>. </p>
++ <p>  <span style="color: #008080;"> (Accepted)</span> Ronald Nap, <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Contrastive pre-training and multiple instance learning for predicting tumor microsatellite instability. <span style="color: #ADD8E6;"> the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. </span>. </p>
 
 + <p>  <span style="color: #008080;"> (Accepted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Topological adversarial attacks on graph neural networks via projected meta learning. <span style="color: #ADD8E6;"> The 2024 IEEE Conference on Evolving and Adaptive Intelligent Systems (IEEE EAIS 2024). </span>. </p>
 
