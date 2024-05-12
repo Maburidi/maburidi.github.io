@@ -52,7 +52,7 @@ img: ":home-heading.jpg"
 
 <h5> Welcome to my personal website! </h5>     
 
-<p> I'm Mohammed, a Ph.D. candidate at the University of California Merced (UCM), USA. I expect to graduate in August 2024. My primary research interests lie in graph/geometric machine learning and optimization. More specifically, I am investigating the robustness of graph neural networks. I develop convex and non convex optimization based methods to attach and defense GNNs. I also develop optimization methods based on matrix factorization to study drugs and small molecules. <br>     
+<p> I'm Mohammed, a Ph.D. candidate at the University of California Merced (UCM), USA. I expect to graduate in August 2024. My primary research interests lie in graph/geometric machine learning and optimization. More specifically, I am investigating the robustness of graph neural networks. I develop convex and non convex optimization based methods to attack and defense GNNs. I also develop optimization methods based on matrix factorization to study drugs and small molecules. <br>     
 
 
 
