@@ -107,7 +107,7 @@ img: ":home-heading.jpg"
 
 <h5> 2024 </h5> 
 <ul>
-   <li> <span style="color: darkgreen;">April 24, 2023:  </span>   Thrilled to announce that I've been awarded Applied Math Summer Research Fellowship. </li>
+   <li> <span style="color: darkgreen;">April 24, 2024:  </span>   Thrilled to announce that I've been awarded Applied Math Summer Research Fellowship. </li>
 
 
 <li> <span style="color: darkgreen;"> April 18, 2024:   </span> Thrilled to announce that my paper "Optimal transport-based network alignment: Graph classification of small molecule structure-activity relationships in biology" is accepted for presentation at the <a href="https://embc.embs.org/2024/"> [IEEE EMBC 2024] </a> </li> 
