@@ -107,8 +107,20 @@ img: ":home-heading.jpg"
 
 <h5> 2024 </h5> 
 <ul>
-  <li>  January 14, 2024: &nbsp;&nbsp; Thrilled to announce that I've been awarded the AMAT Travel Award Fellowship  </li>
+
+<li> <span style="color: darkgreen;"> April 18, 2024:   </span> Thrilled to announce that my paper "Optimal transport-based network alignment: Graph classification of small molecule structure-activity relationships in biology" is accepted for presentation at the <a href="https://embc.embs.org/2024/"> [IEEE EMBC 2024] </a> </li> 
+
+
+<li> <span style="color: darkgreen;"> April 18, 2024:   </span> Thrilled to announce that my paper "Contrastive pre-training and multiple instance learning for predicting tumor microsatellite instability" is accepted for presentation at the <a href="https://embc.embs.org/2024/"> [IEEE EMBC 2024] </a> </li> 
+
+
+<li> <span style="color: darkgreen;"> March 10, 2024:   </span> Thrilled to announce that my paper "Topological adversarial attacks on graph neural networks via projected meta learning" is accepted for presentation at the <a href="https://eventos.uc3m.es/97610/detail/ieee-international-conference-on-evolving-and-adaptive-intelligent-systems-2024-ieee-eais-2024"> [IEEE EAIS 2024] </a> </li> 
+
+<li> <span style="color: darkgreen;"> February 18, 2024:   </span> Thrilled to announce that my paper "Adversarial attack and training for graph convolutional networks using focal loss-projected momentum" is accepted for presentation at the <a href="https://www.icmiconf.com/"> [IEEE ICMI 2024] </a> </li> 
+
+  <li>  <span style="color: darkgreen;">January 14, 2024: </span>  Thrilled to announce that I've been awarded the AMAT Travel Award Fellowship  </li>
 </ul>
+
 
 <h5> 2023 </h5> 
 <ul>
@@ -122,9 +134,7 @@ img: ":home-heading.jpg"
    <li> <span style="color: darkgreen;">May 05, 2023:  </span>   Thrilled to announce that I've been awarded the LNLL DSC Fellowship <a href="https://data-science.llnl.gov/dsc"> [See here] </a> for more details! </li>
    <li> <span style="color: darkgreen;">April 05, 2023:  </span>  Thrilled to announce that I've been awarded the UCM GSOP Fellowship <a href="https://graduatedivision.ucmerced.edu/financial-support/internal-fellowships/graduate-student-opportunity-program"> [See here] </a> for more details! </li>
    
-  <li> <span style="color: darkgreen;"> March 10, 2023:   </span> A paper is accepted for presentation at the <a href="https://memea2023.ieee-ims.org//"> [IEEE MeMeA 2023] </a> </li> 
-
-  
+  <li> <span style="color: darkgreen;"> March 10, 2023:   </span> A paper is accepted for presentation at the <a href="https://memea2023.ieee-ims.org/"> [IEEE MeMeA 2023] </a> </li> 
 </ul>
 
 
