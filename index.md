@@ -113,16 +113,16 @@ img: ":home-heading.jpg"
 <h5> 2023 </h5> 
 <ul>
    <li> <span style="color: darkgreen;">December 05, 2023:  </span> 
-  &nbsp;&nbsp; Thrilled to announce that I've been awarded the Fall 2023 GSA Travel Award Fellowship <a href="https://gsa.ucmerced.edu/funding/travel-awards"> [See here] </a> for more details! </li>
-  <li> November 25, 2023: &nbsp;&nbsp; A paper is accepted for presentation at the <a href="https://www.aimhc.org/"> [IEEE AIMHC 2024] </a> </li> 
- <li> June 10, 2023: &nbsp;&nbsp; A paper is accepted for presentation at the <a href="https://www.icmla-conference.org/icmla23/"> [IEEE ICMLA 2023] </a> </li> 
-  <li> September 10, 2023: &nbsp;&nbsp; A paper is accepted for presentation at the <a href="https://2023.ieeeicip.org/"> [IEEE ICIP 2023] </a> </li> 
+   Thrilled to announce that I've been awarded the Fall 2023 GSA Travel Award Fellowship <a href="https://gsa.ucmerced.edu/funding/travel-awards"> [See here] </a> for more details! </li>
+  <li> <span style="color: darkgreen;">November 25, 2023: </span>  A paper is accepted for presentation at the <a href="https://www.aimhc.org/"> [IEEE AIMHC 2024] </a> </li> 
+ <li> <span style="color: darkgreen;">June 10, 2023: </span> A paper is accepted for presentation at the <a href="https://www.icmla-conference.org/icmla23/"> [IEEE ICMLA 2023] </a> </li> 
+  <li> <span style="color: darkgreen;"> September 10, 2023:  </span> A paper is accepted for presentation at the <a href="https://2023.ieeeicip.org/"> [IEEE ICIP 2023] </a> </li> 
 
-<li>  May 06, 2023: &nbsp;&nbsp; Thrilled to announce that I've passed the Ph.D. qualifying exam at the Applied Math Program at University of California Merced </li>
-   <li>  May 05, 2023: &nbsp;&nbsp; Thrilled to announce that I've been awarded the LNLL DSC Fellowship <a href="https://data-science.llnl.gov/dsc"> [See here] </a> for more details! </li>
-   <li>  April 05, 2023: &nbsp;&nbsp; Thrilled to announce that I've been awarded the UCM GSOP Fellowship <a href="https://graduatedivision.ucmerced.edu/financial-support/internal-fellowships/graduate-student-opportunity-program"> [See here] </a> for more details! </li>
+<li> <span style="color: darkgreen;">May 06, 2023:  </span>   Thrilled to announce that I've passed the Ph.D. qualifying exam at the Applied Math Program at University of California Merced </li>
+   <li> <span style="color: darkgreen;">May 05, 2023:  </span>   Thrilled to announce that I've been awarded the LNLL DSC Fellowship <a href="https://data-science.llnl.gov/dsc"> [See here] </a> for more details! </li>
+   <li> <span style="color: darkgreen;">April 05, 2023:  </span>  Thrilled to announce that I've been awarded the UCM GSOP Fellowship <a href="https://graduatedivision.ucmerced.edu/financial-support/internal-fellowships/graduate-student-opportunity-program"> [See here] </a> for more details! </li>
    
-  <li> March 10, 2023: &nbsp;&nbsp; A paper is accepted for presentation at the <a href="https://memea2023.ieee-ims.org//"> [IEEE MeMeA 2023] </a> </li> 
+  <li> <span style="color: darkgreen;"> March 10, 2023:   </span> A paper is accepted for presentation at the <a href="https://memea2023.ieee-ims.org//"> [IEEE MeMeA 2023] </a> </li> 
 
   
 </ul>
