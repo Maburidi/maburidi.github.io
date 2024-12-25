@@ -52,12 +52,10 @@ img: ":home-heading.jpg"
 
 <h5> Welcome to my personal website! </h5>     
 
-<p> I'm Mohammed, a Ph.D. candidate at the University of California Merced (UCM), USA. I expect to graduate in August 2024. My primary research interests lie in graph/geometric machine learning and optimization. More specifically, I am investigating the robustness of graph neural networks. I develop convex and non convex optimization based methods to attack and defense GNNs. I also develop optimization methods based on matrix factorization to study drugs and small molecules. <br>     
+<p> I'm Mohammed, A software engineer and an applied mathematicians. I am developing web-based systems for environmental scientists. In addition, I apply artificial intelligence to research focused on water management system simulation models. I completed my PhD at the University of California Merced (UCM), CA, USA in November 2024. My PhD research at UCM focuses on graph/geometric machine learning and constrained optimization. More specifically, I investigated the robustness of graph neural networks. I develop convex and non-convex optimization-based methods to attack and defend GNNs. I also created optimization-based methods for machine learning to solve real-life problems in computer vision and bioinformatics. I also completed a Master's degree in Applied Mathematics at UC Merced. Additionally, I hold another Master's degree in Scientific Computing from An-Najah National University, along with a Bachelor's degree in Physics. My interdisciplinary journey lies at the intersection of science and innovation. My work aims to both expand knowledge and drive revolutionary advancements in practical applications. <p>
 
-
-
-
-<p> I completed my master's degree in Applied Mathematics at UCM. Additionally, I hold another master's degree in Scientific Computing from An-Najah National University, along with a bachelor's degree in Physics. My interdisciplinary journey unfolds at the intersection of science and innovation. I apply my methods to unravel the intricacies of proteins, drugs, and small molecules, with the dual goal of expanding knowledge and revolutionizing practical applications. <br>      
+<p>
+Apart from academia, I founded a new startup called 'LIOTECH Solutions', based in California, USA. We specialize in developing custom software solutions for businesses, focusing on mobile App and website development, marketing and graphic design for B2B wholesalers. Our goal is to enhance business efficiency and streamline operations through innovative technology and tailored digital solutions. <br>     
 
 
 <div style="height: 30px;"></div>
