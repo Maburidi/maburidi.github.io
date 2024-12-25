@@ -65,14 +65,16 @@ Apart from academia, I founded a new startup called 'LIOTECH Solutions', based i
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Education & Academic Affiliations</title>
+  <title>Industrial & Academic Affiliations</title>
 </head>
 <body>
 
-  <h5 style="text-align: center; font-weight: bold;">Education & Academic Affiliations</h5>
+  <h5 style="text-align: center; font-weight: bold;">Industrial & Academic Affiliations</h5>
 
   <div style="text-align: center;">
     <img src="../assets/img/home/ucm.png" alt="Your Image" style="max-width: 30%; height: auto;"/>
+    <img src="../assets/img/home/logo.png" alt="Your Image" style="max-width: 30%; height: auto;"/>
+
   </div>
 
 </body>
