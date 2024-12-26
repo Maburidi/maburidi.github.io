@@ -38,10 +38,8 @@ lng_pair: id_photos
 
   
 
-<div style="float: left; width: 20%;">
+<div style="float: left; width: 50%;">
      <img src="../assets/img/about/PhotoM.jpg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
-  </div>
-    <div style="clear: both;"></div>        
 </div>
 
 
