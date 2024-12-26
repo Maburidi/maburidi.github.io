@@ -198,6 +198,8 @@ side_and_top_nav_buttons:
     icon: "fa fa-money"
   - teaching:
     icon: "fa fa-graduation-cap"
+  - photos:
+    icon: "fa fa-picture-o"
   - public:
     icon: "fa fa-book"
   - about:
