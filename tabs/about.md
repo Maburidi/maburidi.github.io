@@ -50,7 +50,7 @@ Merced, CA 95343</p>
 <div style="height: 20px;"></div>
 
 <div>
-  <p><strong style="color: green;">Office:</strong> ACS 358B Bldg</p>
+  <p><strong style="color: green;">Office:</strong> SRE 221</p>
   <p><strong style="color: green;">Email-1:</strong> <a href="mailto:maburidi@ucmerced.edu">maburidi@ucmerced.edu</a></p>
   <p><strong style="color: green;">Email-2:</strong> <a href="mailto:maburidi@gmail.com">maburidi@gmail.com</a></p>  
   <p><strong style="color: green;">Phone 1:</strong> +1 (380) 900-1161</p> 
