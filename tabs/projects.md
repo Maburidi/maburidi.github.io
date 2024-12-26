@@ -82,6 +82,19 @@ page_data:
 
     # quote
 
+      - type: id_current
+      project_name: "Modeling the Hydropower Systems of the Primary Tributaries of California's San Joaquin River"
+      project_excerpt: "Mohammed Aburidi, Gustavo Facincani, David Rheinheimer, Josh Veries"
+      img: ":p10.png"    
+      #img_title: "img title3"
+      date: "2024-09-20"
+      post: |
+      This project focuses on simulating and optimizing the hydropower systems of the primary tributaries of California's San Joaquin River, including the Merced, San Joaquin, Stanislaus, and Tuolumne Rivers. These rivers play a critical role in California's water management and energy production.
+      Using the Pywr framework, we developed a detailed computational model to simulate water flow, reservoir operations, and energy generation across these interconnected systems. The model accounts for key operational constraints, such as water demand, environmental flow requirements, and energy production targets, providing insights into sustainable hydropower operations.
+      Our work aims to enhance the understanding of hydropower dynamics within the region while supporting decision-making processes for water resource management, energy optimization, and ecological preservation.
+
+  
+
     - type: id_current
       project_name: "Enhancing Robustness of Graph Neural Networks"
       project_excerpt: "Mohammed Aburidi and Roummel Marcia"
