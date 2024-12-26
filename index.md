@@ -111,9 +111,9 @@ Apart from academia, I founded a new startup called <a href="https://liotechsolu
 
 
 
-<li> <span style="color: darkgreen;">December 25, 2024:  </span> Contrastive Pre-Training and Multiple Instance Learning for Predicting Tumor Microsatellite Instability" has been published! <a href="https://ieeexplore.ieee.org/abstract/document/10782458"> [Online version] </a>  </li>
+<li> <span style="color: darkgreen;">December 25, 2024:  </span> Excited to share that our new paper, "Contrastive Pre-Training and Multiple Instance Learning for Predicting Tumor Microsatellite Instability" has been published! <a href="https://ieeexplore.ieee.org/abstract/document/10782037"> [Online version] </a>  </li>
 
-<li> <span style="color: darkgreen;">December 25, 2024:  </span> Excited to share that our new paper, "Optimal Transport-Based Network Alignment: Graph Classification of Small Molecule Structure-Activity Relationships in Biology," has been published! <a href="https://ieeexplore.ieee.org/abstract/document/10782037"> [Online version] </a>  </li>
+<li> <span style="color: darkgreen;">December 25, 2024:  </span> Excited to share that our new paper, "Optimal Transport-Based Network Alignment: Graph Classification of Small Molecule Structure-Activity Relationships in Biology," has been published! <a href="https://ieeexplore.ieee.org/abstract/document/10782458"> [Online version] </a>  </li>
 
 <li> <span style="color: darkgreen;">December 25, 2024:  </span> Excited to share that our new paper, "Wasserstein-Based Similarity Constrained Matrix Factorization for Drug-Drug Interaction Prediction," has been published! <a href="https://ieeexplore.ieee.org/abstract/document/10768226"> [Online version] </a>  </li>
   
