@@ -45,6 +45,10 @@ July, 2023, Livermore, CA
 <div style="float: left; width: 100%;">
     <img src="../assets/img/about/liver.jpg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
 </div>
+December, 20, 2024, Merced, CA 
+<div style="float: left; width: 100%;">
+    <img src="../assets/img/about/grad.mp4" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
+</div>
 
 
 <div style="height: 20px;"></div>
