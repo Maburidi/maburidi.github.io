@@ -42,14 +42,14 @@ lng_pair: id_public
 
 <div style="height: 40px;"></div>
 
-<h3>2024</h3>
+<h3>2025</h3>
 <div style="border-top: 0.5px solid gray;"></div>
 
 + <p>  <span style="color: #008080;"> (Submitted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Defending Graph Neural Networks Against Adversarial attacks via Matrix Factorization. <span style="color: #ADD8E6;"> AIxMM 2025 : IEEE International Conference on AI x Multimedia. </span>. </p>
 
 
 
-<h3>2025</h3>
+<h3>2024</h3>
 <div style="border-top: 0.5px solid gray;"></div>
 
 + <p> Sarah Malone <span style="color: #E6E6FA;"> M. Aburidi </span> and R. Marcia, "Wasserstein-Based Similarity Constrained Matrix Factorization for Drug-Drug Interaction Prediction," <span style="color: #ADD8E6;"> 2024 IEEE Workshop on Signal Processing Systems (SiPS), </span> Cambridge, MA, USA, 2024, pp. 49-53, doi: 10.1109/SiPS62058.2024.00017. <a href="[https://ieeexplore.ieee.org/abstract/document/10782458](https://ieeexplore.ieee.org/abstract/document/10768226)"> Online </a> 
