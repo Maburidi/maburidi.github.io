@@ -52,7 +52,7 @@ lng_pair: id_public
 <h3>2024</h3>
 <div style="border-top: 0.5px solid gray;"></div>
 
-+ <p> Sarah Malone <span style="color: #E6E6FA;"> M. Aburidi </span> and R. Marcia, "Wasserstein-Based Similarity Constrained Matrix Factorization for Drug-Drug Interaction Prediction," <span style="color: #ADD8E6;"> 2024 IEEE Workshop on Signal Processing Systems (SiPS), </span> Cambridge, MA, USA, 2024, pp. 49-53, doi: 10.1109/SiPS62058.2024.00017. <a href="[https://ieeexplore.ieee.org/abstract/document/10782458](https://ieeexplore.ieee.org/abstract/document/10768226)"> Online </a> 
++ <p> Sarah Malone <span style="color: #E6E6FA;"> M. Aburidi </span> and R. Marcia, "Wasserstein-Based Similarity Constrained Matrix Factorization for Drug-Drug Interaction Prediction," <span style="color: #ADD8E6;"> 2024 IEEE Workshop on Signal Processing Systems (SiPS), </span> Cambridge, MA, USA, 2024, pp. 49-53, doi: 10.1109/SiPS62058.2024.00017. <a href="https://ieeexplore.ieee.org/abstract/document/10768226"> Online </a> 
 
 + <p> <span style="color: #E6E6FA;"> M. Aburidi </span> and R. Marcia, "Optimal Transport-Based Network Alignment: Graph Classification of Small Molecule Structure-Activity Relationships in Biology," <span style="color: #ADD8E6;"> 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), </span> Orlando, FL, USA, 2024, pp. 1-7, doi: 10.1109/EMBC53108.2024.10782037 <a href="https://ieeexplore.ieee.org/abstract/document/10782458"> Online </a> 
 
