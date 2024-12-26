@@ -84,7 +84,7 @@ page_data:
 
       - type: id_current
       project_name: "Modeling the Hydropower Systems of the Primary Tributaries of California's San Joaquin River"
-      project_excerpt: "Mohammed Aburidi, Gustavo Facincani, David Rheinheimer, Josh Veries"
+      project_excerpt: "Mohammed Aburidi, "
       img: ":p10.png"    
       #img_title: "img title3"
       date: "2024-09-20"
