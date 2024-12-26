@@ -1,7 +1,7 @@
 ---
-layout: group_memb
+layout: photos
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_group
+lng_pair: id_photos
 
 # image for page specific usage
 #img: ":about.jpg"
