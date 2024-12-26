@@ -74,9 +74,6 @@ lng_pair: id_public
 <h3>2023</h3>
 <div style="border-top: 0.5px solid gray;"></div>
 
-+ <p>  <span style="color: #008080;"> (Submitted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Optimal Transport-Based Graph Kernels for Drug Property Prediction. <span style="color: #ADD8E6;"> Scientific Reports</span>. </p>
-
-
 + <p> <span style="color: #E6E6FA;"> M. Aburidi </span> and R. Marcia, "Optimal Transport and Contrastive-Based Clustering for Annotation-Free Tissue Analysis in Histopathology Images," <span style="color: #ADD8E6;"> 2023 International Conference on Machine Learning and Applications (ICMLA)  </span>, Jacksonville, FL, USA, 2023, pp. 301-307, doi: 10.1109/ICMLA58977.2023.00049.  <a href="https://ieeexplore.ieee.org/abstract/document/10459798"> Online </a> 
 
 
