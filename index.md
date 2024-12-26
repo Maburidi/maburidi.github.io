@@ -119,8 +119,10 @@ Apart from academia, I founded a new startup called <a href="https://liotechsolu
   
 <li> <span style="color: darkgreen;">October 05, 2024:  </span>   Excited to share that our new journal paper, "Optimal Transport-Based Graph Kernels for Drug Property Prediction," has been published in the IEEE Open Journal of Engineering in Medicine and Biology! <a href="https://ieeexplore.ieee.org/document/10716457/keywords#keywords"> [Online version] </a>  </li>
 
+<li> <span style="color: darkgreen;">April 24, 2024:  </span>  Thrilled to announce that I've been awarded the UC Merced Valley Institute for Sustainability, Technology, and Agriculture GSR Fellowship <a href="https://drive.google.com/file/d/18FpeTxCuvJ_4Ojk3TAkpwWgXnI-rYe6L/view?usp=sharing"> [Letter] </a>  </li>
+
   
-<li> <span style="color: darkgreen;">April 24, 2024:  </span>   Thrilled to announce that I've been awarded Applied Math Summer Research Fellowship. </li>
+<li> <span style="color: darkgreen;">April 24, 2024:  </span>   Thrilled to announce that I've been awarded Applied Math Summer Research Fellowship.  <a href="https://drive.google.com/file/d/19xfmCd2ktpOe3cdPudEOc5FLZsoMuqio/view?usp=sharing"> [Letter] </a>  </li>
 
 
 <li> <span style="color: darkgreen;"> April 18, 2024:   </span> Thrilled to announce that my paper "Optimal transport-based network alignment: Graph classification of small molecule structure-activity relationships in biology" is accepted for presentation at the <a href="https://embc.embs.org/2024/"> [IEEE EMBC 2024] </a> </li> 
