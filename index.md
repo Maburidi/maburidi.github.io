@@ -112,21 +112,17 @@ Apart from academia, I founded a new startup called <a href="https://liotechsolu
 
 
 
-<li> <span style="color: darkgreen;">December 25, 2024:  </span> Excited to share that our new paper, "Contrastive Pre-Training and Multiple Instance Learning for Predicting Tumor Microsatellite Instability" has been published! <a href="https://ieeexplore.ieee.org/abstract/document/10782037"> [Online version] </a>  </li>
+<li> <span style="color: darkgreen;">December 25, 2024:  </span> Excited to share that our new paper, "Contrastive Pre-Training and Multiple Instance Learning for Predicting Tumor Microsatellite Instability" has been published! <a href="https://ieeexplore.ieee.org/abstract/document/10782037"> [Online version] </a> Co-authored with Rnold Nap and <a href="https://faculty.ucmerced.edu/rmarcia/"> Prof. Roummel Marcia </a> </li>
 
-<li> <span style="color: darkgreen;">December 25, 2024:  </span> Excited to share that our new paper, "Optimal Transport-Based Network Alignment: Graph Classification of Small Molecule Structure-Activity Relationships in Biology," has been published! <a href="https://ieeexplore.ieee.org/abstract/document/10782458"> [Online version] </a>  </li>
+<li> <span style="color: darkgreen;">December 25, 2024:  </span> Excited to share that our new paper, "Optimal Transport-Based Network Alignment: Graph Classification of Small Molecule Structure-Activity Relationships in Biology," has been published! <a href="https://ieeexplore.ieee.org/abstract/document/10782458"> [Online version] </a> Co-authored with <a href="https://faculty.ucmerced.edu/rmarcia/"> Prof. Roummel Marcia </a> </li>
 
-<li> <span style="color: darkgreen;">December 25, 2024:  </span> Excited to share that our new paper, "Wasserstein-Based Similarity Constrained Matrix Factorization for Drug-Drug Interaction Prediction," has been published! <a href="https://ieeexplore.ieee.org/abstract/document/10768226"> [Online version] </a>  </li>
+<li> <span style="color: darkgreen;">December 25, 2024:  </span> Excited to share that our new paper, "Wasserstein-Based Similarity Constrained Matrix Factorization for Drug-Drug Interaction Prediction," has been published! <a href="https://ieeexplore.ieee.org/abstract/document/10768226"> [Online version] </a> Co-authored Sarah Malone  and <a href="https://faculty.ucmerced.edu/rmarcia/"> Prof. Roummel Marcia </a>  </li>
 
-<li> <span style="color: darkgreen;">November 18, 2024:  </span> I am thrilled to share that I have successfully defended my Ph.D. dissertation, titled "Optimization for Robust and Interpretable Learning on Graphs and Images. Many thanks to Prof. Arnold Kim (Applied Mathematics) and Prof. Shawn Newsam (EECS) for serving on my committee and for their invaluable support throughout this journey. <a href="https://liotechsolutions.com/"> [Online version] </a>  </li>
-
-
-
-
+<li> <span style="color: darkgreen;">November 18, 2024:  </span> I am thrilled to share that I have successfully defended my Ph.D. dissertation, titled "Optimization for Robust and Interpretable Learning on Graphs and Images. Many thanks to my advisor <a href="https://faculty.ucmerced.edu/rmarcia/"> Prof. Roummel Marcia </a>, <a href="https://faculty.ucmerced.edu/adkim/"> Prof. Arnold Kim </a> (Applied Mathematics) and <a href="https://faculty.ucmerced.edu/snewsam/"> Prof. Shawn Newsam </a> (EECS) for serving on my committee and for their invaluable support throughout this journey. </li>
 
 <li> <span style="color: darkgreen;">November 01, 2024:  </span> I am proud to announce the founding of LioTech Solutions in Merced, California. LioTech Solutions is dedicated to providing innovative software solutions, with a focus on developing cutting-edge technologies that empower businesses and drive growth <a href="https://liotechsolutions.com/"> [Online version] </a>  </li>
   
-<li> <span style="color: darkgreen;">October 05, 2024:  </span>   Excited to share that our new journal paper, "Optimal Transport-Based Graph Kernels for Drug Property Prediction," has been published in the IEEE Open Journal of Engineering in Medicine and Biology! <a href="https://ieeexplore.ieee.org/document/10716457/keywords#keywords"> [Online version] </a>  </li>
+<li> <span style="color: darkgreen;">October 05, 2024:  </span>   Excited to share that our new journal paper, "Optimal Transport-Based Graph Kernels for Drug Property Prediction," has been published in the IEEE Open Journal of Engineering in Medicine and Biology! <a href="https://ieeexplore.ieee.org/document/10716457/keywords#keywords"> [Online version] </a>  Co-authored with <a href="https://faculty.ucmerced.edu/rmarcia/"> Prof. Roummel Marcia </a> </li>
 
 <li> <span style="color: darkgreen;">July 15, 2024:  </span>  Thrilled to announce that I've been awarded the UC Merced Valley Institute for Sustainability, Technology, and Agriculture GSR Fellowship <a href="https://drive.google.com/file/d/18FpeTxCuvJ_4Ojk3TAkpwWgXnI-rYe6L/view?usp=sharing"> [Letter] </a>  </li>
 
