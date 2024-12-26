@@ -52,10 +52,11 @@ img: ":home-heading.jpg"
 
 <h5> Welcome to my personal website! </h5>     
 
-<p> Hi!, I'm Mohammed, A software engineer and an applied mathematician. I am developing web-based systems for environmental scientists. In addition, I apply artificial intelligence to research focused on water management system simulation models. I completed my PhD at the University of California Merced (UCM), CA, USA in November 2024. My PhD research at UCM focuses on graph/geometric machine learning and constrained optimization. More specifically, I investigated the robustness of graph neural networks. I develop convex and non-convex optimization-based methods to attack and defend GNNs. I also created optimization-based methods for machine learning to solve real-life problems in computer vision and bioinformatics. I also completed a Master's degree in Applied Mathematics at UC Merced. Additionally, I hold another Master's degree in Scientific Computing from An-Najah National University, along with a Bachelor's degree in Physics. My interdisciplinary journey lies at the intersection of science and innovation. My work aims to both expand knowledge and drive revolutionary advancements in practical applications. <p>
+<p> Hi! I'm Mohammed, A software engineer, and an applied mathematician. I am developing web-based systems for environmental scientists. In addition, I apply artificial intelligence to research focused on water management system simulation models for rivers of California, USA. I completed my PhD at the University of California Merced (UCM), CA, USA in November 2024. My PhD research at UCM focuses on graph/geometric machine learning and constrained optimization. More specifically, I investigated the robustness of graph neural networks. I develop convex and non-convex optimization-based methods to attack and defend GNNs. I also created optimization-based methods for machine learning to solve real-life problems in computer vision and bioinformatics. I also completed a Master's degree in Applied Mathematics at UC Merced. Additionally, I hold another Master's degree in Scientific Computing from An-Najah National University, along with a Bachelor's degree in Physics. My interdisciplinary journey lies at the intersection of science and innovation. My work aims to both expand knowledge and drive revolutionary advancements in practical applications.
+ <p>
 
 <p>
-Apart from academia, I founded a new startup called <a href="https://liotechsolutions.com/"> LIOTECH Solutions </a> , based in California, USA. We specialize in developing custom software solutions for businesses, focusing on mobile App and website development, marketing and graphic design for B2B wholesalers. Our goal is to enhance business efficiency and streamline operations through innovative technology and tailored digital solutions. <br>     
+Apart from academia, I founded a new startup called <a href="https://liotechsolutions.com/"> LIOTECH Solutions </a>, based in California, USA. We specialize in developing custom software solutions for businesses, focusing on mobile App and website development, marketing and graphic design for B2B wholesalers. Our goal is to enhance business efficiency and streamline operations through innovative technology and tailored digital solutions. <br>     
 
 
 <div style="height: 30px;"></div>
@@ -116,6 +117,12 @@ Apart from academia, I founded a new startup called <a href="https://liotechsolu
 <li> <span style="color: darkgreen;">December 25, 2024:  </span> Excited to share that our new paper, "Optimal Transport-Based Network Alignment: Graph Classification of Small Molecule Structure-Activity Relationships in Biology," has been published! <a href="https://ieeexplore.ieee.org/abstract/document/10782458"> [Online version] </a>  </li>
 
 <li> <span style="color: darkgreen;">December 25, 2024:  </span> Excited to share that our new paper, "Wasserstein-Based Similarity Constrained Matrix Factorization for Drug-Drug Interaction Prediction," has been published! <a href="https://ieeexplore.ieee.org/abstract/document/10768226"> [Online version] </a>  </li>
+
+<li> <span style="color: darkgreen;">November 18, 2024:  </span> I am thrilled to share that I have successfully defended my Ph.D. dissertation, titled "Optimization for Robust and Interpretable Learning on Graphs and Images. Many thanks to Prof. Arnold Kim (Applied Mathematics) and Prof. Shawn Newsam (EECS) for serving on my committee and for their invaluable support throughout this journey. <a href="https://liotechsolutions.com/"> [Online version] </a>  </li>
+
+
+
+
 
 <li> <span style="color: darkgreen;">November 01, 2024:  </span> I am proud to announce the founding of LioTech Solutions in Merced, California. LioTech Solutions is dedicated to providing innovative software solutions, with a focus on developing cutting-edge technologies that empower businesses and drive growth <a href="https://liotechsolutions.com/"> [Online version] </a>  </li>
   
