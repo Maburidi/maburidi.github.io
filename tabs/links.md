@@ -71,11 +71,6 @@ page_data:
       info: "July-2023: Lawrence Livermore National Laboratory Data Science Challenge Grad Fellowship"
 
     # Fellowships
-    - type: id_awards
-      title: "UCM GSA Travel Award"
-      url: "https://gsa.ucmerced.edu/funding/travel-awards"
-      info: "December 2023: Graduate Student Association (GSA) Travel Award Fellowship, University of California, Merced (UCM)"
-
     - type: id_fellowships
       title: "VISTA GSR Fellowship"
       url: "https://drive.google.com/file/d/18FpeTxCuvJ_4Ojk3TAkpwWgXnI-rYe6L/view?usp=sharing" 
@@ -85,6 +80,11 @@ page_data:
       title: "Applied Mathematics Summer Research Fellowship"
       url: "https://drive.google.com/file/d/19xfmCd2ktpOe3cdPudEOc5FLZsoMuqio/view?usp=sharing" 
       info: "May 2024: University of California Merced, Merced, USA." 
+  
+    - type: id_awards
+      title: "UCM GSA Travel Award"
+      url: "https://gsa.ucmerced.edu/funding/travel-awards"
+      info: "December 2023: Graduate Student Association (GSA) Travel Award Fellowship, University of California, Merced (UCM)"
 
     - type: id_fellowships
       title: "UCM GSOP Fellowship"
