@@ -42,28 +42,29 @@ lng_pair: id_public
 
 <div style="height: 40px;"></div>
 
-
-
-
 <h3>2024</h3>
 <div style="border-top: 0.5px solid gray;"></div>
 
-+ <p>  <span style="color: #008080;"> (Submitted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Defending Graph Neural Networks Against Adversarial attacks via Matrix Factorization. <span style="color: #ADD8E6;"> The 11th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024). </span>. </p>
-
-
-+ <p>  <span style="color: #008080;"> (Submitted)</span> Sarah Malone, <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Triple Matrix Factorization for Drug-Drug Interaction Prediction Using Fused Gromov-Wasserstein Distances. <span style="color: #ADD8E6;"> The 32th European Signal Processing Conference (EUSIPCO). </span>. </p>
-
-+ <p>  <span style="color: #008080;"> (Submitted)</span> Sarah Malone, <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Wasserstein-Based Similarity Constrained Matrix Factorization for Drug-Drug Interaction Prediction. <span style="color: #ADD8E6;"> IEEE Workshop on Signal Processing Systems </span>. </p>
++ <p>  <span style="color: #008080;"> (Submitted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Defending Graph Neural Networks Against Adversarial attacks via Matrix Factorization. <span style="color: #ADD8E6;"> AIxMM 2025 : IEEE International Conference on AI x Multimedia. </span>. </p>
 
 
 
-+ <p>  <span style="color: #008080;"> (Accepted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Optimal Transport-Based Network Alignment: Graph Classification of Small Molecule Structure-Activity Relationships in Biology. <span style="color: #ADD8E6;"> the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. </span>. </p>
+<h3>2025</h3>
+<div style="border-top: 0.5px solid gray;"></div>
 
-+ <p>  <span style="color: #008080;"> (Accepted)</span> Ronald Nap, <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Contrastive pre-training and multiple instance learning for predicting tumor microsatellite instability. <span style="color: #ADD8E6;"> the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. </span>. </p>
++ <p> Sarah Malone <span style="color: #E6E6FA;"> M. Aburidi </span> and R. Marcia, "Wasserstein-Based Similarity Constrained Matrix Factorization for Drug-Drug Interaction Prediction," <span style="color: #ADD8E6;"> 2024 IEEE Workshop on Signal Processing Systems (SiPS), </span> Cambridge, MA, USA, 2024, pp. 49-53, doi: 10.1109/SiPS62058.2024.00017. <a href="[https://ieeexplore.ieee.org/abstract/document/10782458](https://ieeexplore.ieee.org/abstract/document/10768226)"> Online </a> 
 
-+ <p>  <span style="color: #008080;"> (Accepted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Topological adversarial attacks on graph neural networks via projected meta learning. <span style="color: #ADD8E6;"> The 2024 IEEE Conference on Evolving and Adaptive Intelligent Systems (IEEE EAIS 2024). </span>. </p>
++ <p> <span style="color: #E6E6FA;"> M. Aburidi </span> and R. Marcia, "Optimal Transport-Based Network Alignment: Graph Classification of Small Molecule Structure-Activity Relationships in Biology," <span style="color: #ADD8E6;"> 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), </span> Orlando, FL, USA, 2024, pp. 1-7, doi: 10.1109/EMBC53108.2024.10782037 <a href="https://ieeexplore.ieee.org/abstract/document/10782458"> Online </a> 
 
-+ <p>  <span style="color: #008080;"> (Accepted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Adversarial attack and training for graph convolutional networks using focal loss-projected momentum. <span style="color: #ADD8E6;"> The 3rd International Conference on Computing and Machine Intelligence (ICMI). </span>. </p>
+
++ <p> Ronald Nap, <span style="color: #E6E6FA;"> M. Aburidi </span> and R. Marcia, "Contrastive Pre-Training and Multiple Instance Learning for Predicting Tumor Microsatellite Instability," <span style="color: #ADD8E6;"> 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), </span> Orlando, FL, USA, 2024, pp. 1-7, doi: 10.1109/EMBC53108.2024.10782037 <a href="https://ieeexplore.ieee.org/abstract/document/10782037"> Online </a> 
+
+
++ <p> <span style="color: #E6E6FA;"> M. Aburidi </span> and R. Marcia, "Adversarial Attack and Training for Graph Convolutional Networks Using Focal Loss-Projected Momentum," <span style="color: #ADD8E6;"> 2024 IEEE 3rd International Conference on Computing and Machine Intelligence (ICMI) </span> Mt Pleasant, MI, USA, 2024, pp. 1-5, doi: 10.1109/ICMI60790.2024.10586025 <a href="https://ieeexplore.ieee.org/abstract/document/10586025"> Online </a> 
+
+
++ <p> <span style="color: #E6E6FA;"> M. Aburidi </span> and R. Marcia, "Topological Adversarial Attacks on Graph Neural Networks Via Projected Meta Learning," <span style="color: #ADD8E6;"> 2024 IEEE International Conference on Evolving and Adaptive Intelligent Systems (EAIS) </span> Madrid, Spain, 2024, pp. 1-8, doi: 10.1109/EAIS58494.2024.1056910 <a href="https://ieeexplore.ieee.org/abstract/document/10569101"> Online </a> 
+
 
 + <p> <span style="color: #E6E6FA;"> M. Aburidi </span> and R. Marcia, "Optimal Transport Based Graph Kernels for Drug Property Prediction," <span style="color: #ADD8E6;"> in IEEE Open Journal of Engineering in Medicine and Biology </span> doi: 10.1109/OJEMB.2024.3480708 <a href="https://ieeexplore.ieee.org/document/10716457/keywords#keywords"> Online </a> 
 
