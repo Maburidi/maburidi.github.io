@@ -89,7 +89,7 @@ page_data:
       #img_title: "img title3"
       date: "2024-09-20"
       post: |
-        Graph Neural Networks (GNNs) have exhibited remarkable success in various applications, yet their vulnerability to adversarial attacks poses significant risks in security-sensitive domains. Imperceptible perturbations in graphs can lead to severe performance degradation, necessitating robust GNN models for safety and privacy in critical applications. We address this challenge by proposing optimization-based attacks on GNNs, specifically focusing on modifying graph structures. Our approach leverages convex relaxation and projected momentum optimization. Introducing the focal loss as an attack criterion, we generate perturbations by minimizing a constrained optimization problem.
+        This project focuses on simulating and optimizing the hydropower systems of the primary tributaries of California's San Joaquin River, including the Merced, San Joaquin, Stanislaus, and Tuolumne Rivers. These rivers play a critical role in California's water management and energy production. Using the Pywr framework, we developed a detailed computational model to simulate water flow, reservoir operations, and energy generation across these interconnected systems. The model accounts for key operational constraints, such as water demand, environmental flow requirements, and energy production targets, providing insights into sustainable hydropower operations. Our work aims to enhance the understanding of hydropower dynamics within the region while supporting decision-making processes for water resource management, energy optimization, and ecological preservation.
  
 
     - type: id_current
