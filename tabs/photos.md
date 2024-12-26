@@ -39,7 +39,7 @@ lng_pair: id_photos
   
 July, 2023, Livermore, CA 
 <div style="float: left; width: 50%;">
-    <img src="../assets/img/about/Loivermore1.jpeg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
+    <img src="../assets/img/about/Livermore1.jpeg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
 </div>
 
 
