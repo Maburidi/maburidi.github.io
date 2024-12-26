@@ -45,7 +45,7 @@ July, 2023, Livermore, CA
 <div style="float: left; width: 100%;">
     <img src="../assets/img/about/liver.jpg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
 </div>
-December, 20, 2024, Merced, CA 
+December, 20th, 2024, Merced, CA. PhD Graduation Cermony.  
 <div style="float: left; width: 100%;">
     <video controls style="max-width: 100%; height: auto;">
         <source src="../assets/img/about/grad.mp4" type="video/mp4">
