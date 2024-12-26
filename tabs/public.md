@@ -65,9 +65,9 @@ lng_pair: id_public
 
 + <p>  <span style="color: #008080;"> (Accepted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Adversarial attack and training for graph convolutional networks using focal loss-projected momentum. <span style="color: #ADD8E6;"> The 3rd International Conference on Computing and Machine Intelligence (ICMI). </span>. </p>
 
-+ <p> </span> <span style="color: #E6E6FA;"> M. Aburidi </span> and R. Marcia, "Optimal Transport Based Graph Kernels for Drug Property Prediction," <span style="color: #ADD8E6;"> in IEEE Open Journal of Engineering in Medicine and Biology </span> doi: 10.1109/OJEMB.2024.3480708 <a href="https://ieeexplore.ieee.org/document/10716457/keywords#keywords"> Online </a> 
++ <p> <span style="color: #E6E6FA;"> M. Aburidi </span> and R. Marcia, "Optimal Transport Based Graph Kernels for Drug Property Prediction," <span style="color: #ADD8E6;"> in IEEE Open Journal of Engineering in Medicine and Biology </span> doi: 10.1109/OJEMB.2024.3480708 <a href="https://ieeexplore.ieee.org/document/10716457/keywords#keywords"> Online </a> 
 
-+ <p> </span> <span style="color: #E6E6FA;"> M. Aburidi </span> and R. Marcia, "Wasserstein Distance-Based Graph Kernel for Enhancing Drug Safety and Efficacy Prediction," <span style="color: #ADD8E6;"> 2024 IEEE First International Conference on Artificial Intelligence for Medicine, Health and Care (AIMHC) </span>, Laguna Hills, CA, USA, 2024, pp. 113-119, doi: 10.1109/AIMHC59811.2024.00029  <a href="https://ieeexplore.ieee.org/abstract/document/10504311"> Online </a> 
++ <p> <span style="color: #E6E6FA;"> M. Aburidi </span> and R. Marcia, "Wasserstein Distance-Based Graph Kernel for Enhancing Drug Safety and Efficacy Prediction," <span style="color: #ADD8E6;"> 2024 IEEE First International Conference on Artificial Intelligence for Medicine, Health and Care (AIMHC) </span>, Laguna Hills, CA, USA, 2024, pp. 113-119, doi: 10.1109/AIMHC59811.2024.00029  <a href="https://ieeexplore.ieee.org/abstract/document/10504311"> Online </a> 
 
 
 <h3>2023</h3>
