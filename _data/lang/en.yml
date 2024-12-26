@@ -179,6 +179,11 @@ group_memb:
   button_name: Group Members
   email_title: email
 
+photos:
+  title: Photos
+  button_name: Photos
+  email_title: email
+
 # for projects layout
 projects:
   title: projects
