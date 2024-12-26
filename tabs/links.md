@@ -77,6 +77,17 @@ page_data:
       info: "December 2023: Graduate Student Association (GSA) Travel Award Fellowship, University of California, Merced (UCM)"
 
     - type: id_fellowships
+      title: "VISTA GSR Fellowship"
+      url: "https://drive.google.com/file/d/18FpeTxCuvJ_4Ojk3TAkpwWgXnI-rYe6L/view?usp=sharing" 
+      info: "UC Merced Valley Institute for Sustainability, Technology, and Agriculture GSR Fellowship, University of California Merced, Merced, USA." 
+
+    - type: id_fellowships
+      title: "Applied Mathematics Summer Research Fellowship"
+      url: "https://drive.google.com/file/d/19xfmCd2ktpOe3cdPudEOc5FLZsoMuqio/view?usp=sharing" 
+      info: "University of California Merced, Merced, USA." 
+
+
+    - type: id_fellowships
       title: "UCM GSOP Fellowship"
       url: "https://graduatedivision.ucmerced.edu/financial-support/internal-fellowships/graduate-student-opportunity-program"
       info: "May 2022: Graduate Student Opportunity Program Fellowship, University of California, Merced (UCM)" 
