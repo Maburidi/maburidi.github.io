@@ -71,6 +71,7 @@ lng_pair: id_public
 
 + <p>  <span style="color: #008080;"> (Submitted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Optimal Transport-Based Graph Kernels for Drug Property Prediction. <span style="color: #ADD8E6;"> Scientific Reports</span>. </p>
 
++ <p> </span> <span style="color: #E6E6FA;"> M. Aburidi </span> and R. Marcia, "Optimal Transport Based Graph Kernels for Drug Property Prediction," <span style="color: #ADD8E6;"> in IEEE Open Journal of Engineering in Medicine and Biology </span> doi: 10.1109/OJEMB.2024.3480708 <a href="https://ieeexplore.ieee.org/document/10716457/keywords#keywords"> Online </a> 
 
 + <p> </span> <span style="color: #E6E6FA;"> M. Aburidi </span> and R. Marcia, "Wasserstein Distance-Based Graph Kernel for Enhancing Drug Safety and Efficacy Prediction," <span style="color: #ADD8E6;"> 2024 IEEE First International Conference on Artificial Intelligence for Medicine, Health and Care (AIMHC) </span>, Laguna Hills, CA, USA, 2024, pp. 113-119, doi: 10.1109/AIMHC59811.2024.00029  <a href="https://ieeexplore.ieee.org/abstract/document/10504311"> Online </a> 
 
