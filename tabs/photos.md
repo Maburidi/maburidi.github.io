@@ -46,7 +46,7 @@ lng_pair: id_photos
 <div style="float: left; width: 100%;">
     <img src="../assets/img/about/grad.jpg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
 </div>
-<p style="line-height: 2;">December, 20th, 2024, Merced, CA. PhD Graduation Ceremony.</p>
+<p style="line-height: 10;">December, 20th, 2024, Merced, CA. PhD Graduation Ceremony.</p>
 
 
 <div style="float: left; width: 100%;">
