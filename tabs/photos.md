@@ -78,7 +78,7 @@ lng_pair: id_photos
 <p  style="line-height: 2; margin-bottom: 50px;"> January 2018, Simons Computational Neuroscience Imbizo, Cape Twon, South Africa </p>
 
 
-<div style="float: left; width: 90%;">
+<div style="float: left; width: 100%;">
     <img src="../assets/img/about/DSC.JPG" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
 </div>
 
