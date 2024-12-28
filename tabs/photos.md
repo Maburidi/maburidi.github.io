@@ -51,10 +51,20 @@ July, 2023, Livermore, CA
 <div style="float: left; width: 100%;">
     <img src="../assets/img/about/Livermore1.jpeg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
 </div>
-July, 2023, Livermore, CA 
+July, 2023, Lawrence Livermore National Laboratory, Livermore, CA 
 <div style="float: left; width: 100%;">
     <img src="../assets/img/about/liver.jpg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
 </div>
+
+
+
+
+
+January 2016, American University of Beirut, Beirut, Lebanon  
+<div style="float: left; width: 100%;">
+    <img src="../assets/img/about/DSC.JPG" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
+</div>
+
 
 
 <div style="height: 20px;"></div>
