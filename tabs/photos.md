@@ -58,8 +58,8 @@ July, 2023, Livermore, CA
 </div>
 July, 2023, Lawrence Livermore National Laboratory, Livermore, CA 
 
-<\b>
-<\b>
+</p>
+</p>
 
 
 
