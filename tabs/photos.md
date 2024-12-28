@@ -46,20 +46,29 @@ lng_pair: id_photos
 <div style="float: left; width: 100%;">
     <img src="../assets/img/about/grad.jpg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
 </div>
-<p style="line-height: 2; margin-bottom: 50px;">December, 20th, 2024, University of California, Merced, CA. PhD Graduation Ceremony.</p>
+<p style="line-height: 2; margin-bottom: 50px;">December, 20th, 2024, PhD Graduation Ceremony, University of California, Merced, CA, USA.</p>
 
 
 <div style="float: left; width: 100%;">
     <img src="../assets/img/about/Livermore1.jpeg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
 </div>
-<p  style="line-height: 2; margin-bottom: 50px;">July, 2023, Livermore, CA </p>
+<p  style="line-height: 2; margin-bottom: 50px;">July, 2023, Livermore, CA, USA </p>
 
 
 <div style="float: left; width: 100%;">
     <img src="../assets/img/about/liver.jpg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
 </div>
-<p  style="line-height: 2; margin-bottom: 50px;">July, 2023, Lawrence Livermore National Laboratory, Livermore, CA </p>
+<p  style="line-height: 2; margin-bottom: 50px;">July, 2023, Lawrence Livermore National Laboratory, Livermore, CA, USA </p>
 
+
+
+<div style="float: left; width: 100%;">
+    <img src="../assets/img/about/clem1.JPG" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
+</div>
+<div style="float: left; width: 100%;">
+    <img src="../assets/img/about/clem2.JPG" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
+</div>
+<p  style="line-height: 2; margin-bottom: 50px;">August, 2018, Clemson University, SC, USA </p>
 
 
 <div style="float: left; width: 100%;">
@@ -80,6 +89,14 @@ lng_pair: id_photos
 </div>
 
 <p  style="line-height: 2; margin-bottom: 50px;"> January 2018, Simons Computational Neuroscience Imbizo, Cape Twon, South Africa </p>
+
+<div style="float: left; width: 100%;">
+    <img src="../assets/img/about/fr1.jpg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
+</div>
+<div style="float: left; width: 100%;">
+    <img src="../assets/img/about/fr2.jpg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
+</div>
+<p  style="line-height: 2; margin-bottom: 50px;">September, 2017, International Winter School of Neuroscience, Cluny, France </p>
 
 
 <div style="float: left; width: 100%;">
