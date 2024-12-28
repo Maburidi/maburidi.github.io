@@ -36,34 +36,38 @@ lng_pair: id_photos
 #published: false
 ---
 
-December, 20th, 2024, Merced, CA. PhD Graduation Ceremony.  
 <div style="float: left; width: 100%;">
     <video controls style="max-width: 100%; height: auto;">
         <source src="../assets/img/about/grad.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div>
+December, 20th, 2024, Merced, CA. PhD Graduation Ceremony.  
+
 <div style="float: left; width: 100%;">
     <img src="../assets/img/about/grad.jpg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
 </div>
 
-July, 2023, Livermore, CA 
 <div style="float: left; width: 100%;">
     <img src="../assets/img/about/Livermore1.jpeg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
 </div>
-July, 2023, Lawrence Livermore National Laboratory, Livermore, CA 
+July, 2023, Livermore, CA 
+
 <div style="float: left; width: 100%;">
     <img src="../assets/img/about/liver.jpg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
 </div>
+July, 2023, Lawrence Livermore National Laboratory, Livermore, CA 
+
+<\b>
+<\b>
 
 
 
 
-
-January 2016, American University of Beirut, Beirut, Lebanon  
-<div style="float: left; width: 100%;">
+<div style="float: left; width: 70%;">
     <img src="../assets/img/about/DSC.JPG" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
 </div>
+January 2016, American University of Beirut, Beirut, Lebanon  
 
 
 
