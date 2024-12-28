@@ -46,29 +46,46 @@ lng_pair: id_photos
 <div style="float: left; width: 100%;">
     <img src="../assets/img/about/grad.jpg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
 </div>
-<p style="line-height: 2; margin-bottom: 30px;">December, 20th, 2024, University of California, Merced, CA. PhD Graduation Ceremony.</p>
+<p style="line-height: 2; margin-bottom: 50px;">December, 20th, 2024, University of California, Merced, CA. PhD Graduation Ceremony.</p>
 
 
 <div style="float: left; width: 100%;">
     <img src="../assets/img/about/Livermore1.jpeg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
 </div>
-<p  style="line-height: 2; margin-bottom: 30px;">July, 2023, Livermore, CA </p>
+<p  style="line-height: 2; margin-bottom: 50px;">July, 2023, Livermore, CA </p>
 
 
 <div style="float: left; width: 100%;">
     <img src="../assets/img/about/liver.jpg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
 </div>
-<p  style="line-height: 2; margin-bottom: 30px;">July, 2023, Lawrence Livermore National Laboratory, Livermore, CA </p>
+<p  style="line-height: 2; margin-bottom: 50px;">July, 2023, Lawrence Livermore National Laboratory, Livermore, CA </p>
 
+
+
+<div style="float: left; width: 70%;">
+    <img src="../assets/img/about/sa1.jpg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
+</div>
+<div style="float: left; width: 70%;">
+    <img src="../assets/img/about/sa2.jpg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
+</div>
+<div style="float: left; width: 70%;">
+    <img src="../assets/img/about/sa3.jpg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
+</div>
+<div style="float: left; width: 70%;">
+    <img src="../assets/img/about/sa4.jpg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
+</div><div style="float: left; width: 70%;">
+    <img src="../assets/img/about/sa5.jpg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
+</div>
+<p  style="line-height: 2; margin-bottom: 50px;"> January 2018, Simons Computational Neuroscience Imbizo, Cape Twon, South Africa </p>
 
 
 <div style="float: left; width: 70%;">
     <img src="../assets/img/about/DSC.JPG" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
 </div>
+<p  style="line-height: 2; margin-bottom: 50px;">January 2016, American University of Beirut, Beirut, Lebanon </p>
 
-January 2016, American University of Beirut, Beirut, Lebanon  
-</p>
-</p>
+  
+
 
 
 <div style="height: 20px;"></div>
