@@ -42,17 +42,22 @@ lng_pair: id_photos
         Your browser does not support the video tag.
     </video>
 </div>
-December, 20th, 2024, Merced, CA. PhD Graduation Ceremony.  
 
 <div style="float: left; width: 100%;">
     <img src="../assets/img/about/grad.jpg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
 </div>
+December, 20th, 2024, Merced, CA. PhD Graduation Ceremony.  
+
+</p>
+</p>
 
 <div style="float: left; width: 100%;">
     <img src="../assets/img/about/Livermore1.jpeg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
 </div>
 July, 2023, Livermore, CA 
 
+</p>
+</p>
 <div style="float: left; width: 100%;">
     <img src="../assets/img/about/liver.jpg" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
 </div>
@@ -68,7 +73,8 @@ July, 2023, Lawrence Livermore National Laboratory, Livermore, CA
     <img src="../assets/img/about/DSC.JPG" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
 </div>
 January 2016, American University of Beirut, Beirut, Lebanon  
-
+</p>
+</p>
 
 
 <div style="height: 20px;"></div>
