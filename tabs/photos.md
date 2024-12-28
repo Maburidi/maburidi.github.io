@@ -36,7 +36,7 @@ lng_pair: id_photos
 #published: false
 ---
 
-December, 20th, 2024, Merced, CA. PhD Graduation Cermony.  
+December, 20th, 2024, Merced, CA. PhD Graduation Ceremony.  
 <div style="float: left; width: 100%;">
     <video controls style="max-width: 100%; height: auto;">
         <source src="../assets/img/about/grad.mp4" type="video/mp4">
