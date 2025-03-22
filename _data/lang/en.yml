@@ -168,6 +168,12 @@ teaching:
   link_text: Web site
   info_text: Info
 
+coursematerials:
+  title: Course Materials 
+  button_name: Course
+  link_text: Web site
+  info_text: Info
+
 # for about layout
 public:
   title: Publications
