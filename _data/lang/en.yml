@@ -169,8 +169,8 @@ teaching:
   info_text: Info
 
 courses:
-  title: Course Materials 
-  button_name: Course
+  title: courses 
+  button_name: Course Materials
   link_text: Web site
   info_text: Info
 
