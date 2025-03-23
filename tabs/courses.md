@@ -1,7 +1,7 @@
 ---
-layout: public
+layout: courses
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_public
+lng_pair: id_courses
 
 # image for page specific usage
 #img: ":about.jpg"
