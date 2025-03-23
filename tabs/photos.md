@@ -61,6 +61,36 @@ lng_pair: id_photos
 <p  style="line-height: 2; margin-bottom: 50px;">July, 2023, Lawrence Livermore National Laboratory, Livermore, CA, USA </p>
 
 
+<div style="float: left; width: 100%;">
+    <img src="../assets/img/about/im1.png" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
+</div>
+<p  style="line-height: 2; margin-bottom: 50px;">July 2024, CHABOT Space and Science Center, Oakland, CA, USA </p>
+
+<div style="float: left; width: 100%;">
+    <img src="../assets/img/about/im2.png" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
+</div>
+<p  style="line-height: 2; margin-bottom: 50px;">July 2022, Berkeley National Laboratory, Berkeley, CA, USA </p>
+
+<div style="float: left; width: 100%;">
+    <img src="../assets/img/about/im3.png" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
+</div>
+<p  style="line-height: 2; margin-bottom: 50px;">2022, Perlmutter supercomputer at the National Energy Research Scientific Computing Center (NERSC) - Berkeley National Laboratory, Berkeley, California, USA
+ </p>
+
+<div style="float: left; width: 100%;">
+    <img src="../assets/img/about/im4.png" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
+</div>
+<div style="float: left; width: 100%;">
+    <img src="../assets/img/about/im5.png" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
+</div>
+<div style="float: left; width: 100%;">
+    <img src="../assets/img/about/im6.png" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
+</div>
+<p  style="line-height: 2; margin-bottom: 50px;">2022, Inside the Nuclear Cyclotron - Berkeley National Laboratory, Berkeley, California, USA
+ </p>
+
+
+
 
 <div style="float: left; width: 100%;">
     <img src="../assets/img/about/clem1.JPG" alt="Your Image Description" style="max-width: 120%; height: 140%;"/>
