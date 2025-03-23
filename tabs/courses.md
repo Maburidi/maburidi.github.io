@@ -36,7 +36,7 @@ lng_pair: id_courses
 #published: false
 ---
 
-# COURSES MATERIALS: 
+# Course Materials:  
 <div style="border-top: 2px solid gray;"></div>
 
 
