@@ -42,9 +42,9 @@ lng_pair: id_courses
 
 <div style="height: 40px;"></div>
 
-<h3>2025</h3>
+<h3>MEDAI01 Artificial Intelligence in Medicine </h3> 
 <div style="border-top: 0.5px solid gray;"></div>
 
-[Google Scholar](https://scholar.google.com/citations?user=lGKFtoIAAAAJ&hl=en) 
++ Syllabus: [Course Syllabus]([https://scholar.google.com/citations?user=lGKFtoIAAAAJ&hl=en](https://drive.google.com/file/d/1Ez8oG8O8Z9iVv1K2eFL9lwU5lokIqpgh/view?usp=sharing)) 
 
 
