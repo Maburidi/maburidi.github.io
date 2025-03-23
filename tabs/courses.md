@@ -45,6 +45,6 @@ lng_pair: id_courses
 <h3>MEDAI01 Artificial Intelligence in Medicine </h3> 
 <div style="border-top: 0.5px solid gray;"></div>
 
-+ Syllabus: [Course Syllabus]([https://scholar.google.com/citations?user=lGKFtoIAAAAJ&hl=en](https://drive.google.com/file/d/1Ez8oG8O8Z9iVv1K2eFL9lwU5lokIqpgh/view?usp=sharing)) 
++ Syllabus: [Course Syllabus](https://scholar.google.com/citations?user=lGKFtoIAAAAJ&hl=en](https://drive.google.com/file/d/1Ez8oG8O8Z9iVv1K2eFL9lwU5lokIqpgh/view?usp=sharing) 
 
 
