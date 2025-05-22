@@ -82,14 +82,6 @@ page_data:
       url: "https://catalog.ucmerced.edu/preview_course_nopop.php?catoid=16&coid=39688"       
       info: "Calculus II for Scientists and Engineers, Applied Math Department, University of California, Merced"
 
-    - type: id_2021            
-      title: "Spring: CS-10671101"                    
-      url: "https://catalog.ucmerced.edu/preview_course_nopop.php?catoid=16&coid=39688"       
-      info: "Principles of Programming I, Computer Science Department An-Najah National University"
-    - type: id_2020           
-      title: "Fall: CS-11000127"                    
-      url: "https://catalog.ucmerced.edu/preview_course_nopop.php?catoid=16&coid=39688"       
-      info: "Introduction to Computer Science, Computer Science Department An-Najah National University"
 
 
 
