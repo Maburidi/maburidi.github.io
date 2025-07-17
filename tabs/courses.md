@@ -46,7 +46,7 @@ lng_pair: id_courses
 <div style="border-top: 0.5px solid gray;"></div>
 
 + Syllabus: [Course Syllabus](https://drive.google.com/file/d/1Ez8oG8O8Z9iVv1K2eFL9lwU5lokIqpgh/view?usp=sharing)
-+ Lab Session One: Your First Prescription [Colab Tutorial](https://colab.research.google.com/drive/1mVIC-pIzgZWJI-HRh1Y9ZF6WLw2wdM1X?usp=sharing) 
++ Lab Session 1: Your First Prescription [Colab Tutorial](https://colab.research.google.com/drive/1mVIC-pIzgZWJI-HRh1Y9ZF6WLw2wdM1X?usp=sharing) 
 
 
 
