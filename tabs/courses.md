@@ -47,7 +47,7 @@ lng_pair: id_courses
 
 + Syllabus: [Course Syllabus](https://drive.google.com/file/d/1Ez8oG8O8Z9iVv1K2eFL9lwU5lokIqpgh/view?usp=sharing)
 + Lab Session 1: Your First Prescription - Python [Colab Tutorial](https://colab.research.google.com/drive/1mVIC-pIzgZWJI-HRh1Y9ZF6WLw2wdM1X?usp=sharing) , [Homework 1](https://colab.research.google.com/drive/1HDpgeyByNcIjGcH3jGsgDiMfYcYE6NPI?usp=sharing)  [Solutions for Homework 1](https://colab.research.google.com/drive/1w2OfMst2DxG58Bf_zyZAerQd6qGtcy0M?usp=sharing)  
-+ 
+
 
 
 
