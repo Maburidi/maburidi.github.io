@@ -57,8 +57,8 @@ lng_pair: id_courses
 <div style="border-top: 0.5px solid gray;"></div>
 
 + Syllabus: [Course Syllabus](https://drive.google.com/file/d/13a6FMLuNlMoGwR2kuJPeVAgXVdrCt2fB/view?usp=sharing) 
-+ Chapter 0: [Course Introduction](https://drive.google.com/file/d/1cY_CKjraiI52weGDD070R0DkkcQVJxwY/view?usp=sharing) , [Homework 1](https://drive.google.com/file/d/1y778sscLHlfe5gY5qAlCwyMoRLRuuw4a/view?usp=sharing) ,  [Homework 1 Solutions](https://drive.google.com/file/d/1XkhpsR6WuIcBEoPtvIq9xmWWsrfwAZuF/view?usp=sharing) , [More Problems and Solutions](https://drive.google.com/file/d/1oapRHT-dA-gDF9XRtZf0XrVnLlg0Vp4D/view?usp=sharing) 
-+ Chapter 1: [The Foundations: Logic and Proofs](https://drive.google.com/file/d/1uSmXV38w0HrZDyZc2RNCkiIV4UPNGvOd/view?usp=sharing)
++ Chapter 0: [Course Introduction](https://drive.google.com/file/d/1cY_CKjraiI52weGDD070R0DkkcQVJxwY/view?usp=sharing) 
++ Chapter 1: [The Foundations: Logic and Proofs](https://drive.google.com/file/d/1uSmXV38w0HrZDyZc2RNCkiIV4UPNGvOd/view?usp=sharing) , , [Homework 1](https://drive.google.com/file/d/1y778sscLHlfe5gY5qAlCwyMoRLRuuw4a/view?usp=sharing) ,  [Homework 1 Solutions](https://drive.google.com/file/d/1XkhpsR6WuIcBEoPtvIq9xmWWsrfwAZuF/view?usp=sharing) , [More Problems and Solutions](https://drive.google.com/file/d/1oapRHT-dA-gDF9XRtZf0XrVnLlg0Vp4D/view?usp=sharing) 
 + Chapter 2: [Set Theory](https://drive.google.com/file/d/1wMjMEwEhAbbziGBddVBtI-G-l3n4YwQg/view?usp=sharing)
 + Chapter 3: [Number Theory](https://drive.google.com/file/d/1kO8CcgMrX7O3Hd73ZnK4Hsi98uJAD_Xc/view?usp=sharing)
 + Chapter 4: Mathematical Induction  
