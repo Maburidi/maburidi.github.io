@@ -113,7 +113,8 @@ img: ":home-heading.jpg"
 <h5> 2026 </h5> 
 <ul>
   <li> <span style="color: darkgreen;">September 2026: </span> Submitted <strong>Mohammed Aburidi and Yang Zhang.</strong> LNPHub: A Multimodal Data Foundation for AI-Driven Lipid Nanoparticle Discovery in Nucleic Acid Therapeutics. <em>Nature Communications</em>. </li>
-  <li> <span style="color: darkgreen;">September 2026: </span> Code development update: <strong>lnphub</strong>, a Python package for lipid nanoparticles for mRNA drug delivery, is under active development and still private [GitHub Link]. <strong>LNPHub</strong>, a web app for lipid nanoparticles for mRNA drug delivery, is also under development [Link]. </li>
+  <li> <span style="color: darkgreen;">September 2026: </span> Code development update: <a href="https://github.com/Maburidi/lnphub"><strong>lnphub</strong></a>, a Python package for lipid nanoparticles for mRNA drug delivery, is under active development. </li>
+  <li> <span style="color: darkgreen;">September 2026: </span> Code development update: <a href="https://zhanggroup.org/lnphub/"><strong>LNPHub</strong></a>, a web app for lipid nanoparticles for mRNA drug delivery, is under active development. </li>
   <li> <span style="color: darkgreen;">January 01, 2026: </span> Started a new postdoctoral research position in Prof. Yang Zhang’s group at the National University of Singapore, focusing on AI-driven molecular modeling, lipid nanoparticle discovery, and drug delivery. </li>
 </ul>
 
@@ -175,7 +176,6 @@ img: ":home-heading.jpg"
    
   <li> <span style="color: darkgreen;"> March 10, 2023:   </span> A paper is accepted for presentation at the <a href="https://memea2023.ieee-ims.org/"> [IEEE MeMeA 2023] </a> </li> 
 </ul>
-
 
 
 

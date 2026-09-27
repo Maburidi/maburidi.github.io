@@ -36,25 +36,13 @@ img: ":PhotoM.jpg"
 #published: false
 ---
 
-Interested in my AI realted research, software development, coding, or have a question?  Please feel free to reach out to me to learn more.
-
-<div style="height: 20px;"></div>
-
-<p><strong style="color: green;">Mailing address:</strong> <br>
-SRE 221 <br> 
-School of Engineering <br>
-University of California, Merced<br>
-5200 North Lake Road<br>
-Merced, CA 95343</p>
+Interested in my AI-related research, software development, coding, or have a question? Please feel free to reach out to me to learn more.
 
 <div style="height: 20px;"></div>
 
 <div>
-  <p><strong style="color: green;">Office:</strong> SRE 221</p>
-  <p><strong style="color: green;">Email-1:</strong> <a href="mailto:maburidi@ucmerced.edu">maburidi@ucmerced.edu</a></p>
-  <p><strong style="color: green;">Email-2:</strong> <a href="mailto:maburidi@gmail.com">maburidi@gmail.com</a></p>  
-  <p><strong style="color: green;">Phone 1:</strong> +1 (380) 900-1161</p> 
-  <p><strong style="color: green;">Phone 2:</strong> +1 (209) 455-5547</p>  
+  <p><strong style="color: green;">Email:</strong> <a href="mailto:maburidi@nuc.edu.sg">maburidi@nuc.edu.sg</a></p>
+  <p><strong style="color: green;">Phone:</strong> 006084355648</p>
   <p><strong style="color: green;">WhatsApp:</strong> 0013809001161</p> 
 
 </div>
