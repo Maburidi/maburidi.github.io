@@ -77,7 +77,7 @@ img: ":home-heading.jpg"
   <h5 style="text-align: center; font-weight: bold;">Industrial & Academic Affiliations</h5>
 
   <div style="text-align: center;">
-    <img src="../assets/img/home/nus.png" alt="National University of Singapore logo" style="max-width: 55%; height: auto;"/>
+    <img src="../assets/img/home/nus.png" alt="National University of Singapore logo" style="max-width: 35%; height: auto;"/>
 
   </div>
 
@@ -113,12 +113,14 @@ img: ":home-heading.jpg"
 <h5> 2026 </h5> 
 <ul>
   <li> <span style="color: darkgreen;">September 2026: </span> Submitted <strong>Mohammed Aburidi and Yang Zhang.</strong> LNPHub: A Multimodal Data Foundation for AI-Driven Lipid Nanoparticle Discovery in Nucleic Acid Therapeutics. <em>Nature Communications</em>. </li>
+  <li> <span style="color: darkgreen;">September 2026: </span> Code development update: <strong>lnphub</strong>, a Python package for lipid nanoparticles for mRNA drug delivery, is under active development and still private [GitHub Link]. <strong>LNPHub</strong>, a web app for lipid nanoparticles for mRNA drug delivery, is also under development [Link]. </li>
   <li> <span style="color: darkgreen;">January 01, 2026: </span> Started a new postdoctoral research position in Prof. Yang Zhang’s group at the National University of Singapore, focusing on AI-driven molecular modeling, lipid nanoparticle discovery, and drug delivery. </li>
 </ul>
 
 <h5> 2025 </h5>
 <ul>
-  <li> <span style="color: darkgreen;">February 2025: </span> Our paper, "Defending Graph Neural Networks Against Adversarial Attacks via Symmetric Matrix Factorization," was published in the 2025 Conference on Artificial Intelligence x Multimedia (AIxMM). </li>
+  <li> <span style="color: darkgreen;">2025: </span> Submitted <strong>K. R. Wright, M. J. Aburidi, D. E. Rheinheimer, G. F. Dourado, and J. H. Viers.</strong> "Water System Simulation Modeling with Hydropower Optimization and Environmental Flows: An Example with Pywr" to <em>PLOS Water</em>. </li>
+  <li> <span style="color: darkgreen;">February 2025: </span> Our paper, <strong>A. Li, M. J. Aburidi, and R. Marcia.</strong> "Defending Graph Neural Networks Against Adversarial Attacks via Symmetric Matrix Factorization," was published in the 2025 Conference on Artificial Intelligence x Multimedia (AIxMM). </li>
 </ul>
 
 <h5> 2024 </h5> 
@@ -173,7 +175,6 @@ img: ":home-heading.jpg"
    
   <li> <span style="color: darkgreen;"> March 10, 2023:   </span> A paper is accepted for presentation at the <a href="https://memea2023.ieee-ims.org/"> [IEEE MeMeA 2023] </a> </li> 
 </ul>
-
 
 
 

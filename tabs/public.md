@@ -52,7 +52,15 @@ lng_pair: id_public
 <h3>2025</h3>
 <div style="border-top: 0.5px solid gray;"></div>
 
-+ <p> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Defending Graph Neural Networks Against Adversarial Attacks via Symmetric Matrix Factorization. <span style="color: #ADD8E6;"> 2025 Conference on Artificial Intelligence x Multimedia (AIxMM), </span> 2025, doi: 10.1109/AIxMM62960.2025.00016. </p>
++ <p> <span style="color: #008080;"> (Submitted)</span> K. R. Wright, <span style="color: #E6E6FA;"> M. J. Aburidi </span>, D. E. Rheinheimer, G. F. Dourado, and J. H. Viers, "Water System Simulation Modeling with Hydropower Optimization and Environmental Flows: An Example with Pywr." <span style="color: #ADD8E6;"> PLOS Water. </span> </p>
+
++ <p> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=lGKFtoIAAAAJ&amp;sortby=pubdate&amp;citation_for_view=lGKFtoIAAAAJ:KlAtU1dfN6UC">Interpretable Drug Response Prediction via Optimal Transport-Guided Importance of Drug-Gene Relationships</a>. <span style="color: #E6E6FA;"> M. Aburidi </span>. <span style="color: #ADD8E6;"> Chem-Bio Informatics Journal, </span> 25, 36-52, 2025. </p>
+
++ <p> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=lGKFtoIAAAAJ&amp;sortby=pubdate&amp;citation_for_view=lGKFtoIAAAAJ:Zph67rFs4hoC">Triple Matrix Factorization for Drug-Drug Interaction Prediction Using Fused Gromov-Wasserstein Distances</a>. S. Malone, <span style="color: #E6E6FA;"> M. Aburidi </span>, and R. F. Marcia. <span style="color: #ADD8E6;"> 2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, </span> 2025. </p>
+
++ <p> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=lGKFtoIAAAAJ&amp;sortby=pubdate&amp;citation_for_view=lGKFtoIAAAAJ:8k81kl-MbHgC">Deep Unrolled Weighted Low-Rank Approximation for High Dynamic Range Imaging</a>. <span style="color: #E6E6FA;"> M. Aburidi </span> and R. Marcia. <span style="color: #ADD8E6;"> 2025 Conference on Artificial Intelligence x Multimedia (AIxMM), </span> 19-27, 2025. </p>
+
++ <p> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=lGKFtoIAAAAJ&amp;sortby=pubdate&amp;citation_for_view=lGKFtoIAAAAJ:0EnyYjriUFMC">Defending Graph Neural Networks Against Adversarial Attacks via Symmetric Matrix Factorization</a>. A. Li, <span style="color: #E6E6FA;"> M. J. Aburidi </span>, and R. Marcia. <span style="color: #ADD8E6;"> 2025 Conference on Artificial Intelligence x Multimedia (AIxMM), </span> 55-61, 2025, doi: 10.1109/AIxMM62960.2025.00016. </p>
 
 
 
@@ -121,7 +129,6 @@ lng_pair: id_public
 
 
 + <p>  <span style="color: #E6E6FA;"> Aburidi, M. J. </span>. A Comparative Study of the Regularization Parameter Estimation Methods for the EEG Inverse Problem. <span style="color: #ADD8E6;"> Masters Thesis, </span>  <a href="https://scholar.najah.edu/sites/default/files/Mohammed%20Jamil%20Aburidi.pdfiop"> Online </a> 
-
 
 
 
