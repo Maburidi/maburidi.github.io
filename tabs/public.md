@@ -42,10 +42,17 @@ lng_pair: id_public
 
 <div style="height: 40px;"></div>
 
+<h3>2026</h3>
+<div style="border-top: 0.5px solid gray;"></div>
+
++ <p> <span style="color: #008080;"> (Submitted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Yang Zhang. LNPHub: A Multimodal Data Foundation for AI-Driven Lipid Nanoparticle Discovery in Nucleic Acid Therapeutics. <span style="color: #ADD8E6;"> Nature Communications, </span> submitted, September 2026. </p>
+
+
+
 <h3>2025</h3>
 <div style="border-top: 0.5px solid gray;"></div>
 
-+ <p>  <span style="color: #008080;"> (Submitted)</span> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Defending Graph Neural Networks Against Adversarial attacks via Matrix Factorization. <span style="color: #ADD8E6;"> AIxMM 2025 : IEEE International Conference on AI x Multimedia. </span>. </p>
++ <p> <span style="color: #E6E6FA;"> Mohammed Aburidi </span> and Roummel Marcia. Defending Graph Neural Networks Against Adversarial Attacks via Symmetric Matrix Factorization. <span style="color: #ADD8E6;"> 2025 Conference on Artificial Intelligence x Multimedia (AIxMM), </span> 2025, doi: 10.1109/AIxMM62960.2025.00016. </p>
 
 
 
@@ -114,7 +121,6 @@ lng_pair: id_public
 
 
 + <p>  <span style="color: #E6E6FA;"> Aburidi, M. J. </span>. A Comparative Study of the Regularization Parameter Estimation Methods for the EEG Inverse Problem. <span style="color: #ADD8E6;"> Masters Thesis, </span>  <a href="https://scholar.najah.edu/sites/default/files/Mohammed%20Jamil%20Aburidi.pdfiop"> Online </a> 
-
 
 
 

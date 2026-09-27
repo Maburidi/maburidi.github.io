@@ -81,6 +81,36 @@ page_data:
     #    ![Image](:project2_thumb.jpg)
 
     # quote
+
+    - type: id_current
+      project_name: "LNPHub: A Multimodal Data Foundation for AI-Driven Lipid Nanoparticle Discovery in Nucleic Acid Therapeutics"
+      project_excerpt: "Mohammed Aburidi and Yang Zhang"
+      img: ":p10.png"
+      date: "2026-09-01"
+      post: |
+        LNPHub is a multimodal data foundation for lipid nanoparticle discovery in nucleic acid therapeutics. The project integrates experimental, molecular, formulation, and performance data to support AI-driven design, benchmarking, and prediction of lipid nanoparticle behavior. My work focuses on building computational infrastructure and machine-learning models that connect molecular representations, formulation variables, and delivery outcomes.
+
+        The broader goal is to make lipid nanoparticle discovery more systematic, data-rich, and predictive for RNA and drug delivery applications.
+
+    - type: id_current
+      project_name: "Foundation Models for Ionizable Lipids"
+      project_excerpt: "Mohammed Aburidi and Yang Zhang"
+      img: ":p10.jpg"
+      date: "2026-06-01"
+      post: |
+        This project develops foundation models for ionizable lipids used in lipid nanoparticle systems. The models are designed to learn transferable molecular representations from chemical structure, physicochemical descriptors, simulation-derived features, and delivery-related performance signals.
+
+        The aim is to accelerate ionizable lipid design by enabling property prediction, virtual screening, representation learning, and generative modeling for new lipid candidates.
+
+    - type: id_current
+      project_name: "Molecular Dynamics Simulations of Ionizable Lipid-Membrane Interactions"
+      project_excerpt: "Mohammed Aburidi and Yang Zhang"
+      img: ":p11.jpg"
+      date: "2026-01-01"
+      post: |
+        This project uses molecular dynamics simulations to study how ionizable lipids interact with biological membranes and lipid nanoparticle environments. The work investigates lipid organization, membrane association, protonation-dependent behavior, and structure-function relationships that influence delivery performance.
+
+        These simulations provide physics-informed features and mechanistic insight for AI models that predict and design lipid nanoparticles for RNA and drug delivery.
     
     - type: id_current
       project_name: "Modeling the Hydropower Systems of the Primary Tributaries of California's San Joaquin River"

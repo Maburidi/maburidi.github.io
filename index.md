@@ -52,11 +52,15 @@ img: ":home-heading.jpg"
 
 <h5> Welcome to my personal website! </h5>     
 
-<p> Hi! I'm Mohammed, A software engineer, and an applied mathematician. I am developing web-based systems for environmental scientists. In addition, I apply artificial intelligence to research focused on water management system simulation models for rivers of California, USA. I completed my PhD at the University of California Merced (UCM), CA, USA in November 2024. My PhD research at UCM focuses on graph/geometric machine learning and constrained optimization with medical applications. More specifically, I investigated the robustness of graph neural networks. I develop convex and non-convex optimization-based methods to attack and defend GNNs. I also created optimization-based methods for machine learning to solve real-life problems in computer vision and bioinformatics. I also completed a Master's degree in Applied Mathematics at UC Merced. Additionally, I hold another Master's degree in Biomedical Data Science and Informatics from Clemson University, SC, USA My interdisciplinary journey lies at the intersection of science and innovation. My work aims to both expand knowledge and drive revolutionary advancements in practical applications.
- <p>
+<p>Hi, I’m Mohammed, a computational scientist, software engineer, and applied mathematician working at the intersection of artificial intelligence, molecular modeling, and drug delivery.</p>
 
-<p>
-Apart from academia, I founded a new startup called <a href="https://liotechsolutions.com/"> LIOTECH Solutions </a>, based in California, USA. We specialize in developing custom software solutions for businesses, focusing on mobile App and website development, marketing and graphic design for B2B wholesalers. Our goal is to enhance business efficiency and streamline operations through innovative technology and tailored digital solutions. <br>     
+<p>I currently conduct research in Prof. Yang Zhang’s lab at the National University of Singapore, where I develop computational models and AI-driven tools for drug discovery and delivery. My current work focuses on generative AI models, molecular representations, molecular dynamics simulations, and physics-informed machine learning, with a particular interest in designing and predicting the performance of lipid nanoparticles for RNA and drug delivery.</p>
+
+<p>I completed my PhD at the University of California, Merced, in December 2024. My doctoral research focused on graph and geometric machine learning, constrained optimization, and the robustness of graph neural networks. I developed convex and non-convex optimization methods for attacking and defending GNNs, as well as optimization-based machine-learning approaches for applications in computer vision and bioinformatics.</p>
+
+<p>I also hold a Master’s degree in Biomedical Data Science and Informatics from Clemson University, and a Master’s degree in Scientific Computing from An-Najah National University.</p>
+
+<p>My interdisciplinary research combines applied mathematics, artificial intelligence, molecular simulation, and software development to build computational tools that advance scientific discovery and address real-world challenges.</p>
 
 
 <div style="height: 30px;"></div>
@@ -73,8 +77,7 @@ Apart from academia, I founded a new startup called <a href="https://liotechsolu
   <h5 style="text-align: center; font-weight: bold;">Industrial & Academic Affiliations</h5>
 
   <div style="text-align: center;">
-    <img src="../assets/img/home/ucm.png" alt="Your Image" style="max-width: 30%; height: auto;"/>
-    <img src="../assets/img/home/logo.png" alt="Your Image" style="max-width: 30%; height: auto;"/>
+    <img src="../assets/img/home/nus.png" alt="National University of Singapore logo" style="max-width: 55%; height: auto;"/>
 
   </div>
 
@@ -90,6 +93,7 @@ Apart from academia, I founded a new startup called <a href="https://liotechsolu
 
 
 <div style="text-align: center; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+    <img src="../assets/img/home/ucm.png" alt="UC Merced logo" style="width: 140px; height: 80px; object-fit: contain; border-radius: 8px;">
     <img src="../assets/img/home/img1.jpg" alt="Image 1" style="width: 80px; height: 80px; object-fit: cover; border-radius: 8px;">
     <img src="../assets/img/home/img2.jpg" alt="Image 2" style="width: 120px; height: 80px; object-fit: cover; border-radius: 8px;">
     <img src="../assets/img/home/img3.jpg" alt="Image 3" style="width: 80px; height: 80px; object-fit: cover; border-radius: 8px;">
@@ -105,6 +109,17 @@ Apart from academia, I founded a new startup called <a href="https://liotechsolu
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 <h3> News: </h3> <br>   
+
+<h5> 2026 </h5> 
+<ul>
+  <li> <span style="color: darkgreen;">September 2026: </span> Submitted <strong>Mohammed Aburidi and Yang Zhang.</strong> LNPHub: A Multimodal Data Foundation for AI-Driven Lipid Nanoparticle Discovery in Nucleic Acid Therapeutics. <em>Nature Communications</em>. </li>
+  <li> <span style="color: darkgreen;">January 01, 2026: </span> Started a new postdoctoral research position in Prof. Yang Zhang’s group at the National University of Singapore, focusing on AI-driven molecular modeling, lipid nanoparticle discovery, and drug delivery. </li>
+</ul>
+
+<h5> 2025 </h5>
+<ul>
+  <li> <span style="color: darkgreen;">February 2025: </span> Our paper, "Defending Graph Neural Networks Against Adversarial Attacks via Symmetric Matrix Factorization," was published in the 2025 Conference on Artificial Intelligence x Multimedia (AIxMM). </li>
+</ul>
 
 <h5> 2024 </h5> 
 <ul>
@@ -158,7 +173,6 @@ Apart from academia, I founded a new startup called <a href="https://liotechsolu
    
   <li> <span style="color: darkgreen;"> March 10, 2023:   </span> A paper is accepted for presentation at the <a href="https://memea2023.ieee-ims.org/"> [IEEE MeMeA 2023] </a> </li> 
 </ul>
-
 
 
 

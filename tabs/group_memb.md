@@ -47,15 +47,16 @@ lng_pair: id_group
   <div style="float: left; margin-right: 20px; width: 75%;">
     <!-- Your text goes here -->
      <h6>Mohammed Aburidi</h6>
-     Software Engineer at UCM and CEO at LioTech Solutions <br> 
+     Postdoctoral Research Fellow in Prof. Yang Zhang’s group at the National University of Singapore <br> 
      <div style="height: 10px;"></div>
      <strong>Research interests:</strong> 
     <ul>
-      <li> Machine learning for hydrology </li>                             
-      <li> Water managment simulation optimization modeling </li>      
-      <li> Geometric machine and deep learning </li>                  
-      <li> Optimization methods applied to small molecules and drugs</li>       
-      <li> Convex and non-convex optimization </li>     
+      <li> AI-driven drug discovery and drug delivery </li>
+      <li> Lipid nanoparticles for RNA and nucleic acid therapeutics </li>
+      <li> Generative AI and molecular representation learning </li>
+      <li> Molecular dynamics simulations and physics-informed machine learning </li>
+      <li> Graph and geometric machine learning </li>
+      <li> Convex and non-convex optimization </li>
     </ul>
     <div style="height: 6px;"></div>
      <div style="height: 10px;"></div>
@@ -63,7 +64,8 @@ lng_pair: id_group
     <ul>
       <li><strong>Programming Languages:</strong> Python, JavaScript, C/C++, MATLAB, R, SQL, Bash, LaTeX</li>
       <li><strong>Web Development:</strong> HTTP, Html, CSS, php </li>
-      <li><strong>Machine Learning Frameworks:</strong> PyTorch, TensorFlow, Keras, Scikit-learn, Pandas, Networkx. </li>
+      <li><strong>Machine Learning Frameworks:</strong> PyTorch, TensorFlow, Keras, Scikit-learn, Pandas, NetworkX. </li>
+      <li><strong>Molecular Modeling:</strong> Molecular dynamics simulations, molecular representations, and AI-driven molecular design. </li>
       <li><strong>Frontend Development:</strong> React.js, Next.js. </li>
       <li><strong>DevOps and Containerization:</strong> Docker, Kubernetes. </li>
       <li><strong>Web Mapping:</strong> Mapbox. </li>
@@ -77,8 +79,7 @@ lng_pair: id_group
       <li><strong>Operating Systems:</strong> Linux, Windows, MacOS. </li>
     </ul>
     <div style="height: 6px;"></div>
-    <strong>Email1: maburidi@ucmerced.edu</strong> <br>
-    <strong>Email2: maburidi@gmail.com</strong> 
+    <strong>Email: maburidi@gmail.com</strong> 
 
   </div>
   <div style="float: left; width: 20%;">
@@ -92,5 +93,4 @@ lng_pair: id_group
 
 <div style="height: 20px;"></div>
 <div style="height: 20px;"></div>
-
 
