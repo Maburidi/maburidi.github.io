@@ -112,16 +112,20 @@ img: ":home-heading.jpg"
 
 <h5> 2026 </h5> 
 <ul>
-  <li> <span style="color: darkgreen;">September 2026: </span> Submitted <strong>Mohammed Aburidi and Yang Zhang.</strong> LNPHub: A Multimodal Data Foundation for AI-Driven Lipid Nanoparticle Discovery in Nucleic Acid Therapeutics. <em>Nature Communications</em>. </li>
+  <li> <span style="color: darkgreen;">September 2026: </span> Submitted <strong>Mohammed Aburidi</strong> and Yang Zhang. LNPHub: A Multimodal Data Foundation for AI-Driven Lipid Nanoparticle Discovery in Nucleic Acid Therapeutics. <em>Nature Communications</em>. </li>
   <li> <span style="color: darkgreen;">September 2026: </span> Code development update: <a href="https://github.com/Maburidi/lnphub"><strong>lnphub</strong></a>, a Python package for lipid nanoparticles for mRNA drug delivery, is under active development. </li>
   <li> <span style="color: darkgreen;">September 2026: </span> Code development update: <a href="https://zhanggroup.org/lnphub/"><strong>LNPHub</strong></a>, a web app for lipid nanoparticles for mRNA drug delivery, is under active development. </li>
+  <li> <span style="color: darkgreen;">2026: </span> Added publication: <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=lGKFtoIAAAAJ&amp;sortby=pubdate&amp;citation_for_view=lGKFtoIAAAAJ:ULOm3_A8WrAC">"Predicting Cancer Cell Line-Drug Responses over Signal Network Profiles via Optimal Transport"</a> by A. Li, <strong>M. Aburidi</strong>, and R. Marcia, ICASSP 2026. </li>
   <li> <span style="color: darkgreen;">January 01, 2026: </span> Started a new postdoctoral research position in Prof. Yang Zhang’s group at the National University of Singapore, focusing on AI-driven molecular modeling, lipid nanoparticle discovery, and drug delivery. </li>
 </ul>
 
 <h5> 2025 </h5>
 <ul>
-  <li> <span style="color: darkgreen;">2025: </span> Submitted <strong>K. R. Wright, M. J. Aburidi, D. E. Rheinheimer, G. F. Dourado, and J. H. Viers.</strong> "Water System Simulation Modeling with Hydropower Optimization and Environmental Flows: An Example with Pywr" to <em>PLOS Water</em>. </li>
-  <li> <span style="color: darkgreen;">February 2025: </span> Our paper, <strong>A. Li, M. J. Aburidi, and R. Marcia.</strong> "Defending Graph Neural Networks Against Adversarial Attacks via Symmetric Matrix Factorization," was published in the 2025 Conference on Artificial Intelligence x Multimedia (AIxMM). </li>
+  <li> <span style="color: darkgreen;">2025: </span> Submitted K. R. Wright, <strong>M. J. Aburidi</strong>, D. E. Rheinheimer, G. F. Dourado, and J. H. Viers. "Water System Simulation Modeling with Hydropower Optimization and Environmental Flows: An Example with Pywr" to <em>PLOS Water</em>. </li>
+  <li> <span style="color: darkgreen;">2025: </span> Added publication: <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=lGKFtoIAAAAJ&amp;sortby=pubdate&amp;citation_for_view=lGKFtoIAAAAJ:KlAtU1dfN6UC">"Interpretable Drug Response Prediction via Optimal Transport-Guided Importance of Drug-Gene Relationships"</a> by <strong>M. Aburidi</strong>, <em>Chem-Bio Informatics Journal</em>, 25, 36-52. </li>
+  <li> <span style="color: darkgreen;">2025: </span> Added publication: <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=lGKFtoIAAAAJ&amp;sortby=pubdate&amp;citation_for_view=lGKFtoIAAAAJ:Zph67rFs4hoC">"Triple Matrix Factorization for Drug-Drug Interaction Prediction Using Fused Gromov-Wasserstein Distances"</a> by S. Malone, <strong>M. Aburidi</strong>, and R. F. Marcia, IEEE EMBC 2025. </li>
+  <li> <span style="color: darkgreen;">2025: </span> Added publication: <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=lGKFtoIAAAAJ&amp;sortby=pubdate&amp;citation_for_view=lGKFtoIAAAAJ:8k81kl-MbHgC">"Deep Unrolled Weighted Low-Rank Approximation for High Dynamic Range Imaging"</a> by <strong>M. Aburidi</strong> and R. Marcia, AIxMM 2025, 19-27. </li>
+  <li> <span style="color: darkgreen;">February 2025: </span> Our paper, <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=lGKFtoIAAAAJ&amp;sortby=pubdate&amp;citation_for_view=lGKFtoIAAAAJ:0EnyYjriUFMC">"Defending Graph Neural Networks Against Adversarial Attacks via Symmetric Matrix Factorization"</a> by <strong>M. Aburidi</strong> and R. Marcia, was published in the 2025 Conference on Artificial Intelligence x Multimedia (AIxMM), 55-61. </li>
 </ul>
 
 <h5> 2024 </h5> 
@@ -176,7 +180,6 @@ img: ":home-heading.jpg"
    
   <li> <span style="color: darkgreen;"> March 10, 2023:   </span> A paper is accepted for presentation at the <a href="https://memea2023.ieee-ims.org/"> [IEEE MeMeA 2023] </a> </li> 
 </ul>
-
 
 
 

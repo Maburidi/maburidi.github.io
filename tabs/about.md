@@ -41,7 +41,8 @@ Interested in my AI-related research, software development, coding, or have a qu
 <div style="height: 20px;"></div>
 
 <div>
-  <p><strong style="color: green;">Email:</strong> <a href="mailto:maburidi@nuc.edu.sg">maburidi@nuc.edu.sg</a></p>
+  <p><strong style="color: green;">Email-1:</strong> <a href="mailto:maburidi@nus.edu.sg">maburidi@nus.edu.sg</a></p>
+  <p><strong style="color: green;">Email-2:</strong> <a href="mailto:maburidi@gmail.com">maburidi@gmail.com</a></p>
   <p><strong style="color: green;">Phone:</strong> 006084355648</p>
   <p><strong style="color: green;">WhatsApp:</strong> 0013809001161</p> 
 
